@@ -137,6 +137,7 @@ class PatchSuggestion:
     
     # Technical implementation
     lua_code: str = ""
+    settings_code: str = ""  # Mod settings code
     json_data: Dict[str, Any] = field(default_factory=dict)
     
     # Impact assessment
@@ -153,6 +154,7 @@ class PatchSuggestion:
             'patch_type': self.patch_type,
             'description': self.description,
             'lua_code': self.lua_code,
+            'settings_code': self.settings_code,
             'json_data': self.json_data,
             'estimated_impact': self.estimated_impact.value,
             'side_effects': self.side_effects

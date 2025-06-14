@@ -1,0 +1,36 @@
+# Recipes from bzlead
+# Total recipes: 2
+============================================================
+
+## Recipe: decompress-lead-plate
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by bzlead:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'decompress-lead-plate', 'modifications': {'order': '"d[lead-plate]"', 'icons': '{{ icon = "__bzlead__/graphics/icons/lead-plate.png", icon_size = 64 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzlead'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'decompress-lead-plate', 'modifications': {'order': '"d[lead-plate]"', 'icons': '{{ icon = "__bzlead__/graphics/icons/lead-plate.png", icon_size = 64 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzlead'}
+    New Value: {'type': 'recipe', 'name': 'decompress-lead-plate', 'icons': '{{ icon = "__bzlead__/graphics/icons/lead-plate.png", icon_size = 64 }}', 'modified_by': 'bzlead'}
+
+## Recipe: smelt-compressed-lead-ore
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by bzlead:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'smelt-compressed-lead-ore', 'modifications': {'order': '"d[lead-plate]"', 'icons': '{{ icon = "__bzlead__/graphics/icons/lead-plate.png", icon_size = 64 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzlead'}
+

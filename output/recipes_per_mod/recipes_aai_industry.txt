@@ -1,0 +1,22 @@
+# Recipes from aai-industry
+# Total recipes: 1
+============================================================
+
+## Recipe: electronic-circuit
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by aai-industry:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'electronic-circuit', 'modifications': {'order': 'data.raw.item["electronic-circuit"].order .. "-a" -- Main', 'localised_name': '{"item-name.electronic-circuit"}', 'allow_productivity': 'true'}, 'modified_by': 'aai-industry'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'electronic-circuit', 'modifications': {'order': 'data.raw.item["electronic-circuit"].order .. "-a" -- Main', 'localised_name': '{"item-name.electronic-circuit"}', 'allow_productivity': 'true'}, 'modified_by': 'aai-industry'}
+    New Value: {'type': 'recipe', 'name': 'electronic-circuit', 'localised_name': '{"item-name.electronic-circuit"}', 'modified_by': 'aai-industry'}
+

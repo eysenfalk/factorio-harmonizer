@@ -1,0 +1,20 @@
+{
+  "name": "factorio-harmonizer-patch",
+  "version": "1.0.0",
+  "title": "Factorio Harmonizer Compatibility Patch",
+  "description": "Auto-generated compatibility patch resolving 713 conflicts",
+  "contact": "https://github.com/factorio-harmonizer/factorio-harmonizer",
+  "homepage": "https://github.com/factorio-harmonizer/factorio-harmonizer",
+  "author": "Factorio Harmonizer",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.47",
+    "space-age >= 2.0.47",
+    "quality >= 2.0.47"
+  ],
+  "quality_required": true,
+  "space_travel_required": true,
+  "spoiling_required": true,
+  "freezing_required": true,
+  "segmented_units_required": true
+}

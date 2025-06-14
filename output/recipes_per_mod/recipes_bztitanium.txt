@@ -1,0 +1,38 @@
+# Recipes from bztitanium
+# Total recipes: 2
+============================================================
+
+## Recipe: decompress-titanium-plate
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients:
+  - compressed-titanium-ore: 5
+  - compressed-titanium-ore: 5
+Results: None specified
+Modifications by bztitanium:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'decompress-titanium-plate', 'modifications': {'order': '"d[titanium-plate]"', 'ingredients': [{'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}, {'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}]}, 'modified_by': 'bztitanium'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'decompress-titanium-plate', 'modifications': {'order': '"d[titanium-plate]"', 'ingredients': [{'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}, {'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}]}, 'modified_by': 'bztitanium'}
+    New Value: {'type': 'recipe', 'name': 'decompress-titanium-plate', 'ingredients': [{'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}, {'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}], 'modified_by': 'bztitanium'}
+
+## Recipe: smelt-compressed-titanium-ore
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by bztitanium:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'smelt-compressed-titanium-ore', 'modifications': {'order': '"d[titanium-plate]"', 'ingredients': [{'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}, {'type': 'item', 'name': 'compressed-titanium-ore', 'amount': 5}]}, 'modified_by': 'bztitanium'}
+

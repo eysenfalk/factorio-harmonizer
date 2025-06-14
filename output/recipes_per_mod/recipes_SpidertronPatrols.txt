@@ -1,0 +1,62 @@
+# Recipes from SpidertronPatrols
+# Total recipes: 3
+============================================================
+
+## Recipe: nullius-mecha-remote
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients:
+  - nullius-processor-1: 2
+  - nullius-scout-remote: 1
+  - nullius-processor-1: 2
+  - nullius-scout-remote: 1
+Results: None specified
+Modifications by SpidertronPatrols:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'nullius-mecha-remote', 'ingredients': [{'type': 'item', 'name': 'nullius-processor-1', 'amount': 2}, {'type': 'item', 'name': 'nullius-scout-remote', 'amount': 1}, {'type': 'item', 'name': 'nullius-processor-1', 'amount': 2}, {'type': 'item', 'name': 'nullius-scout-remote', 'amount': 1}], 'modified_by': 'SpidertronPatrols'}
+
+## Recipe: sp-spiderling
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients:
+  - nullius-large-chest-2: 2
+  - nullius-sensor-2: 1
+  - nullius-large-chest-2: 2
+  - nullius-sensor-2: 1
+Results: None specified
+Modifications by SpidertronPatrols:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'sp-spiderling', 'modifications': {'group': '"equipment"', 'subgroup': '"vehicle"', 'order': '"nullius-dh"', 'category': 'medium-crafting', 'energy_required': '60'}, 'modified_by': 'SpidertronPatrols'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'sp-spiderling', 'modifications': {'group': '"equipment"', 'subgroup': '"vehicle"', 'order': '"nullius-dh"', 'category': 'medium-crafting', 'energy_required': '60'}, 'modified_by': 'SpidertronPatrols'}
+    New Value: {'type': 'recipe', 'name': 'sp-spiderling', 'ingredients': [{'type': 'item', 'name': 'nullius-car-2', 'amount': 1}, {'type': 'item', 'name': 'nullius-solar-panel-1', 'amount': 8}, {'type': 'item', 'name': 'nullius-grid-battery-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-quadrupedal-adaptation-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-efficiency-module-2', 'amount': 2}, {'type': 'item', 'name': 'nullius-car-2', 'amount': 1}, {'type': 'item', 'name': 'nullius-solar-panel-1', 'amount': 8}, {'type': 'item', 'name': 'nullius-grid-battery-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-quadrupedal-adaptation-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-efficiency-module-2', 'amount': 2}], 'modified_by': 'SpidertronPatrols'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'sp-spiderling', 'ingredients': [{'type': 'item', 'name': 'nullius-car-2', 'amount': 1}, {'type': 'item', 'name': 'nullius-solar-panel-1', 'amount': 8}, {'type': 'item', 'name': 'nullius-grid-battery-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-quadrupedal-adaptation-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-efficiency-module-2', 'amount': 2}, {'type': 'item', 'name': 'nullius-car-2', 'amount': 1}, {'type': 'item', 'name': 'nullius-solar-panel-1', 'amount': 8}, {'type': 'item', 'name': 'nullius-grid-battery-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-quadrupedal-adaptation-1', 'amount': 4}, {'type': 'item', 'name': 'nullius-efficiency-module-2', 'amount': 2}], 'modified_by': 'SpidertronPatrols'}
+    New Value: {'type': 'recipe', 'name': 'sp-spiderling', 'ingredients': [{'type': 'item', 'name': 'nullius-large-chest-2', 'amount': 2}, {'type': 'item', 'name': 'nullius-sensor-2', 'amount': 1}, {'type': 'item', 'name': 'nullius-large-chest-2', 'amount': 2}, {'type': 'item', 'name': 'nullius-sensor-2', 'amount': 1}], 'modified_by': 'SpidertronPatrols'}
+
+## Recipe: sp-spidertron-dock
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by SpidertronPatrols:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'sp-spidertron-dock', 'modifications': {'group': '"equipment"', 'subgroup': '"vehicle"', 'order': '"nullius-dh"', 'category': 'medium-crafting', 'energy_required': '60'}, 'modified_by': 'SpidertronPatrols'}
+

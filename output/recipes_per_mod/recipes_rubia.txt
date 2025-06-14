@@ -1,0 +1,32 @@
+# Recipes from rubia
+# Total recipes: 2
+============================================================
+
+## Recipe: iron-bacteria-cultivation
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by rubia:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'iron-bacteria-cultivation', 'modifications': {'surface_conditions': 'nil end'}, 'modified_by': 'rubia'}
+
+## Recipe: rci-rocketizer
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by rubia:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'rci-rocketizer', 'modifications': {'localised_description': 'rocketizer_description', 'auto_recycle': 'false'}, 'modified_by': 'rubia'}
+

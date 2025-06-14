@@ -43,23 +43,109 @@ class ConflictVisualizer:
         lines.append(f"Low Priority Issues: {report.low_issues}")
         lines.append("")
         
-        # Critical Issues Detail
-        critical_issues = report.get_critical_issues()
-        if critical_issues:
-            lines.append("🚨 CRITICAL ISSUES REQUIRING IMMEDIATE ATTENTION")
-            lines.append("-" * 50)
+        # All Issues Detail (grouped by severity)
+        all_issues = report.all_issues
+        if all_issues:
+            # Group issues by type and severity for better organization
+            recipe_issues = []
+            research_issues = []
+            other_issues = []
             
-            for i, issue in enumerate(critical_issues, 1):
-                lines.append(f"{i}. {issue.title}")
-                lines.append(f"   Severity: {issue.severity.value.upper()}")
-                lines.append(f"   Affected: {', '.join(issue.affected_prototypes)}")
-                lines.append(f"   Conflicting Mods: {' → '.join(issue.conflicting_mods)}")
-                lines.append(f"   Problem: {issue.description}")
-                lines.append(f"   Root Cause: {issue.root_cause}")
-                lines.append("   Suggested Solutions:")
-                for fix in issue.suggested_fixes:
-                    lines.append(f"     • {fix}")
-                lines.append("")
+            for issue in all_issues:
+                if any("recipe." in proto for proto in issue.affected_prototypes):
+                    recipe_issues.append(issue)
+                elif any("technology." in proto for proto in issue.affected_prototypes):
+                    research_issues.append(issue)
+                else:
+                    other_issues.append(issue)
+            
+            # Sort by severity (critical first, then high, medium, low)
+            severity_order = [ConflictSeverity.CRITICAL, ConflictSeverity.HIGH, ConflictSeverity.MEDIUM, ConflictSeverity.LOW]
+            recipe_issues.sort(key=lambda x: severity_order.index(x.severity) if x.severity in severity_order else 999)
+            research_issues.sort(key=lambda x: severity_order.index(x.severity) if x.severity in severity_order else 999)
+            other_issues.sort(key=lambda x: severity_order.index(x.severity) if x.severity in severity_order else 999)
+            
+            # Show Recipe Conflicts (sorted by priority)
+            if recipe_issues:
+                lines.append("🍳 RECIPE CONFLICTS (Sorted by Priority)")
+                lines.append("=" * 45)
+                
+                for i, issue in enumerate(recipe_issues, 1):
+                    severity_icon = {
+                        ConflictSeverity.CRITICAL: "🚨",
+                        ConflictSeverity.HIGH: "🔶", 
+                        ConflictSeverity.MEDIUM: "📋",
+                        ConflictSeverity.LOW: "ℹ️"
+                    }.get(issue.severity, "❓")
+                    
+                    lines.append(f"{i}. {severity_icon} {issue.title}")
+                    lines.append(f"   Severity: {issue.severity.value.upper()}")
+                    lines.append(f"   Affected: {', '.join(issue.affected_prototypes)}")
+                    lines.append(f"   Conflicting Mods: {' → '.join(issue.conflicting_mods)}")
+                    lines.append(f"   Problem: {issue.description}")
+                    lines.append(f"   Root Cause: {issue.root_cause}")
+                    
+                    # Add recipe visualization for affected prototypes
+                    for prototype_key in issue.affected_prototypes:
+                        if prototype_key in report.prototype_analyses:
+                            analysis = report.prototype_analyses[prototype_key]
+                            recipe_info = self._get_recipe_visualization(prototype_key, analysis, report)
+                            if recipe_info:
+                                lines.append(f"   📋 Recipe Details:")
+                                lines.extend([f"     {line}" for line in recipe_info])
+                    
+                    lines.append("   Suggested Solutions:")
+                    for fix in issue.suggested_fixes:
+                        lines.append(f"     • {fix}")
+                    lines.append("")
+            
+            # Show Research Conflicts (sorted by priority)  
+            if research_issues:
+                lines.append("🔬 RESEARCH CONFLICTS (Sorted by Priority)")
+                lines.append("=" * 45)
+                
+                for i, issue in enumerate(research_issues, 1):
+                    severity_icon = {
+                        ConflictSeverity.CRITICAL: "🚨",
+                        ConflictSeverity.HIGH: "🔶",
+                        ConflictSeverity.MEDIUM: "📋", 
+                        ConflictSeverity.LOW: "ℹ️"
+                    }.get(issue.severity, "❓")
+                    
+                    lines.append(f"{i}. {severity_icon} {issue.title}")
+                    lines.append(f"   Severity: {issue.severity.value.upper()}")
+                    lines.append(f"   Affected: {', '.join(issue.affected_prototypes)}")
+                    lines.append(f"   Conflicting Mods: {' → '.join(issue.conflicting_mods)}")
+                    lines.append(f"   Problem: {issue.description}")
+                    lines.append(f"   Root Cause: {issue.root_cause}")
+                    lines.append("   Suggested Solutions:")
+                    for fix in issue.suggested_fixes:
+                        lines.append(f"     • {fix}")
+                    lines.append("")
+            
+            # Show Other Conflicts (sorted by priority)
+            if other_issues:
+                lines.append("⚙️ OTHER CONFLICTS (Sorted by Priority)")
+                lines.append("=" * 40)
+                
+                for i, issue in enumerate(other_issues, 1):
+                    severity_icon = {
+                        ConflictSeverity.CRITICAL: "🚨",
+                        ConflictSeverity.HIGH: "🔶",
+                        ConflictSeverity.MEDIUM: "📋",
+                        ConflictSeverity.LOW: "ℹ️"
+                    }.get(issue.severity, "❓")
+                    
+                    lines.append(f"{i}. {severity_icon} {issue.title}")
+                    lines.append(f"   Severity: {issue.severity.value.upper()}")
+                    lines.append(f"   Affected: {', '.join(issue.affected_prototypes)}")
+                    lines.append(f"   Conflicting Mods: {' → '.join(issue.conflicting_mods)}")
+                    lines.append(f"   Problem: {issue.description}")
+                    lines.append(f"   Root Cause: {issue.root_cause}")
+                    lines.append("   Suggested Solutions:")
+                    for fix in issue.suggested_fixes:
+                        lines.append(f"     • {fix}")
+                    lines.append("")
         
         # Patch Solutions
         if patches:
@@ -124,9 +210,21 @@ class ConflictVisualizer:
                 "name": mod_name,
                 "version": "1.0.0",
                 "title": "Factorio Harmonizer Compatibility Patch",
-                "author": "Factorio Harmonizer",
                 "description": f"Auto-generated compatibility patch resolving {len(mod_patches)} conflicts",
-                "dependencies": ["base"]
+                "contact": "https://github.com/factorio-harmonizer/factorio-harmonizer",
+                "homepage": "https://github.com/factorio-harmonizer/factorio-harmonizer",
+                "author": "Factorio Harmonizer",
+                "factorio_version": "2.0",
+                "dependencies": [
+                    "base >= 2.0.47",
+                    "space-age >= 2.0.47",
+                    "quality >= 2.0.47"
+                ],
+                "quality_required": True,
+                "space_travel_required": True,
+                "spoiling_required": True,
+                "freezing_required": True,
+                "segmented_units_required": True
             }
             
             info_file = mod_dir / "info.json"
@@ -165,6 +263,55 @@ class ConflictVisualizer:
         
         self.logger.info(f"Generated {len(created_files)} patch files in {output_dir}")
         return created_files
+    
+    def _get_recipe_visualization(self, prototype_key: str, analysis, report: ModCompatibilityReport) -> List[str]:
+        """Generate a visual representation of how a recipe looks in different mods"""
+        lines = []
+        
+        prototype_type, prototype_name = parse_prototype_key(prototype_key)
+        
+        if prototype_type != "recipe":
+            return lines
+        
+        # Check if this is a mod recipe conflict with stored mod recipes
+        for issue in report.all_issues:
+            if prototype_key in issue.affected_prototypes and "mod_recipes" in issue.old_values:
+                mod_recipes = issue.old_values["mod_recipes"]
+                
+                lines.append(f"📋 Recipe Versions by Mod:")
+                for mod_name, ingredients in mod_recipes.items():
+                    if ingredients:
+                        ingredient_strs = []
+                        for ingredient in ingredients:
+                            if isinstance(ingredient, dict):
+                                name = ingredient.get('name', 'unknown')
+                                amount = ingredient.get('amount', 1)
+                                amount_str = f" x{amount}" if amount > 1 else ""
+                                ingredient_strs.append(f"{name}{amount_str}")
+                            else:
+                                ingredient_strs.append(str(ingredient))
+                        
+                        lines.append(f"  🔧 {mod_name}: {' + '.join(ingredient_strs)} → {prototype_name}")
+                
+                return lines
+        
+        # Fallback to dependency analysis if no mod recipes stored
+        if hasattr(analysis, 'dependencies') and analysis.dependencies:
+            # Show current recipe ingredients
+            ingredients = []
+            for dep in analysis.dependencies:
+                if dep.dependency_type.value == "recipe_ingredient":
+                    amount = f" x{dep.amount}" if dep.amount and dep.amount > 1 else ""
+                    ingredients.append(f"{dep.target_name}{amount}")
+            
+            if ingredients:
+                lines.append(f"Current Recipe: {' + '.join(ingredients)} → {prototype_name}")
+        
+        # Show which mods modified this recipe
+        if hasattr(analysis, 'modifying_mods') and analysis.modifying_mods:
+            lines.append(f"Modified by: {', '.join(analysis.modifying_mods)}")
+        
+        return lines
 
 # Test function
 def test_visualizer():

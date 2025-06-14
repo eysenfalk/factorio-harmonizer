@@ -1,0 +1,36 @@
+# Recipes from bzzirconium
+# Total recipes: 2
+============================================================
+
+## Recipe: decompress-tungsten-plate
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by bzzirconium:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'decompress-tungsten-plate', 'modifications': {'order': '"d[tungsten-plate]"', 'icons': '{{ icon = "__bztungsten__/graphics/icons/tungsten-plate.png", icon_size = 128 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzzirconium'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'decompress-tungsten-plate', 'modifications': {'order': '"d[tungsten-plate]"', 'icons': '{{ icon = "__bztungsten__/graphics/icons/tungsten-plate.png", icon_size = 128 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzzirconium'}
+    New Value: {'type': 'recipe', 'name': 'decompress-tungsten-plate', 'icons': '{{ icon = "__bztungsten__/graphics/icons/tungsten-plate.png", icon_size = 128 }}', 'modified_by': 'bzzirconium'}
+
+## Recipe: smelt-compressed-tungsten-ore
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by bzzirconium:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'smelt-compressed-tungsten-ore', 'modifications': {'order': '"d[tungsten-plate]"', 'icons': '{{ icon = "__bztungsten__/graphics/icons/tungsten-plate.png", icon_size = 128 }}', 'subgroup': '"raw-material"'}, 'modified_by': 'bzzirconium'}
+

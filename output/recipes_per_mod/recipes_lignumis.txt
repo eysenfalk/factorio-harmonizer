@@ -1,0 +1,66 @@
+# Recipes from lignumis
+# Total recipes: 3
+============================================================
+
+## Recipe: burner-inserter
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients:
+  - wooden-gear-wheel: 1
+  - lumber: 1
+  - wooden-gear-wheel: 1
+  - lumber: 1
+Results: None specified
+Modifications by lignumis:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'burner-inserter', 'modifications': {'category': 'wood-processing-or-assembling'}, 'modified_by': 'lignumis'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'burner-inserter', 'modifications': {'category': 'wood-processing-or-assembling'}, 'modified_by': 'lignumis'}
+    New Value: {'type': 'recipe', 'name': 'burner-inserter', 'ingredients': [{'type': 'item', 'name': 'wooden-gear-wheel', 'amount': 1}, {'type': 'item', 'name': 'lumber', 'amount': 1}, {'type': 'item', 'name': 'wooden-gear-wheel', 'amount': 1}, {'type': 'item', 'name': 'lumber', 'amount': 1}], 'modified_by': 'lignumis'}
+
+## Recipe: wood-processing
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by lignumis:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'wood-processing', 'modifications': {'icon': 'data.raw.item["tree-seed"].icon'}, 'modified_by': 'lignumis'}
+
+## Recipe: wooden-wall
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients:
+  - lumber: 4
+  - lumber: 4
+Results:
+  - wooden-wall: 1
+  - wooden-wall: 1
+Modifications by lignumis:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'wooden-wall', 'modifications': {'ingredients': [{'type': 'item', 'name': 'lumber', 'amount': 4}, {'type': 'item', 'name': 'lumber', 'amount': 4}], 'results': [{'type': 'item', 'name': 'wooden-wall', 'amount': 1}, {'type': 'item', 'name': 'wooden-wall', 'amount': 1}], 'category': 'wood-processing-or-assembling'}, 'modified_by': 'lignumis'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'wooden-wall', 'modifications': {'ingredients': [{'type': 'item', 'name': 'lumber', 'amount': 4}, {'type': 'item', 'name': 'lumber', 'amount': 4}], 'results': [{'type': 'item', 'name': 'wooden-wall', 'amount': 1}, {'type': 'item', 'name': 'wooden-wall', 'amount': 1}], 'category': 'wood-processing-or-assembling'}, 'modified_by': 'lignumis'}
+    New Value: {'type': 'recipe', 'name': 'wooden-wall', 'ingredients': [{'type': 'item', 'name': 'lumber', 'amount': 4}, {'type': 'item', 'name': 'lumber', 'amount': 4}], 'modified_by': 'lignumis'}
+  - Field: 
+    Operation: overwrite
+    Old Value: {'type': 'recipe', 'name': 'wooden-wall', 'ingredients': [{'type': 'item', 'name': 'lumber', 'amount': 4}, {'type': 'item', 'name': 'lumber', 'amount': 4}], 'modified_by': 'lignumis'}
+    New Value: {'type': 'recipe', 'name': 'wooden-wall', 'results': [{'type': 'item', 'name': 'wooden-wall', 'amount': 1}, {'type': 'item', 'name': 'wooden-wall', 'amount': 1}], 'modified_by': 'lignumis'}
+

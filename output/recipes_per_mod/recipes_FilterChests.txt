@@ -1,0 +1,18 @@
+# Recipes from FilterChests
+# Total recipes: 1
+============================================================
+
+## Recipe: fc-filter-steel-chest
+----------------------------------------
+Type: recipe
+Category: crafting
+Energy Required: 0.5
+Enabled: True
+Ingredients: None specified
+Results: None specified
+Modifications by FilterChests:
+  - Field: 
+    Operation: create
+    Old Value: None
+    New Value: {'type': 'recipe', 'name': 'fc-filter-steel-chest', 'modifications': {'ingredients': [{'type': 'item', 'name': 'electronic-circuit', 'amount': 3}]}, 'modified_by': 'FilterChests', 'operation': 'insert'}
+
