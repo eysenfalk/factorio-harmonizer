@@ -1,0 +1,1901 @@
+2025-06-14 10:55:01,501 - INFO - Logging to: logs\mod_discovery_20250614_105501.log
+2025-06-14 10:55:01,502 - INFO - Testing with actual Factorio mods directory...
+2025-06-14 10:55:01,502 - INFO - Scanning for mods in: C:\Users\eysen\AppData\Roaming\Factorio\mods
+2025-06-14 10:55:01,503 - INFO - Found zipped mod: aai-containers
+2025-06-14 10:55:01,504 - INFO - Found zipped mod: aai-industry
+2025-06-14 10:55:01,504 - INFO - Found zipped mod: aai-loaders-sane
+2025-06-14 10:55:01,505 - INFO - Found zipped mod: aai-loaders
+2025-06-14 10:55:01,505 - INFO - Found zipped mod: aai-programmable-structures
+2025-06-14 10:55:01,516 - INFO - Found zipped mod: aai-programmable-vehicles
+2025-06-14 10:55:01,516 - INFO - Found zipped mod: aai-signal-transmission
+2025-06-14 10:55:01,516 - INFO - Found zipped mod: aai-signals
+2025-06-14 10:55:01,517 - INFO - Found zipped mod: aai-vehicles-chaingunner
+2025-06-14 10:55:01,517 - INFO - Found zipped mod: aai-vehicles-flame-tank
+2025-06-14 10:55:01,517 - INFO - Found zipped mod: aai-vehicles-flame-tumbler
+2025-06-14 10:55:01,518 - INFO - Found zipped mod: aai-vehicles-hauler
+2025-06-14 10:55:01,518 - INFO - Found zipped mod: aai-vehicles-ironclad
+2025-06-14 10:55:01,518 - INFO - Found zipped mod: aai-vehicles-laser-tank
+2025-06-14 10:55:01,519 - INFO - Found zipped mod: aai-vehicles-miner
+2025-06-14 10:55:01,519 - INFO - Found zipped mod: aai-vehicles-warden
+2025-06-14 10:55:01,520 - INFO - Found zipped mod: aai-zones
+2025-06-14 10:55:01,521 - INFO - Found zipped mod: AbandonedRuins20
+2025-06-14 10:55:01,521 - INFO - Found zipped mod: advanced-centrifuge
+2025-06-14 10:55:01,522 - INFO - Found zipped mod: advanced_target_priorities
+2025-06-14 10:55:01,523 - INFO - Found zipped mod: Age-of-Production-Graphics
+2025-06-14 10:55:01,523 - INFO - Found zipped mod: Age-of-Production
+2025-06-14 10:55:01,524 - INFO - Found zipped mod: Aircraft-space-age
+2025-06-14 10:55:01,526 - INFO - Found zipped mod: AircraftRealism
+2025-06-14 10:55:01,527 - INFO - Found zipped mod: Aircraft
+2025-06-14 10:55:01,532 - INFO - Found zipped mod: alien-biomes-graphics
+2025-06-14 10:55:01,532 - INFO - Found zipped mod: alien-biomes
+2025-06-14 10:55:01,532 - INFO - Found zipped mod: alien-module
+2025-06-14 10:55:01,533 - INFO - Found zipped mod: alk-quality-names
+2025-06-14 10:55:01,533 - INFO - Found zipped mod: alloy-smelting
+2025-06-14 10:55:01,534 - INFO - Found zipped mod: any-planet-start
+2025-06-14 10:55:01,534 - INFO - Found zipped mod: aquilo-seabloom-algaculture
+2025-06-14 10:55:01,535 - INFO - Found zipped mod: Armored-train
+2025-06-14 10:55:01,535 - INFO - Found zipped mod: ArmouredBiters
+2025-06-14 10:55:01,536 - INFO - Found zipped mod: astroponics
+2025-06-14 10:55:01,536 - INFO - Found zipped mod: atan-nuclear-science
+2025-06-14 10:55:01,536 - INFO - Found zipped mod: atomic-artillery-reborn
+2025-06-14 10:55:01,537 - INFO - Found zipped mod: AutoDeconstruct
+2025-06-14 10:55:01,537 - INFO - Found zipped mod: automatic-underground-pipe-connectors
+2025-06-14 10:55:01,538 - INFO - Found zipped mod: Automatic_Train_Painter
+2025-06-14 10:55:01,538 - INFO - Found zipped mod: ballistic_missile
+2025-06-14 10:55:01,538 - INFO - Found zipped mod: beacon-interface
+2025-06-14 10:55:01,539 - INFO - Found zipped mod: belt-visualizer
+2025-06-14 10:55:01,539 - INFO - Found zipped mod: Better_Starmap_Background
+2025-06-14 10:55:01,539 - INFO - Found zipped mod: BigBags
+2025-06-14 10:55:01,540 - INFO - Found zipped mod: bigger-artillery
+2025-06-14 10:55:01,540 - INFO - Found zipped mod: biochemistry
+2025-06-14 10:55:01,540 - INFO - Found zipped mod: bioprocessing-tab
+2025-06-14 10:55:01,541 - INFO - Found zipped mod: blueprint-sandboxes
+2025-06-14 10:55:01,541 - INFO - Found zipped mod: BlueprintTools
+2025-06-14 10:55:01,542 - INFO - Found zipped mod: bobassembly
+2025-06-14 10:55:01,542 - INFO - Found zipped mod: bobelectronics
+2025-06-14 10:55:01,543 - INFO - Found zipped mod: bobenemies
+2025-06-14 10:55:01,543 - INFO - Found zipped mod: bobequipment
+2025-06-14 10:55:01,544 - INFO - Found zipped mod: bobgreenhouse
+2025-06-14 10:55:01,544 - INFO - Found zipped mod: bobinserters
+2025-06-14 10:55:01,545 - INFO - Found zipped mod: boblibrary
+2025-06-14 10:55:01,547 - INFO - Found zipped mod: boblogistics
+2025-06-14 10:55:01,548 - INFO - Found zipped mod: bobmining
+2025-06-14 10:55:01,548 - INFO - Found zipped mod: bobmodules
+2025-06-14 10:55:01,549 - INFO - Found zipped mod: bobores
+2025-06-14 10:55:01,550 - INFO - Found zipped mod: bobplates
+2025-06-14 10:55:01,551 - INFO - Found zipped mod: bobpower
+2025-06-14 10:55:01,551 - INFO - Found zipped mod: bobrevamp
+2025-06-14 10:55:01,552 - INFO - Found zipped mod: bobtech
+2025-06-14 10:55:01,552 - INFO - Found zipped mod: bobvehicleequipment
+2025-06-14 10:55:01,553 - INFO - Found zipped mod: bobwarfare
+2025-06-14 10:55:01,554 - INFO - Found zipped mod: BottleneckLite
+2025-06-14 10:55:01,554 - INFO - Found zipped mod: Bottleneck
+2025-06-14 10:55:01,554 - INFO - Found zipped mod: bullet-trails
+2025-06-14 10:55:01,555 - INFO - Found zipped mod: Burner-Leech-Fork
+2025-06-14 10:55:01,555 - INFO - Found zipped mod: bzcarbon
+2025-06-14 10:55:01,556 - INFO - Found zipped mod: bzlead
+2025-06-14 10:55:01,557 - INFO - Found zipped mod: bzsilicon
+2025-06-14 10:55:01,557 - INFO - Found zipped mod: bztin
+2025-06-14 10:55:01,558 - INFO - Found zipped mod: bztitanium
+2025-06-14 10:55:01,558 - INFO - Found zipped mod: bzzirconium
+2025-06-14 10:55:01,558 - INFO - Found zipped mod: calculator-ui
+2025-06-14 10:55:01,559 - INFO - Found zipped mod: cargo-ships-graphics
+2025-06-14 10:55:01,560 - INFO - Found zipped mod: cargo-ships
+2025-06-14 10:55:01,561 - INFO - Found zipped mod: castra
+2025-06-14 10:55:01,561 - INFO - Found zipped mod: cerys-lunaponics
+2025-06-14 10:55:01,562 - INFO - Found zipped mod: Cerys-Moon-of-Fulgora
+2025-06-14 10:55:01,562 - INFO - Found zipped mod: cf-lib
+2025-06-14 10:55:01,563 - INFO - Found zipped mod: ChangeInserterDropLane
+2025-06-14 10:55:01,563 - INFO - Found zipped mod: CharacterModHelper
+2025-06-14 10:55:01,563 - INFO - Found zipped mod: CleanFloor
+2025-06-14 10:55:01,563 - INFO - Found zipped mod: CoalOil
+2025-06-14 10:55:01,564 - INFO - Found zipped mod: Cold_biters
+2025-06-14 10:55:01,564 - INFO - Found zipped mod: combat-mechanics-overhaul
+2025-06-14 10:55:01,565 - INFO - Found zipped mod: Common-Industries
+2025-06-14 10:55:01,565 - INFO - Found zipped mod: common-prototypes-graphics
+2025-06-14 10:55:01,565 - INFO - Found zipped mod: common-prototypes
+2025-06-14 10:55:01,566 - INFO - Found zipped mod: Content
+2025-06-14 10:55:01,567 - INFO - Found zipped mod: corrundum
+2025-06-14 10:55:01,567 - INFO - Found zipped mod: Cosmic-Social-Distancing
+2025-06-14 10:55:01,567 - INFO - Found zipped mod: craft-under-mouse
+2025-06-14 10:55:01,568 - INFO - Found zipped mod: crushing-industry-productivity-research
+2025-06-14 10:55:01,568 - INFO - Found zipped mod: crushing-industry
+2025-06-14 10:55:01,569 - INFO - Found zipped mod: cubium
+2025-06-14 10:55:01,569 - INFO - Found zipped mod: CursorEnhancements
+2025-06-14 10:55:01,570 - INFO - Found zipped mod: data-utils
+2025-06-14 10:55:01,570 - INFO - Found zipped mod: dbots-artillery-bombardment-remote
+2025-06-14 10:55:01,571 - INFO - Found zipped mod: dea-dia-system
+2025-06-14 10:55:01,571 - INFO - Found zipped mod: deadlock-beltboxes-loaders
+2025-06-14 10:55:01,572 - INFO - Found zipped mod: DeadlockStackingForVanilla
+2025-06-14 10:55:01,572 - INFO - Found zipped mod: DiscoScience
+2025-06-14 10:55:01,573 - INFO - Found zipped mod: distant-misfires
+2025-06-14 10:55:01,573 - INFO - Found zipped mod: Diversitree
+2025-06-14 10:55:01,573 - INFO - Found zipped mod: DoubleWagons
+2025-06-14 10:55:01,574 - INFO - Found zipped mod: early-agriculture
+2025-06-14 10:55:01,574 - INFO - Found zipped mod: EarlyvatedRails
+2025-06-14 10:55:01,575 - INFO - Found zipped mod: EditorExtensions
+2025-06-14 10:55:01,575 - INFO - Found zipped mod: Electric Furnaces
+2025-06-14 10:55:01,576 - INFO - Found zipped mod: Electric_flying_enemies
+2025-06-14 10:55:01,576 - INFO - Found zipped mod: elevated-pipes
+2025-06-14 10:55:01,576 - INFO - Found zipped mod: enable-all-feature-flags
+2025-06-14 10:55:01,577 - INFO - Found zipped mod: enemyracemanager
+2025-06-14 10:55:01,577 - INFO - Found zipped mod: enemyracemanager_assets
+2025-06-14 10:55:01,578 - INFO - Found zipped mod: enhanced-shadows
+2025-06-14 10:55:01,578 - INFO - Found zipped mod: equipment-gantry
+2025-06-14 10:55:01,579 - INFO - Found zipped mod: erm_libs
+2025-06-14 10:55:01,579 - INFO - Found zipped mod: erm_shared_economy
+2025-06-14 10:55:01,579 - INFO - Found zipped mod: erm_toss
+2025-06-14 10:55:01,580 - INFO - Found zipped mod: erm_toss_economy
+2025-06-14 10:55:01,581 - INFO - Found zipped mod: erm_toss_hd_assets
+2025-06-14 10:55:01,581 - INFO - Found zipped mod: erm_unit_control
+2025-06-14 10:55:01,581 - INFO - Found zipped mod: erm_zerg
+2025-06-14 10:55:01,582 - INFO - Found zipped mod: erm_zerg_economy
+2025-06-14 10:55:01,582 - INFO - Found zipped mod: erm_zerg_hd_assets
+2025-06-14 10:55:01,583 - INFO - Found zipped mod: est-tiny-storage-tank
+2025-06-14 10:55:01,583 - INFO - Found zipped mod: even-distribution
+2025-06-14 10:55:01,584 - INFO - Found zipped mod: even-pickier-dollies
+2025-06-14 10:55:01,584 - INFO - Found zipped mod: EverythingOnNauvis
+2025-06-14 10:55:01,585 - INFO - Found zipped mod: Explosive_biters
+2025-06-14 10:55:01,586 - INFO - Found zipped mod: Factorio-Tiberium
+2025-06-14 10:55:01,588 - INFO - Found zipped mod: factorio_hd_age_elevated_rails
+2025-06-14 10:55:01,588 - INFO - Found zipped mod: factorio_hd_age_quality
+2025-06-14 10:55:01,589 - INFO - Found zipped mod: factorissimo-2-notnotmelon
+2025-06-14 10:55:01,590 - INFO - Found zipped mod: factoryplanner
+2025-06-14 10:55:01,590 - INFO - Found zipped mod: FactorySearch
+2025-06-14 10:55:01,591 - INFO - Found zipped mod: far-reach
+2025-06-14 10:55:01,591 - INFO - Found zipped mod: FasterPavements
+2025-06-14 10:55:01,591 - INFO - Found zipped mod: fdsl
+2025-06-14 10:55:01,592 - INFO - Found zipped mod: FilterChests
+2025-06-14 10:55:01,592 - INFO - Found zipped mod: finely-crafted-graphics
+2025-06-14 10:55:01,592 - INFO - Found zipped mod: fire-lights
+2025-06-14 10:55:01,593 - INFO - Found zipped mod: Flare Stack
+2025-06-14 10:55:01,593 - INFO - Found zipped mod: flib
+2025-06-14 10:55:01,593 - INFO - Found zipped mod: Flow Control
+2025-06-14 10:55:01,594 - INFO - Found zipped mod: Fluid-level-indicator
+2025-06-14 10:55:01,595 - INFO - Found zipped mod: FluidMustFlow
+2025-06-14 10:55:01,595 - INFO - Found zipped mod: FluidWagonColorMask
+2025-06-14 10:55:01,595 - INFO - Found zipped mod: FNEI
+2025-06-14 10:55:01,596 - INFO - Found zipped mod: foundry-restructuring
+2025-06-14 10:55:01,596 - INFO - Found zipped mod: Fridge
+2025-06-14 10:55:01,596 - INFO - Found zipped mod: fulgora-coralmium-agriculture
+2025-06-14 10:55:01,597 - INFO - Found zipped mod: galore_lib
+2025-06-14 10:55:01,597 - INFO - Found zipped mod: ghost-counter
+2025-06-14 10:55:01,597 - INFO - Found zipped mod: gleba-reborn
+2025-06-14 10:55:01,598 - INFO - Found zipped mod: glutenfree-ltn-thought-bubble
+2025-06-14 10:55:01,598 - INFO - Found zipped mod: glutenfree-se-rocket-launch-pad-label
+2025-06-14 10:55:01,598 - INFO - Found zipped mod: grappling-gun
+2025-06-14 10:55:01,602 - INFO - Found zipped mod: GUI_Unifyer
+2025-06-14 10:55:01,603 - INFO - Found zipped mod: HelicopterRevival
+2025-06-14 10:55:01,604 - INFO - Found zipped mod: helmod
+2025-06-14 10:55:01,604 - INFO - Found zipped mod: Honk
+2025-06-14 10:55:01,605 - INFO - Found zipped mod: hot-metals
+2025-06-14 10:55:01,605 - INFO - Found zipped mod: Hovercrafts
+2025-06-14 10:55:01,606 - INFO - Found zipped mod: id-like-cliff-explosives-on-nauvis-please
+2025-06-14 10:55:01,614 - INFO - Found zipped mod: Igrys
+2025-06-14 10:55:01,614 - INFO - Found zipped mod: infinite-quality-tiers
+2025-06-14 10:55:01,615 - INFO - Found zipped mod: informatron
+2025-06-14 10:55:01,615 - INFO - Found zipped mod: inserter-throughput
+2025-06-14 10:55:01,615 - INFO - Found zipped mod: InserterFuelLeech
+2025-06-14 10:55:01,616 - INFO - Found zipped mod: InserterVisualizerLite
+2025-06-14 10:55:01,616 - INFO - Found zipped mod: interstellar-travel
+2025-06-14 10:55:01,617 - INFO - Found zipped mod: inventory-mover
+2025-06-14 10:55:01,617 - INFO - Found zipped mod: inventory-repair
+2025-06-14 10:55:01,618 - INFO - Found zipped mod: janus
+2025-06-14 10:55:01,619 - INFO - Found zipped mod: jetpack
+2025-06-14 10:55:01,620 - INFO - Found zipped mod: Krastorio2-spaced-out
+2025-06-14 10:55:01,623 - INFO - Found zipped mod: Krastorio2Assets
+2025-06-14 10:55:01,624 - INFO - Found zipped mod: Krastorio2
+2025-06-14 10:55:01,624 - INFO - Found zipped mod: kry-all-planet-mods
+2025-06-14 10:55:01,625 - INFO - Found zipped mod: kry_stdlib
+2025-06-14 10:55:01,626 - INFO - Found zipped mod: Kux-CoreLib
+2025-06-14 10:55:01,626 - INFO - Found zipped mod: Kux-GuiLib
+2025-06-14 10:55:01,627 - INFO - Found zipped mod: Kux-OrbitalIonCannon
+2025-06-14 10:55:01,627 - INFO - Found zipped mod: lane-splitters
+2025-06-14 10:55:01,627 - INFO - Found zipped mod: lex-aircraft
+2025-06-14 10:55:01,628 - INFO - Found zipped mod: Lighted-Poles-Plus
+2025-06-14 10:55:01,628 - INFO - Found zipped mod: lightorio
+2025-06-14 10:55:01,629 - INFO - Found zipped mod: lignumis-assets
+2025-06-14 10:55:01,629 - INFO - Found zipped mod: lignumis
+2025-06-14 10:55:01,630 - INFO - Found zipped mod: lilys-cubeine-asset-pack-2
+2025-06-14 10:55:01,631 - INFO - Found zipped mod: lilys-cubeine-asset-pack
+2025-06-14 10:55:01,632 - INFO - Found zipped mod: lilys-cubeine
+2025-06-14 10:55:01,632 - INFO - Found zipped mod: lilys-injector
+2025-06-14 10:55:01,633 - INFO - Found zipped mod: LogisticTrainNetwork
+2025-06-14 10:55:01,633 - INFO - Found zipped mod: long_stack_inserter
+2025-06-14 10:55:01,634 - INFO - Found zipped mod: LouderCargoWagons
+2025-06-14 10:55:01,634 - INFO - Found zipped mod: LtnManager
+2025-06-14 10:55:01,634 - INFO - Found zipped mod: LTN_Combinator_Modernized
+2025-06-14 10:55:01,635 - INFO - Found zipped mod: manual-inventory-sort
+2025-06-14 10:55:01,635 - INFO - Found zipped mod: map-tag-generator
+2025-06-14 10:55:01,636 - INFO - Found zipped mod: maraxsis
+2025-06-14 10:55:01,636 - INFO - Found zipped mod: MechanicusMiniMAX
+2025-06-14 10:55:01,637 - INFO - Found zipped mod: metal-and-stars-graphics-2
+2025-06-14 10:55:01,638 - INFO - Found zipped mod: metal-and-stars-graphics
+2025-06-14 10:55:01,639 - INFO - Found zipped mod: metal-and-stars
+2025-06-14 10:55:01,639 - INFO - Found zipped mod: mf-buildings-graphics-1
+2025-06-14 10:55:01,639 - INFO - Found zipped mod: mf-buildings
+2025-06-14 10:55:01,640 - INFO - Found zipped mod: mf-core
+2025-06-14 10:55:01,640 - INFO - Found zipped mod: mf-logistics-graphics-1
+2025-06-14 10:55:01,641 - INFO - Found zipped mod: mf-logistics
+2025-06-14 10:55:01,641 - INFO - Found zipped mod: Milestones
+2025-06-14 10:55:01,641 - INFO - Found zipped mod: miniloader-redux
+2025-06-14 10:55:01,642 - INFO - Found zipped mod: minimalist-rails
+2025-06-14 10:55:01,642 - INFO - Found zipped mod: mining-patch-planner
+2025-06-14 10:55:01,644 - INFO - Found zipped mod: Mining_Drones
+2025-06-14 10:55:01,645 - INFO - Found zipped mod: Mini_Trains
+2025-06-14 10:55:01,645 - INFO - Found zipped mod: ModuleInserterEx
+2025-06-14 10:55:01,646 - INFO - Found zipped mod: ModuleInserterSimplified
+2025-06-14 10:55:01,646 - INFO - Found zipped mod: molten-tungsten
+2025-06-14 10:55:01,646 - INFO - Found zipped mod: more-casting
+2025-06-14 10:55:01,647 - INFO - Found zipped mod: More_Ammo
+2025-06-14 10:55:01,647 - INFO - Found zipped mod: More_Repair_Packs
+2025-06-14 10:55:01,648 - INFO - Found zipped mod: Moshine-assets
+2025-06-14 10:55:01,649 - INFO - Found zipped mod: Moshine
+2025-06-14 10:55:01,649 - INFO - Found zipped mod: MouseOverConstruction
+2025-06-14 10:55:01,650 - INFO - Found zipped mod: muluna-graphics
+2025-06-14 10:55:01,651 - INFO - Found zipped mod: muluna-utility-constants
+2025-06-14 10:55:01,651 - INFO - Found zipped mod: Nanobots2
+2025-06-14 10:55:01,652 - INFO - Found zipped mod: naufulglebunusilo
+2025-06-14 10:55:01,652 - INFO - Found zipped mod: new-diagonal-inserter
+2025-06-14 10:55:01,652 - INFO - Found zipped mod: NightvisionToggles
+2025-06-14 10:55:01,653 - INFO - Found zipped mod: nixie-tubes
+2025-06-14 10:55:01,653 - INFO - Found zipped mod: Noxys_Trees
+2025-06-14 10:55:01,654 - INFO - Found zipped mod: Nuclear_Artillery_QF
+2025-06-14 10:55:01,655 - INFO - Found zipped mod: OilOutpostPlanner
+2025-06-14 10:55:01,655 - INFO - Found zipped mod: OmegaDrill
+2025-06-14 10:55:01,655 - INFO - Found zipped mod: orbital-transfer
+2025-06-14 10:55:01,655 - INFO - Found zipped mod: Paracelsin-Graphics
+2025-06-14 10:55:01,656 - INFO - Found zipped mod: Paracelsin
+2025-06-14 10:55:01,656 - INFO - Found zipped mod: PavementDriveAssistContinued
+2025-06-14 10:55:01,657 - INFO - Found zipped mod: Personal_Development
+2025-06-14 10:55:01,657 - INFO - Found zipped mod: Pi-C_lib
+2025-06-14 10:55:01,657 - INFO - Found zipped mod: Placeables
+2025-06-14 10:55:01,658 - INFO - Found zipped mod: planet-arrakis
+2025-06-14 10:55:01,658 - INFO - Found zipped mod: Planet-Hopper
+2025-06-14 10:55:01,659 - INFO - Found zipped mod: planet-muluna
+2025-06-14 10:55:01,659 - INFO - Found zipped mod: PlanetsLib
+2025-06-14 10:55:01,659 - INFO - Found zipped mod: PlutoniumEnergy
+2025-06-14 10:55:01,660 - INFO - Found zipped mod: pollution-as-surface-property
+2025-06-14 10:55:01,660 - INFO - Found zipped mod: power-grid-comb
+2025-06-14 10:55:01,661 - INFO - Found zipped mod: Productivity
+2025-06-14 10:55:01,661 - INFO - Found zipped mod: promethium-quality
+2025-06-14 10:55:01,661 - INFO - Found zipped mod: pump
+2025-06-14 10:55:01,663 - INFO - Found zipped mod: pyalienlifegraphics2
+2025-06-14 10:55:01,665 - INFO - Found zipped mod: pyalienlifegraphics3
+2025-06-14 10:55:01,667 - INFO - Found zipped mod: pyalienlifegraphics
+2025-06-14 10:55:01,670 - INFO - Found zipped mod: pyalienlife
+2025-06-14 10:55:01,673 - INFO - Found zipped mod: pyalternativeenergygraphics
+2025-06-14 10:55:01,674 - INFO - Found zipped mod: pyalternativeenergy
+2025-06-14 10:55:01,676 - INFO - Found zipped mod: pycoalprocessinggraphics
+2025-06-14 10:55:01,677 - INFO - Found zipped mod: pycoalprocessing
+2025-06-14 10:55:01,678 - INFO - Found zipped mod: pyfusionenergygraphics
+2025-06-14 10:55:01,679 - INFO - Found zipped mod: pyfusionenergy
+2025-06-14 10:55:01,681 - INFO - Found zipped mod: pyhightechgraphics
+2025-06-14 10:55:01,681 - INFO - Found zipped mod: pyhightech
+2025-06-14 10:55:01,682 - INFO - Found zipped mod: pyindustrygraphics
+2025-06-14 10:55:01,683 - INFO - Found zipped mod: pyindustry
+2025-06-14 10:55:01,684 - INFO - Found zipped mod: pypetroleumhandlinggraphics
+2025-06-14 10:55:01,685 - INFO - Found zipped mod: pypetroleumhandling
+2025-06-14 10:55:01,685 - INFO - Found zipped mod: pypostprocessing
+2025-06-14 10:55:01,687 - INFO - Found zipped mod: pyraworesgraphics
+2025-06-14 10:55:01,688 - INFO - Found zipped mod: pyrawores
+2025-06-14 10:55:01,689 - INFO - Found zipped mod: qol_research
+2025-06-14 10:55:01,689 - INFO - Found zipped mod: quality-asteroids
+2025-06-14 10:55:01,689 - INFO - Found zipped mod: quality-condenser
+2025-06-14 10:55:01,689 - INFO - Found zipped mod: QualityBioLab
+2025-06-14 10:55:01,691 - INFO - Found zipped mod: quality_glassware
+2025-06-14 10:55:01,691 - INFO - Found zipped mod: quirkycat_base
+2025-06-14 10:55:01,692 - INFO - Found zipped mod: quirkycat_boron
+2025-06-14 10:55:01,692 - INFO - Found zipped mod: quirkycat_glass
+2025-06-14 10:55:01,692 - INFO - Found zipped mod: quirkycat_machines
+2025-06-14 10:55:01,693 - INFO - Found zipped mod: quirkycat_recycle
+2025-06-14 10:55:01,693 - INFO - Found zipped mod: RailSignalPlanner
+2025-06-14 10:55:01,694 - INFO - Found zipped mod: RampantArsenalFork
+2025-06-14 10:55:01,694 - INFO - Found zipped mod: RampantFixed
+2025-06-14 10:55:01,695 - INFO - Found zipped mod: RateCalculator
+2025-06-14 10:55:01,695 - INFO - Found zipped mod: Redrawn-Space-Connections
+2025-06-14 10:55:01,696 - INFO - Found zipped mod: RenaiTransportation
+2025-06-14 10:55:01,696 - INFO - Found zipped mod: Repair_Turret
+2025-06-14 10:55:01,697 - INFO - Found zipped mod: resourcehighlighter-dark
+2025-06-14 10:55:01,697 - INFO - Found zipped mod: resourceMarker
+2025-06-14 10:55:01,697 - INFO - Found zipped mod: Reverse-Engineering
+2025-06-14 10:55:01,698 - INFO - Found zipped mod: reverse-factory
+2025-06-14 10:55:01,698 - INFO - Found zipped mod: Robocharger-Updated
+2025-06-14 10:55:01,698 - INFO - Found zipped mod: Robot256Lib
+2025-06-14 10:55:01,699 - INFO - Found zipped mod: robot_attrition
+2025-06-14 10:55:01,699 - INFO - Found zipped mod: RocketCargoInsertion
+2025-06-14 10:55:01,700 - INFO - Found zipped mod: RPGsystem
+2025-06-14 10:55:01,700 - INFO - Found zipped mod: rso-mod
+2025-06-14 10:55:01,701 - INFO - Found zipped mod: rubia-assets
+2025-06-14 10:55:01,701 - INFO - Found zipped mod: rubia
+2025-06-14 10:55:01,702 - INFO - Found zipped mod: runtime-spoilage-library
+2025-06-14 10:55:01,702 - INFO - Found zipped mod: rusty-locale
+2025-06-14 10:55:01,702 - INFO - Found zipped mod: SchallAlienLoot
+2025-06-14 10:55:01,703 - INFO - Found zipped mod: science-tab
+2025-06-14 10:55:01,703 - INFO - Found zipped mod: se-space-trains
+2025-06-14 10:55:01,705 - INFO - Found zipped mod: secretas
+2025-06-14 10:55:01,706 - INFO - Found zipped mod: shield-projector
+2025-06-14 10:55:01,706 - INFO - Found zipped mod: Shortcuts-ick
+2025-06-14 10:55:01,707 - INFO - Found zipped mod: show-max-underground-distance
+2025-06-14 10:55:01,707 - INFO - Found zipped mod: slp-dyson-sphere-reworked
+2025-06-14 10:55:01,707 - INFO - Found zipped mod: snouz-big-accumulator
+2025-06-14 10:55:01,708 - INFO - Found zipped mod: snouz-big-solar-panel
+2025-06-14 10:55:01,708 - INFO - Found zipped mod: snouz_better_substation
+2025-06-14 10:55:01,708 - INFO - Found zipped mod: solar-calc
+2025-06-14 10:55:01,708 - INFO - Found zipped mod: solar-productivity
+2025-06-14 10:55:01,709 - INFO - Found zipped mod: space-exploration-graphics-2
+2025-06-14 10:55:01,710 - INFO - Found zipped mod: space-exploration-graphics-3
+2025-06-14 10:55:01,710 - INFO - Found zipped mod: space-exploration-graphics-4
+2025-06-14 10:55:01,711 - INFO - Found zipped mod: space-exploration-graphics-5
+2025-06-14 10:55:01,715 - INFO - Found zipped mod: space-exploration-graphics
+2025-06-14 10:55:01,715 - INFO - Found zipped mod: space-exploration-scripts
+2025-06-14 10:55:01,716 - INFO - Found zipped mod: space-spidertron
+2025-06-14 10:55:01,717 - INFO - Found zipped mod: space_age_galore
+2025-06-14 10:55:01,717 - INFO - Found zipped mod: SpaghetorioGraphics1
+2025-06-14 10:55:01,722 - INFO - Found zipped mod: Spaghetorio
+2025-06-14 10:55:01,722 - INFO - Found zipped mod: SpidertronEnhancements
+2025-06-14 10:55:01,723 - INFO - Found zipped mod: SpidertronPatrols
+2025-06-14 10:55:01,723 - INFO - Found zipped mod: squeak-through-2
+2025-06-14 10:55:01,724 - INFO - Found zipped mod: starfarer-kitchensink
+2025-06-14 10:55:01,724 - INFO - Found zipped mod: StatsGui
+2025-06-14 10:55:01,724 - INFO - Found zipped mod: stdlib2
+2025-06-14 10:55:01,725 - INFO - Found zipped mod: StopgapNukes
+2025-06-14 10:55:01,725 - INFO - Found zipped mod: stuck-train-detector
+2025-06-14 10:55:01,726 - INFO - Found zipped mod: supersonic_trains
+2025-06-14 10:55:01,726 - INFO - Found zipped mod: Tapeline
+2025-06-14 10:55:01,726 - INFO - Found zipped mod: Teleporters
+2025-06-14 10:55:01,727 - INFO - Found zipped mod: tenebris-prime
+2025-06-14 10:55:01,727 - INFO - Found zipped mod: tenebris
+2025-06-14 10:55:01,728 - INFO - Found zipped mod: terrapalus
+2025-06-14 10:55:01,731 - INFO - Found zipped mod: textplates
+2025-06-14 10:55:01,731 - INFO - Found zipped mod: Tiered-Solar-System
+2025-06-14 10:55:01,731 - INFO - Found zipped mod: tile-upgrade-planner-muluna
+2025-06-14 10:55:01,732 - INFO - Found zipped mod: TimeTools
+2025-06-14 10:55:01,732 - INFO - Found zipped mod: Todo-List
+2025-06-14 10:55:01,733 - INFO - Found zipped mod: Toxic_biters
+2025-06-14 10:55:01,733 - INFO - Found zipped mod: trash-slot
+2025-06-14 10:55:01,733 - INFO - Found zipped mod: tree_collision
+2025-06-14 10:55:01,733 - INFO - Found zipped mod: TurboBike
+2025-06-14 10:55:01,734 - INFO - Found zipped mod: turret-library
+2025-06-14 10:55:01,735 - INFO - Found zipped mod: UltimateResearchQueue2
+2025-06-14 10:55:01,735 - INFO - Found zipped mod: UtilizationMonitorBlargh
+2025-06-14 10:55:01,735 - INFO - Found zipped mod: valves
+2025-06-14 10:55:01,736 - INFO - Found zipped mod: vanilla_galore_continued
+2025-06-14 10:55:01,736 - INFO - Found zipped mod: vehicle-corpses
+2025-06-14 10:55:01,736 - INFO - Found zipped mod: vehicle-wagon-graphics
+2025-06-14 10:55:01,737 - INFO - Found zipped mod: VehicleSnap
+2025-06-14 10:55:01,738 - INFO - Found zipped mod: VehicleWagon2
+2025-06-14 10:55:01,738 - INFO - Found zipped mod: verysmallchests
+2025-06-14 10:55:01,738 - INFO - Found zipped mod: visible-planets
+2025-06-14 10:55:01,739 - INFO - Found zipped mod: VoidProcessing
+2025-06-14 10:55:01,739 - INFO - Found zipped mod: vtk-cannon-turret
+2025-06-14 10:55:01,740 - INFO - Found zipped mod: vulcanus-sulfuric-bacteria
+2025-06-14 10:55:01,740 - INFO - Found zipped mod: Warehousing
+2025-06-14 10:55:01,740 - INFO - Found zipped mod: WaterExtractor
+2025-06-14 10:55:01,741 - INFO - Found zipped mod: WideChests
+2025-06-14 10:55:01,741 - INFO - Found zipped mod: WipMod_TA-miners
+2025-06-14 10:55:01,742 - INFO - Found zipped mod: wolfprod
+2025-06-14 10:55:01,742 - INFO - Found zipped mod: wood-industry
+2025-06-14 10:55:01,742 - INFO - Found zipped mod: wood-military
+2025-06-14 10:55:01,743 - INFO - Found zipped mod: Wood-Walls
+2025-06-14 10:55:01,743 - INFO - Found zipped mod: YARM
+2025-06-14 10:55:01,744 - INFO - Found zipped mod: zerm_postprocess
+2025-06-14 10:55:01,744 - INFO - Discovery complete. Found 379 mods total.
+2025-06-14 10:55:01,744 - INFO - Discovery Results: Found 379 mod(s)
+2025-06-14 10:55:01,744 - INFO - Mod: aai-containers v0.3.1 (AAI Containers & Warehouses) by Earendel
+2025-06-14 10:55:01,744 - INFO -   Dependencies: ['base >= 2.0.2', '(?) space-age >= 2.0.2']
+2025-06-14 10:55:01,744 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-containers_0.3.1.zip
+2025-06-14 10:55:01,744 - INFO -   Zipped: True
+2025-06-14 10:55:01,744 - INFO - Mod: aai-industry v0.6.8 (AAI Industry) by Earendel
+2025-06-14 10:55:01,744 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age >= 2.0.0', '? aai-containers >= 0.1.1', '? InserterFuelLeech >= 0.2.6', '(?) angelsrefining', '(?) bobelectronics']
+2025-06-14 10:55:01,744 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-industry_0.6.8.zip
+2025-06-14 10:55:01,745 - INFO -   Zipped: True
+2025-06-14 10:55:01,745 - INFO - Mod: aai-loaders-sane v1.0.3 (AAI Loaders, a sane rebalance) by Sam_Bucher
+2025-06-14 10:55:01,745 - INFO -   Dependencies: ['base >= 2.0.2', '? space-age >= 2.0.2', 'aai-loaders >= 0.2.5', '(?) pypostprocessing >= 3.0.0', '(?) wood-logistics >= 2.0.0']
+2025-06-14 10:55:01,745 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-loaders-sane_1.0.3.zip
+2025-06-14 10:55:01,745 - INFO -   Zipped: True
+2025-06-14 10:55:01,745 - INFO - Mod: aai-loaders v0.2.7 (AAI Loaders) by Earendel
+2025-06-14 10:55:01,745 - INFO -   Dependencies: ['base >= 2.0.2', '? space-age >= 2.0.2']
+2025-06-14 10:55:01,745 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-loaders_0.2.7.zip
+2025-06-14 10:55:01,745 - INFO -   Zipped: True
+2025-06-14 10:55:01,745 - INFO - Mod: aai-programmable-structures v0.8.2 (AAI Programmable Structures) by Earendel
+2025-06-14 10:55:01,745 - INFO -   Dependencies: ['base >= 2.0.0', 'aai-signals >= 0.6.1', 'aai-zones >= 0.7.1']
+2025-06-14 10:55:01,745 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-programmable-structures_0.8.2.zip
+2025-06-14 10:55:01,746 - INFO -   Zipped: True
+2025-06-14 10:55:01,746 - INFO - Mod: aai-programmable-vehicles v0.8.2 (AAI Programmable Vehicles) by Earendel
+2025-06-14 10:55:01,746 - INFO -   Dependencies: ['base >= 2.0.0', 'aai-signals >= 0.7.0', 'informatron >= 0.4.0', '? aai-zones >= 0.7.0', '? aai-programmable-structures >= 0.8.0', '? aai-industry >= 0.3.2', '? aai-vehicles-miner >= 0.7.0', '? aai-vehicles-hauler >= 0.7.0', '? aai-vehicles-chaingunner >= 0.7.0', '? aai-vehicles-flame-tumbler >= 0.7.0', '? aai-vehicles-flame-tank >= 0.6.0', '? aai-vehicles-laser-tank >= 0.7.0', '? aai-vehicles-warden >= 0.6.0', '? bullet-trails >= 0.7.0', '? equipment-gantry >= 0.2.0']
+2025-06-14 10:55:01,746 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-programmable-vehicles_0.8.2.zip
+2025-06-14 10:55:01,746 - INFO -   Zipped: True
+2025-06-14 10:55:01,746 - INFO - Mod: aai-signal-transmission v0.5.1 (AAI Signal Transmission) by Earendel
+2025-06-14 10:55:01,746 - INFO -   Dependencies: ['base >= 2.0.2', '? space-age >= 2.0.2']
+2025-06-14 10:55:01,746 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-signal-transmission_0.5.1.zip
+2025-06-14 10:55:01,746 - INFO -   Zipped: True
+2025-06-14 10:55:01,746 - INFO - Mod: aai-signals v0.7.1 (AAI Signals) by Earendel
+2025-06-14 10:55:01,746 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,746 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-signals_0.7.1.zip
+2025-06-14 10:55:01,746 - INFO -   Zipped: True
+2025-06-14 10:55:01,747 - INFO - Mod: aai-vehicles-chaingunner v0.7.2 (AAI Vehicles: Chaingunner) by Earendel
+2025-06-14 10:55:01,747 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,747 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-chaingunner_0.7.2.zip
+2025-06-14 10:55:01,747 - INFO -   Zipped: True
+2025-06-14 10:55:01,747 - INFO - Mod: aai-vehicles-flame-tank v0.6.2 (AAI Vehicles: Flame Tank) by Earendel
+2025-06-14 10:55:01,747 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,747 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-flame-tank_0.6.2.zip
+2025-06-14 10:55:01,747 - INFO -   Zipped: True
+2025-06-14 10:55:01,747 - INFO - Mod: aai-vehicles-flame-tumbler v0.7.2 (AAI Vehicles: Flame Tumbler) by Earendel
+2025-06-14 10:55:01,747 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,747 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-flame-tumbler_0.7.2.zip
+2025-06-14 10:55:01,747 - INFO -   Zipped: True
+2025-06-14 10:55:01,748 - INFO - Mod: aai-vehicles-hauler v0.7.3 (AAI Vehicles: Hauler) by Earendel
+2025-06-14 10:55:01,748 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,748 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-hauler_0.7.3.zip
+2025-06-14 10:55:01,748 - INFO -   Zipped: True
+2025-06-14 10:55:01,748 - INFO - Mod: aai-vehicles-ironclad v0.7.5 (AAI Vehicles: Ironclad) by Earendel
+2025-06-14 10:55:01,748 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,748 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-ironclad_0.7.5.zip
+2025-06-14 10:55:01,748 - INFO -   Zipped: True
+2025-06-14 10:55:01,748 - INFO - Mod: aai-vehicles-laser-tank v0.7.4 (AAI Vehicles: Laser Tank) by Earendel
+2025-06-14 10:55:01,749 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,749 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-laser-tank_0.7.4.zip
+2025-06-14 10:55:01,749 - INFO -   Zipped: True
+2025-06-14 10:55:01,749 - INFO - Mod: aai-vehicles-miner v0.7.1 (AAI Vehicles: Miner) by Earendel
+2025-06-14 10:55:01,749 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,749 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-miner_0.7.1.zip
+2025-06-14 10:55:01,749 - INFO -   Zipped: True
+2025-06-14 10:55:01,749 - INFO - Mod: aai-vehicles-warden v0.6.4 (AAI Vehicles: Warden) by Earendel
+2025-06-14 10:55:01,749 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,749 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-vehicles-warden_0.6.4.zip
+2025-06-14 10:55:01,749 - INFO -   Zipped: True
+2025-06-14 10:55:01,749 - INFO - Mod: aai-zones v0.7.2 (AAI Zones) by Earendel
+2025-06-14 10:55:01,749 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,750 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aai-zones_0.7.2.zip
+2025-06-14 10:55:01,750 - INFO -   Zipped: True
+2025-06-14 10:55:01,750 - INFO - Mod: AbandonedRuins20 v1.2.11 (The Ruins Mod 2.0) by Silly_Warlock, roland77, Gangsir, Bilka
+2025-06-14 10:55:01,750 - INFO -   Dependencies: ['base >= 2.0.43', '?space-age', '!AbandonedRuins']
+2025-06-14 10:55:01,750 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\AbandonedRuins20_1.2.11.zip
+2025-06-14 10:55:01,750 - INFO -   Zipped: True
+2025-06-14 10:55:01,750 - INFO - Mod: advanced-centrifuge v2.2.5 (Advanced Centrifuge) by kiratu11
+2025-06-14 10:55:01,750 - INFO -   Dependencies: ['base', '? space-age', '? Krastorio2', '? space-exploration', '? Cerys-Moon-of-Fulgora', '? atan-nuclear-science']
+2025-06-14 10:55:01,750 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\advanced-centrifuge_2.2.5.zip
+2025-06-14 10:55:01,750 - INFO -   Zipped: True
+2025-06-14 10:55:01,750 - INFO - Mod: advanced_target_priorities v1.0.2 (Advanced Target Priorities) by heyqule
+2025-06-14 10:55:01,750 - INFO -   Dependencies: ['base >= 2.0.0', '?space-age >= 2.0.0']
+2025-06-14 10:55:01,750 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\advanced_target_priorities_1.0.2.zip
+2025-06-14 10:55:01,751 - INFO -   Zipped: True
+2025-06-14 10:55:01,751 - INFO - Mod: Age-of-Production-Graphics v1.0.5 (Age of Production Graphics) by AndreusAxolotl
+2025-06-14 10:55:01,751 - INFO -   Dependencies: ['base', 'space-age', '~Age-of-Production >= 1.6.0']
+2025-06-14 10:55:01,751 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Age-of-Production-Graphics_1.0.5.zip
+2025-06-14 10:55:01,751 - INFO -   Zipped: True
+2025-06-14 10:55:01,751 - INFO - Mod: Age-of-Production v1.6.19 (Age of Production) by AndreusAxolotl
+2025-06-14 10:55:01,751 - INFO -   Dependencies: ['base >= 2.0.41', 'space-age >= 2.0.41', 'PlanetsLib', 'Age-of-Production-Graphics = 1.0.5', '? foundry-restructuring', '? space_age_galore', '? early-agriculture', '? wood-industry', '? wood-logistics', '? tenebris', '? tenebris-prime', '? maraxsis >= 1.29.25', '? corrundum', '? terrapalus', '? secretas', '? castra', '? QualityBioLab', '? Cerys-Moon-of-Fulgora', '? planet-muluna', '? planet-arrakis', '? cubium', '? dea-dia-system', '? erm_toss', '? erm_zerg', '? Factorio-Tiberium', '? janus', '? lignumis', '? metal-and-stars', '? Moshine', '? naufulglebunusilo', '? atan-nuclear-science', '? aai-industry', '? bobassembly', '! AoP-extended-planets']
+2025-06-14 10:55:01,751 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Age-of-Production_1.6.19.zip
+2025-06-14 10:55:01,751 - INFO -   Zipped: True
+2025-06-14 10:55:01,752 - INFO - Mod: Aircraft-space-age v2.3.2 (Aircraft) by MeteorSwarm, Thomasnotused
+2025-06-14 10:55:01,752 - INFO -   Dependencies: ['base >= 2.0.23', 'flib >= 0.15.0', '? planet-muluna >= 1.9.0', '? AircraftRealism >= 2.0.2', '? HelicopterRevival >= 0.3.0', '? space-age >= 2.0.0', '! traintunnels <= 0.0.11', '? bobplates >= 2.0.0', '? bobelectronics >= 2.0.0', '? boblibrary >= 2.0.0', '? bobwarfare >= 2.0.0', '? bobvehicleequipment >= 2.0.0']
+2025-06-14 10:55:01,752 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Aircraft-space-age_2.3.2.zip
+2025-06-14 10:55:01,752 - INFO -   Zipped: True
+2025-06-14 10:55:01,752 - INFO - Mod: AircraftRealism v2.0.3 (Aircraft Realism) by haih_ys
+2025-06-14 10:55:01,752 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,752 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\AircraftRealism_2.0.3.zip
+2025-06-14 10:55:01,752 - INFO -   Zipped: True
+2025-06-14 10:55:01,752 - INFO - Mod: Aircraft v1.9.0 (Aircraft (Old version)) by MeteorSwarm, Thomasnotused
+2025-06-14 10:55:01,752 - INFO -   Dependencies: ['base >= 2.0.7', 'Aircraft-space-age >= 2.2.2']
+2025-06-14 10:55:01,752 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Aircraft_1.9.0.zip
+2025-06-14 10:55:01,752 - INFO -   Zipped: True
+2025-06-14 10:55:01,753 - INFO - Mod: alien-biomes-graphics v0.7.0 (Alien Biomes Graphics) by Earendel
+2025-06-14 10:55:01,753 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,753 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\alien-biomes-graphics_0.7.0.zip
+2025-06-14 10:55:01,753 - INFO -   Zipped: True
+2025-06-14 10:55:01,753 - INFO - Mod: alien-biomes v0.7.2 (Alien Biomes) by Earendel
+2025-06-14 10:55:01,753 - INFO -   Dependencies: ['base >= 2.0.0', 'alien-biomes-graphics >= 0.7.0', '(?) space-age >= 2.0.0']
+2025-06-14 10:55:01,753 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\alien-biomes_0.7.2.zip
+2025-06-14 10:55:01,753 - INFO -   Zipped: True
+2025-06-14 10:55:01,753 - INFO - Mod: alien-module v2.0.13 (Alien Loot Economy) by sensenmann
+2025-06-14 10:55:01,753 - INFO -   Dependencies: ['base >= 2.0', 'Productivity >= 2.0.1', '? bobenemies >= 0.15.2', '? Natural_Evolution_Enemies >= 0.17.0', '? Rampant >= 0.16.34', '? SchallEndgameEvolution >= 1.0.0', '? ElectricTrains >= 1.0.0', '! biter_factions', '! UnlimitedProductivity']
+2025-06-14 10:55:01,753 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\alien-module_2.0.13.zip
+2025-06-14 10:55:01,753 - INFO -   Zipped: True
+2025-06-14 10:55:01,753 - INFO - Mod: alk-quality-names v1.0.0 (Alkumist's Quality names) by Alkumist
+2025-06-14 10:55:01,754 - INFO -   Dependencies: ['base >= 2.0.0', 'quality >= 2.0.0']
+2025-06-14 10:55:01,754 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\alk-quality-names_1.0.0.zip
+2025-06-14 10:55:01,754 - INFO -   Zipped: True
+2025-06-14 10:55:01,754 - INFO - Mod: alloy-smelting v0.3.3 (Alloy Smelting) by SafTheLamb
+2025-06-14 10:55:01,754 - INFO -   Dependencies: ['base >= 2.0.32', 'fdsl >= 0.2.1', '? space-age', '? crushing-industry >= 0.1.8', '? bztin', '? bzlead', '? bztitanium', '? hot-metals', '(?) Glass', '(?) aai-industry']
+2025-06-14 10:55:01,754 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\alloy-smelting_0.3.3.zip
+2025-06-14 10:55:01,754 - INFO -   Zipped: True
+2025-06-14 10:55:01,754 - INFO - Mod: any-planet-start v1.1.18 (Any Planet Start) by _CodeGreen
+2025-06-14 10:55:01,754 - INFO -   Dependencies: ['space-age']
+2025-06-14 10:55:01,754 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\any-planet-start_1.1.18.zip
+2025-06-14 10:55:01,754 - INFO -   Zipped: True
+2025-06-14 10:55:01,754 - INFO - Mod: aquilo-seabloom-algaculture v0.4.1 (Wooden Aquilo: Seabloom Algaculture) by SafTheLamb
+2025-06-14 10:55:01,754 - INFO -   Dependencies: ['base >= 2.0.40', 'fdsl >= 0.1.8', 'space-age', '? wood-industry', '(?) Voidcraft >= 1.4']
+2025-06-14 10:55:01,755 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\aquilo-seabloom-algaculture_0.4.1.zip
+2025-06-14 10:55:01,755 - INFO -   Zipped: True
+2025-06-14 10:55:01,755 - INFO - Mod: Armored-train v0.7.1 (Armored Train (Turret Wagons)) by Pandamiami80s
+2025-06-14 10:55:01,755 - INFO -   Dependencies: ['base', '? elevated-rails', 'turret-library >= 0.1.6']
+2025-06-14 10:55:01,755 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Armored-train_0.7.1.zip
+2025-06-14 10:55:01,755 - INFO -   Zipped: True
+2025-06-14 10:55:01,755 - INFO - Mod: ArmouredBiters v1.2.1 (Armoured Biters) by CybranM
+2025-06-14 10:55:01,755 - INFO -   Dependencies: ['base >= 2.0', '(?) alien-biomes']
+2025-06-14 10:55:01,755 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ArmouredBiters_1.2.1.zip
+2025-06-14 10:55:01,756 - INFO -   Zipped: True
+2025-06-14 10:55:01,756 - INFO - Mod: astroponics v1.6.4 (Astroponics) by SafTheLamb
+2025-06-14 10:55:01,756 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.1.3', 'space-age', '? wood-industry >= 2.0.0', '? bztin', '(?) Voidcraft >= 1.4', '(?) planet-muluna', '! biochemistry']
+2025-06-14 10:55:01,756 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\astroponics_1.6.4.zip
+2025-06-14 10:55:01,756 - INFO -   Zipped: True
+2025-06-14 10:55:01,756 - INFO - Mod: atan-nuclear-science v0.3.3 (Nuclear Science) by atanvarno
+2025-06-14 10:55:01,756 - INFO -   Dependencies: ['space-age >= 2.0.32', '? any-planet-start', '? PlutoniumEnergy']
+2025-06-14 10:55:01,756 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\atan-nuclear-science_0.3.3.zip
+2025-06-14 10:55:01,756 - INFO -   Zipped: True
+2025-06-14 10:55:01,756 - INFO - Mod: atomic-artillery-reborn v1.0.2 (Atomic Artillery Reborn) by Doombox, SergiX44
+2025-06-14 10:55:01,756 - INFO -   Dependencies: ['base >= 1.0', '! AtomicArtillery']
+2025-06-14 10:55:01,756 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\atomic-artillery-reborn_1.0.2.zip
+2025-06-14 10:55:01,756 - INFO -   Zipped: True
+2025-06-14 10:55:01,756 - INFO - Mod: AutoDeconstruct v1.0.5 (Auto Deconstruct) by mindmix
+2025-06-14 10:55:01,757 - INFO -   Dependencies: ['base >= 2.0.32']
+2025-06-14 10:55:01,757 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\AutoDeconstruct_1.0.5.zip
+2025-06-14 10:55:01,757 - INFO -   Zipped: True
+2025-06-14 10:55:01,757 - INFO - Mod: automatic-underground-pipe-connectors v2.0.11 (Automatic Underground Pipe Connectors) by Sparr
+2025-06-14 10:55:01,757 - INFO -   Dependencies: []
+2025-06-14 10:55:01,757 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\automatic-underground-pipe-connectors_2.0.11.zip
+2025-06-14 10:55:01,757 - INFO -   Zipped: True
+2025-06-14 10:55:01,757 - INFO - Mod: Automatic_Train_Painter v2.0.1 (Automatic Train Painter) by yeahtoast
+2025-06-14 10:55:01,757 - INFO -   Dependencies: ['base >= 2.0.0', '?FluidWagonColorMask']
+2025-06-14 10:55:01,757 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Automatic_Train_Painter_2.0.1.zip
+2025-06-14 10:55:01,757 - INFO -   Zipped: True
+2025-06-14 10:55:01,757 - INFO - Mod: ballistic_missile v0.1.17 (Ballistic Missile) by Dave
+2025-06-14 10:55:01,758 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,758 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ballistic_missile_0.1.17.zip
+2025-06-14 10:55:01,758 - INFO -   Zipped: True
+2025-06-14 10:55:01,758 - INFO - Mod: beacon-interface v1.0.12 (Beacon interface) by Quezler
+2025-06-14 10:55:01,758 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', 'base', '? quality', '? space-age', '? EditorExtensions', '(?) wret-beacon-rebalance-mod', '(?) UnlimitedProductivityFork', '(?) bobmodules', '! pure-modules']
+2025-06-14 10:55:01,758 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\beacon-interface_1.0.12.zip
+2025-06-14 10:55:01,758 - INFO -   Zipped: True
+2025-06-14 10:55:01,758 - INFO - Mod: belt-visualizer v2.0.2 (Belt Visualizer) by _CodeGreen
+2025-06-14 10:55:01,758 - INFO -   Dependencies: []
+2025-06-14 10:55:01,759 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\belt-visualizer_2.0.2.zip
+2025-06-14 10:55:01,759 - INFO -   Zipped: True
+2025-06-14 10:55:01,759 - INFO - Mod: Better_Starmap_Background v1.1.3 (Better StarMap Background) by Tserup
+2025-06-14 10:55:01,759 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 2.0.20', '? PlanetsLib >= 1.1.20', '? Tiered-Solar-System >= 2.1.6']
+2025-06-14 10:55:01,759 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Better_Starmap_Background_1.1.3.zip
+2025-06-14 10:55:01,759 - INFO -   Zipped: True
+2025-06-14 10:55:01,759 - INFO - Mod: BigBags v1.0.37 (Big Bags (more space in bags +longer reach)) by BinbinHfr, Myricaulus, Svarogich
+2025-06-14 10:55:01,759 - INFO -   Dependencies: ['base >= 0.17.35']
+2025-06-14 10:55:01,759 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\BigBags_1.0.37.zip
+2025-06-14 10:55:01,759 - INFO -   Zipped: True
+2025-06-14 10:55:01,759 - INFO - Mod: bigger-artillery v0.7.4 (Bigger Artillery) by Mrxmen24
+2025-06-14 10:55:01,759 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,759 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bigger-artillery_0.7.4.zip
+2025-06-14 10:55:01,759 - INFO -   Zipped: True
+2025-06-14 10:55:01,760 - INFO - Mod: biochemistry v1.0.1 (Biochemistry) by Tenebrais
+2025-06-14 10:55:01,760 - INFO -   Dependencies: ['space-age >= 2.0.0']
+2025-06-14 10:55:01,760 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\biochemistry_1.0.1.zip
+2025-06-14 10:55:01,760 - INFO -   Zipped: True
+2025-06-14 10:55:01,760 - INFO - Mod: bioprocessing-tab v1.2.0 (Bio processing group) by frontrider
+2025-06-14 10:55:01,760 - INFO -   Dependencies: ['base >= 2.0.28', 'space-age']
+2025-06-14 10:55:01,760 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bioprocessing-tab_1.2.0.zip
+2025-06-14 10:55:01,760 - INFO -   Zipped: True
+2025-06-14 10:55:01,760 - INFO - Mod: blueprint-sandboxes v3.0.3 (Blueprint Sandboxes) by somethingtohide
+2025-06-14 10:55:01,760 - INFO -   Dependencies: ['base >= 2.0.38', '? EditorExtensions >= 2.3.0', '? factorissimo-2-notnotmelon', '! space-exploration', '! Factorissimo2', '! Factorissimo2-Space-Age-Port']
+2025-06-14 10:55:01,760 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\blueprint-sandboxes_3.0.3.zip
+2025-06-14 10:55:01,760 - INFO -   Zipped: True
+2025-06-14 10:55:01,760 - INFO - Mod: BlueprintTools v1.5.0 (Blueprint Tools) by raiguard
+2025-06-14 10:55:01,760 - INFO -   Dependencies: ['base >= 2.0.23', 'flib >= 0.16.0']
+2025-06-14 10:55:01,761 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\BlueprintTools_1.5.0.zip
+2025-06-14 10:55:01,761 - INFO -   Zipped: True
+2025-06-14 10:55:01,761 - INFO - Mod: bobassembly v2.0.1 (Bob's Assembling machines mod) by Bobingabout
+2025-06-14 10:55:01,761 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,761 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobassembly_2.0.1.zip
+2025-06-14 10:55:01,761 - INFO -   Zipped: True
+2025-06-14 10:55:01,761 - INFO - Mod: bobelectronics v2.0.2 (Bob's Electronics mod) by Bobingabout
+2025-06-14 10:55:01,761 - INFO -   Dependencies: ['base >= 1.2.0', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,761 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobelectronics_2.0.2.zip
+2025-06-14 10:55:01,761 - INFO -   Zipped: True
+2025-06-14 10:55:01,761 - INFO - Mod: bobenemies v2.0.1 (Bob's Enemies mod) by Bobingabout
+2025-06-14 10:55:01,761 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '(?) combat-mechanics-overhaul >= 0.7.1']
+2025-06-14 10:55:01,761 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobenemies_2.0.1.zip
+2025-06-14 10:55:01,762 - INFO -   Zipped: True
+2025-06-14 10:55:01,762 - INFO - Mod: bobequipment v2.0.0 (Bob's Personal Equipment mod) by Bobingabout
+2025-06-14 10:55:01,762 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobenemies >= 2.0.0', '? bobplates >= 2.0.0', '? boblogistics >= 2.0.0']
+2025-06-14 10:55:01,762 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobequipment_2.0.0.zip
+2025-06-14 10:55:01,762 - INFO -   Zipped: True
+2025-06-14 10:55:01,762 - INFO - Mod: bobgreenhouse v2.0.0 (Bob's Greenhouse mod) by Bobingabout
+2025-06-14 10:55:01,762 - INFO -   Dependencies: ['base >= 1.2.0', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,762 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobgreenhouse_2.0.0.zip
+2025-06-14 10:55:01,762 - INFO -   Zipped: True
+2025-06-14 10:55:01,762 - INFO - Mod: bobinserters v2.0.0 (Bob's Adjustable Inserters mod) by Bobingabout
+2025-06-14 10:55:01,762 - INFO -   Dependencies: ['base >= 1.2.0']
+2025-06-14 10:55:01,763 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobinserters_2.0.0.zip
+2025-06-14 10:55:01,763 - INFO -   Zipped: True
+2025-06-14 10:55:01,763 - INFO - Mod: boblibrary v2.0.0 (Bob's Functions Library mod) by Bobingabout
+2025-06-14 10:55:01,763 - INFO -   Dependencies: ['base >= 1.2.0']
+2025-06-14 10:55:01,763 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\boblibrary_2.0.0.zip
+2025-06-14 10:55:01,763 - INFO -   Zipped: True
+2025-06-14 10:55:01,763 - INFO - Mod: boblogistics v2.0.2 (Bob's Logistics mod) by Bobingabout
+2025-06-14 10:55:01,763 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0', '? bobinserters >= 1.3.2', '? valves', '(?) Krastorio2', '(?) aai-loaders']
+2025-06-14 10:55:01,763 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\boblogistics_2.0.2.zip
+2025-06-14 10:55:01,763 - INFO -   Zipped: True
+2025-06-14 10:55:01,763 - INFO - Mod: bobmining v2.0.1 (Bob's Mining mod) by Bobingabout
+2025-06-14 10:55:01,763 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobores >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,763 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobmining_2.0.1.zip
+2025-06-14 10:55:01,764 - INFO -   Zipped: True
+2025-06-14 10:55:01,764 - INFO - Mod: bobmodules v2.0.2 (Bob's Modules mod) by Bobingabout
+2025-06-14 10:55:01,764 - INFO -   Dependencies: ['base >= 1.2.0', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0', '? bobelectronics >= 2.0.0', '? DiscoScience']
+2025-06-14 10:55:01,764 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobmodules_2.0.2.zip
+2025-06-14 10:55:01,764 - INFO -   Zipped: True
+2025-06-14 10:55:01,764 - INFO - Mod: bobores v2.0.0 (Bob's Ores mod) by Bobingabout
+2025-06-14 10:55:01,764 - INFO -   Dependencies: ['base >= 1.2.0', 'boblibrary >= 2.0.0']
+2025-06-14 10:55:01,764 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobores_2.0.0.zip
+2025-06-14 10:55:01,764 - INFO -   Zipped: True
+2025-06-14 10:55:01,764 - INFO - Mod: bobplates v2.0.2 (Bob's Metals, Chemicals and Intermediates mod) by Bobingabout
+2025-06-14 10:55:01,764 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', 'bobores >= 2.0.0', '? bobenemies >= 2.0.0']
+2025-06-14 10:55:01,764 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobplates_2.0.2.zip
+2025-06-14 10:55:01,765 - INFO -   Zipped: True
+2025-06-14 10:55:01,765 - INFO - Mod: bobpower v2.0.0 (Bob's Power mod) by Bobingabout
+2025-06-14 10:55:01,765 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,765 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobpower_2.0.0.zip
+2025-06-14 10:55:01,765 - INFO -   Zipped: True
+2025-06-14 10:55:01,765 - INFO - Mod: bobrevamp v2.0.2 (Bob's Revamp mod) by Bobingabout
+2025-06-14 10:55:01,765 - INFO -   Dependencies: ['base >= 1.2.0', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,765 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobrevamp_2.0.2.zip
+2025-06-14 10:55:01,765 - INFO -   Zipped: True
+2025-06-14 10:55:01,765 - INFO - Mod: bobtech v2.0.0 (Bob's Technology mod) by Bobingabout
+2025-06-14 10:55:01,766 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobenemies >= 2.0.0', '? DiscoScience']
+2025-06-14 10:55:01,766 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobtech_2.0.0.zip
+2025-06-14 10:55:01,766 - INFO -   Zipped: True
+2025-06-14 10:55:01,766 - INFO - Mod: bobvehicleequipment v2.0.1 (Bob's Vehicle Equipment mod) by Bobingabout
+2025-06-14 10:55:01,766 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? boblogistics >= 2.0.0', '? bobwarfare >= 2.0.0', '? bobenemies >= 2.0.0', '? bobplates >= 2.0.0']
+2025-06-14 10:55:01,766 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobvehicleequipment_2.0.1.zip
+2025-06-14 10:55:01,766 - INFO -   Zipped: True
+2025-06-14 10:55:01,766 - INFO - Mod: bobwarfare v2.0.2 (Bob's Warfare mod) by Bobingabout
+2025-06-14 10:55:01,766 - INFO -   Dependencies: ['base >= 2.0.33', 'boblibrary >= 2.0.0', '? bobplates >= 2.0.0', '? bobenemies >= 2.0.0', '(?) aai-programmable-vehicles']
+2025-06-14 10:55:01,766 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bobwarfare_2.0.2.zip
+2025-06-14 10:55:01,766 - INFO -   Zipped: True
+2025-06-14 10:55:01,766 - INFO - Mod: BottleneckLite v1.3.4 (Bottleneck Lite) by raiguard
+2025-06-14 10:55:01,767 - INFO -   Dependencies: ['base >= 2.0.0', 'flib >= 0.15.0', '(?) space-exploration-postprocess']
+2025-06-14 10:55:01,767 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\BottleneckLite_1.3.4.zip
+2025-06-14 10:55:01,767 - INFO -   Zipped: True
+2025-06-14 10:55:01,767 - INFO - Mod: Bottleneck v0.12.1 (Bottleneck) by Troels Bjerre Lund, Lucas Brandstaetter, Nexela, Michael Hanson, Rugal Bernstein
+2025-06-14 10:55:01,767 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,767 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Bottleneck_0.12.1.zip
+2025-06-14 10:55:01,767 - INFO -   Zipped: True
+2025-06-14 10:55:01,767 - INFO - Mod: bullet-trails v0.7.1 (Bullet Trails) by Earendel
+2025-06-14 10:55:01,767 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,767 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bullet-trails_0.7.1.zip
+2025-06-14 10:55:01,767 - INFO -   Zipped: True
+2025-06-14 10:55:01,767 - INFO - Mod: Burner-Leech-Fork v1.0.0 (Burner Leech Fork) by EnigmaticAussie, Klonan, Forked by Loki Laufeyson
+2025-06-14 10:55:01,767 - INFO -   Dependencies: ['base >= 2.0.000']
+2025-06-14 10:55:01,768 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Burner-Leech-Fork_1.0.0.zip
+2025-06-14 10:55:01,768 - INFO -   Zipped: True
+2025-06-14 10:55:01,768 - INFO - Mod: bzcarbon v2.0.19 (Graphite & Diamonds) by Brevven
+2025-06-14 10:55:01,768 - INFO -   Dependencies: ['base >= 2.0.42', '? space-age', '? bztitanium', '? bzsilicon', '? bzzirconium', '? bzfoundry', '? space-exploration', '? aai-industry', '? Krastorio2', '? Krastorio2-spaced-out', '? 248k', '(?) modmashsplintersubspacelogistics', '? deadlock-beltboxes-loaders', '? DeadlockCrating']
+2025-06-14 10:55:01,768 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bzcarbon_2.0.19.zip
+2025-06-14 10:55:01,768 - INFO -   Zipped: True
+2025-06-14 10:55:01,768 - INFO - Mod: bzlead v2.0.26 (Lead) by Brevven
+2025-06-14 10:55:01,768 - INFO -   Dependencies: ['base >= 1.1.0', '? space-age', '? bzsilicon', '? hot-metals', '? space-exploration', '? Krastorio2', '? Krastorio2-spaced-out', '? Rich-Rocks-Requiem', '? 248k', '? tenebris', '? deadlock-beltboxes-loaders', '? DeadlockCrating']
+2025-06-14 10:55:01,768 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bzlead_2.0.26.zip
+2025-06-14 10:55:01,768 - INFO -   Zipped: True
+2025-06-14 10:55:01,768 - INFO - Mod: bzsilicon v2.0.15 (Silica & Silicon) by Brevven
+2025-06-14 10:55:01,769 - INFO -   Dependencies: ['? space-age', '? Krastorio2', '? Krastorio2-spaced-out', '? space-exploration', '? 248k', '? aai-industry', '? modmashsplinterelectronics', '? bztitanium', '(?) IndustrialRevolution', 'base']
+2025-06-14 10:55:01,769 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bzsilicon_2.0.15.zip
+2025-06-14 10:55:01,769 - INFO -   Zipped: True
+2025-06-14 10:55:01,769 - INFO - Mod: bztin v2.1.14 (Tin) by Brevven
+2025-06-14 10:55:01,769 - INFO -   Dependencies: ['base >= 1.1.0', '? bzfoundry >= 0.2.1', '? bztitanium >= 1.2.0', '? bzlead >= 1.2.0', '? bzzirconium >= 0.6.0', '? bztungsten >= 0.6.0', '? bzcarbon >= 0.5.5', '? bzaluminum >= 0.4.9', '? space-exploration >= 0.5.100', '(?) aai-industry', '? aai-industry', '? hot-metals', '? Krastorio2', '? Krastorio2-spaced-out', '? sand-and-glass', '? deadlock-beltboxes-loaders', '? DeadlockCrating', '? space-age', '(?) RenaiTransportation']
+2025-06-14 10:55:01,769 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bztin_2.1.14.zip
+2025-06-14 10:55:01,769 - INFO -   Zipped: True
+2025-06-14 10:55:01,769 - INFO - Mod: bztitanium v2.0.25 (Titanium) by Brevven
+2025-06-14 10:55:01,769 - INFO -   Dependencies: ['base >= 1.0.0', '? aai-industry', '? space-exploration', '? Krastorio2', '? Krastorio2-spaced-out', '? Rich-Rocks-Requiem', '? FactorioExtended-Plus-Core', '? Pre0-17-60Oil', '? Deadlock-SE-bridge', '? deadlock-beltboxes-loaders', '? DeadlockCrating', '? modmashsplinterresources', '? EndgameCombat', '(?) Power Armor MK3', '? 248k', '? tenebris', '? Cerys-Moon-of-Fulgora', '(?) atan-nuclear-science', '(?) casting', '? hot-metals', '! nullius']
+2025-06-14 10:55:01,769 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bztitanium_2.0.25.zip
+2025-06-14 10:55:01,769 - INFO -   Zipped: True
+2025-06-14 10:55:01,770 - INFO - Mod: bzzirconium v2.1.12 (Zirconium) by Brevven
+2025-06-14 10:55:01,770 - INFO -   Dependencies: ['base >= 1.1.0', '? space-age', '? space-exploration', '? aai-industry', '? Krastorio2', '? Krastorio2-spaced-out', '? deadlock-beltboxes-loaders', '? DeadlockCrating', '? omnimatter', '? bzsilicon', '? bzlead', '? bztitanium >= 0.12.4', '? bztungsten >= 0.5.0']
+2025-06-14 10:55:01,770 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\bzzirconium_2.1.12.zip
+2025-06-14 10:55:01,770 - INFO -   Zipped: True
+2025-06-14 10:55:01,770 - INFO - Mod: calculator-ui v2.0.1 (Calculator UI) by Wichu
+2025-06-14 10:55:01,770 - INFO -   Dependencies: ['base >= 2.0.13']
+2025-06-14 10:55:01,770 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\calculator-ui_2.0.1.zip
+2025-06-14 10:55:01,770 - INFO -   Zipped: True
+2025-06-14 10:55:01,770 - INFO - Mod: cargo-ships-graphics v1.0.4 (Cargo Ships Graphics) by rude_grass
+2025-06-14 10:55:01,770 - INFO -   Dependencies: ['base', '~ cargo-ships >= 1.0.0']
+2025-06-14 10:55:01,770 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\cargo-ships-graphics_1.0.4.zip
+2025-06-14 10:55:01,770 - INFO -   Zipped: True
+2025-06-14 10:55:01,770 - INFO - Mod: cargo-ships v1.0.19 (Cargo Ships) by rude_grass
+2025-06-14 10:55:01,771 - INFO -   Dependencies: ['base >= 2.0.18', 'cargo-ships-graphics >= 1.0.4', '? factorio-world >= 1.0.2', '? SeaBlock >= 0.5.5', '? Hovercrafts >= 1.1.0', '? angelspetrochem >= 0.9.17', '? ctg >= 0.4.3', '? Krastorio2']
+2025-06-14 10:55:01,771 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\cargo-ships_1.0.19.zip
+2025-06-14 10:55:01,771 - INFO -   Zipped: True
+2025-06-14 10:55:01,771 - INFO - Mod: castra v0.5.4 (Castra) by Bartz24, LogicDolphin
+2025-06-14 10:55:01,771 - INFO -   Dependencies: ['base >= 2.0.30', 'space-age', '? alien-biomes', '? landing-pad-research', '? maraxsis', '? planet-muluna', '? Cerys-Moon-of-Fulgora', '? modules-t4']
+2025-06-14 10:55:01,771 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\castra_0.5.4.zip
+2025-06-14 10:55:01,771 - INFO -   Zipped: True
+2025-06-14 10:55:01,771 - INFO - Mod: cerys-lunaponics v0.5.3 (Wooden Cerys: Lunaponics) by SafTheLamb
+2025-06-14 10:55:01,771 - INFO -   Dependencies: ['base >= 2.0.49', 'astroponics >= 1.6.0', 'Cerys-Moon-of-Fulgora >= 2.4.3', '? bztin']
+2025-06-14 10:55:01,771 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\cerys-lunaponics_0.5.3.zip
+2025-06-14 10:55:01,771 - INFO -   Zipped: True
+2025-06-14 10:55:01,772 - INFO - Mod: Cerys-Moon-of-Fulgora v2.16.12 (Cerys) by thesixthroc
+2025-06-14 10:55:01,772 - INFO -   Dependencies: ['base >= 2.0.51', 'space-age >= 2.0.51', 'Flare Stack >= 3.0.6', 'PlanetsLib >= 1.5.1', '? Planet-Hopper', '? visible-planets >= 1.2.11', '(?) PlutoniumEnergy', '(?) limit-special-building-surfaces']
+2025-06-14 10:55:01,772 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Cerys-Moon-of-Fulgora_2.16.12.zip
+2025-06-14 10:55:01,772 - INFO -   Zipped: True
+2025-06-14 10:55:01,772 - INFO - Mod: cf-lib v0.0.14 (cackling fiends library) by cackling fiend
+2025-06-14 10:55:01,772 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,772 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\cf-lib_0.0.14.zip
+2025-06-14 10:55:01,772 - INFO -   Zipped: True
+2025-06-14 10:55:01,772 - INFO - Mod: ChangeInserterDropLane v1.1.0 (Change Inserter Drop Lane) by raiguard, Krastor, Linver
+2025-06-14 10:55:01,772 - INFO -   Dependencies: ['base >= 2.0.0', 'flib >= 0.15.0']
+2025-06-14 10:55:01,773 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ChangeInserterDropLane_1.1.0.zip
+2025-06-14 10:55:01,773 - INFO -   Zipped: True
+2025-06-14 10:55:01,773 - INFO - Mod: CharacterModHelper v2.0.4 (Character mod helper) by Pi-C
+2025-06-14 10:55:01,773 - INFO -   Dependencies: ['Pi-C_lib']
+2025-06-14 10:55:01,773 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\CharacterModHelper_2.0.4.zip
+2025-06-14 10:55:01,773 - INFO -   Zipped: True
+2025-06-14 10:55:01,773 - INFO - Mod: CleanFloor v2.0.0 (Clean Floor) by David Skrundz
+2025-06-14 10:55:01,773 - INFO -   Dependencies: []
+2025-06-14 10:55:01,773 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\CleanFloor_2.0.0.zip
+2025-06-14 10:55:01,773 - INFO -   Zipped: True
+2025-06-14 10:55:01,773 - INFO - Mod: CoalOil v1.0.3 (Coal Oil) by Taurunti
+2025-06-14 10:55:01,773 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,773 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\CoalOil_1.0.3.zip
+2025-06-14 10:55:01,774 - INFO -   Zipped: True
+2025-06-14 10:55:01,774 - INFO - Mod: Cold_biters v2.0.9 (Frost Biters) by MFerrari
+2025-06-14 10:55:01,774 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age', '? alien-biomes']
+2025-06-14 10:55:01,774 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Cold_biters_2.0.9.zip
+2025-06-14 10:55:01,774 - INFO -   Zipped: True
+2025-06-14 10:55:01,774 - INFO - Mod: combat-mechanics-overhaul v0.7.2 (Combat Mechanics Overhaul) by Earendel
+2025-06-14 10:55:01,774 - INFO -   Dependencies: ['base >= 2.0.0', '(?) jetpack']
+2025-06-14 10:55:01,774 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\combat-mechanics-overhaul_0.7.2.zip
+2025-06-14 10:55:01,774 - INFO -   Zipped: True
+2025-06-14 10:55:01,774 - INFO - Mod: Common-Industries v1.0.2 (Bridge Technologies) by AivanF
+2025-06-14 10:55:01,774 - INFO -   Dependencies: ['? space-age', '? Better-Power-Armor-Grid', '? space-exploration', '? aai-industry', '? Krastorio2', '? 248k', '? bobelectronics', '? MDbobelectronics', '? bobtech', '? bobplates', '? bobpower', '? angelspetrochem', '? angelssmelting', '? IndustrialRevolution3', '? exotic-industries', '? bzvery', '? bzbintermediates', '? bzbelectronics', '? bzsilicon', '? bzcarbon', '? bzaluminum', '? bztungsten', '? pyhightech', '? pyindustry', '? pypetroleumhandling', '? pyfusionenergy', '? pycoalprocessing', '? pyalternativeenergy', '? 5dim_compatibility', '? 5dim_energy', '? 5dim_nuclear', '? 5dim_mining', '? 5dim_storage', '? 5dim_logistic', '? 5dim_automation', '? omnimatter_crystal', '? omnimatter_energy', '? omnimatter', '? Yi_Tech_Tree_ExtraVanilla', '? yi_engines', '? Yuoki', '? Recipes-Reload']
+2025-06-14 10:55:01,774 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Common-Industries_1.0.2.zip
+2025-06-14 10:55:01,774 - INFO -   Zipped: True
+2025-06-14 10:55:01,774 - INFO - Mod: common-prototypes-graphics v0.0.2 (Common prototypes graphics) by 5forSilver
+2025-06-14 10:55:01,774 - INFO -   Dependencies: []
+2025-06-14 10:55:01,775 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\common-prototypes-graphics_0.0.2.zip
+2025-06-14 10:55:01,775 - INFO -   Zipped: True
+2025-06-14 10:55:01,775 - INFO - Mod: common-prototypes v0.0.3 (Common prototypes) by 5forSilver
+2025-06-14 10:55:01,775 - INFO -   Dependencies: ['space-age >= 2.0.28', 'base >= 2.0.28', 'common-prototypes-graphics >= 0.0.2']
+2025-06-14 10:55:01,775 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\common-prototypes_0.0.3.zip
+2025-06-14 10:55:01,775 - INFO -   Zipped: True
+2025-06-14 10:55:01,775 - INFO - Mod: Content v2.0.0 (Content) by Silari
+2025-06-14 10:55:01,775 - INFO -   Dependencies: []
+2025-06-14 10:55:01,775 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Content_2.0.0.zip
+2025-06-14 10:55:01,775 - INFO -   Zipped: True
+2025-06-14 10:55:01,775 - INFO - Mod: corrundum v1.0.40 (Corrundum) by ZDK, 2025
+2025-06-14 10:55:01,775 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 2.0', '? mineral-chemistry >= 1.0.0']
+2025-06-14 10:55:01,775 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\corrundum_1.0.40.zip
+2025-06-14 10:55:01,775 - INFO -   Zipped: True
+2025-06-14 10:55:01,776 - INFO - Mod: Cosmic-Social-Distancing v1.2.0 (Cosmic Social Distancing) by thesixthroc
+2025-06-14 10:55:01,776 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 2.0.0']
+2025-06-14 10:55:01,776 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Cosmic-Social-Distancing_1.2.0.zip
+2025-06-14 10:55:01,776 - INFO -   Zipped: True
+2025-06-14 10:55:01,776 - INFO - Mod: craft-under-mouse v1.3.0 (Craft Under Mouse) by Kosay Jabre
+2025-06-14 10:55:01,776 - INFO -   Dependencies: ['base >= 1.1.0']
+2025-06-14 10:55:01,776 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\craft-under-mouse_1.3.0.zip
+2025-06-14 10:55:01,776 - INFO -   Zipped: True
+2025-06-14 10:55:01,776 - INFO - Mod: crushing-industry-productivity-research v1.0.2 (Crushing Industry - Productivity Research) by cackling fiend
+2025-06-14 10:55:01,776 - INFO -   Dependencies: ['base', 'crushing-industry', '(?)lignumis']
+2025-06-14 10:55:01,776 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\crushing-industry-productivity-research_1.0.2.zip
+2025-06-14 10:55:01,776 - INFO -   Zipped: True
+2025-06-14 10:55:01,776 - INFO - Mod: crushing-industry v0.4.3 (Crushing Industry) by SafTheLamb
+2025-06-14 10:55:01,777 - INFO -   Dependencies: ['base >= 2.0.32', 'fdsl >= 0.2.1', '? space-age', '? cupric-asteroids >= 1.5.0', '? bztin', '? bzlead', '? bztitanium', '? molten-tungsten', '(?) any-planet-start', '(?) Glass', '(?) aai-industry', '! Rocky-Asteroids']
+2025-06-14 10:55:01,777 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\crushing-industry_0.4.3.zip
+2025-06-14 10:55:01,777 - INFO -   Zipped: True
+2025-06-14 10:55:01,777 - INFO - Mod: cubium v1.0.24 (Cubium) by ZDK, 2025
+2025-06-14 10:55:01,777 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 2.0', 'quality >= 2.0', '? any-planet-start >= 1.1.13']
+2025-06-14 10:55:01,777 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\cubium_1.0.24.zip
+2025-06-14 10:55:01,777 - INFO -   Zipped: True
+2025-06-14 10:55:01,777 - INFO - Mod: CursorEnhancements v2.2.2 (Cursor Enhancements) by raiguard
+2025-06-14 10:55:01,777 - INFO -   Dependencies: ['base >= 2.0.0', 'flib >= 0.15.0', '(?) space-exploration']
+2025-06-14 10:55:01,777 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\CursorEnhancements_2.2.2.zip
+2025-06-14 10:55:01,777 - INFO -   Zipped: True
+2025-06-14 10:55:01,777 - INFO - Mod: data-utils v0.9.5 (DataCpt Utils) by DataCpt
+2025-06-14 10:55:01,778 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,778 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\data-utils_0.9.5.zip
+2025-06-14 10:55:01,778 - INFO -   Zipped: True
+2025-06-14 10:55:01,778 - INFO - Mod: dbots-artillery-bombardment-remote v2.1.1 (Artillery Bombardment Remote (DBot's fork)) by DBotThePony & Shane Madden
+2025-06-14 10:55:01,778 - INFO -   Dependencies: ['base >= 2.0', '! artillery-bombardment-remote']
+2025-06-14 10:55:01,778 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\dbots-artillery-bombardment-remote_2.1.1.zip
+2025-06-14 10:55:01,778 - INFO -   Zipped: True
+2025-06-14 10:55:01,778 - INFO - Mod: dea-dia-system v0.30.0 (○🌐Dea Dia System (ALPHA)) by frontrider
+2025-06-14 10:55:01,778 - INFO -   Dependencies: ['base >= 2.0.28', 'space-age', 'quality_glassware', 'PlanetsLib', 'Cold_biters', 'bioprocessing-tab', 'lex-aircraft', '? SA-AtomicTank', 'SpidertronPatrols', '? space-panels', 'Robocharger-Updated', 'est-tiny-storage-tank', '? Moshine-assets', '? science-tab', '? Better_Starmap_Background', '? dredgeworks >= 0.7.4', '? atan-nuclear-science', '? secretas', '? more-fish', '! fixLargeElectricPole']
+2025-06-14 10:55:01,778 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\dea-dia-system_0.30.0.zip
+2025-06-14 10:55:01,778 - INFO -   Zipped: True
+2025-06-14 10:55:01,778 - INFO - Mod: deadlock-beltboxes-loaders v2.6.0 (Deadlock's Stacking Beltboxes & Compact Loaders) by Deadlock989, Shane Madden, MasterBuilder
+2025-06-14 10:55:01,779 - INFO -   Dependencies: ['base >= 2.0', '? ReStack', '? space-age']
+2025-06-14 10:55:01,779 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\deadlock-beltboxes-loaders_2.6.0.zip
+2025-06-14 10:55:01,779 - INFO -   Zipped: True
+2025-06-14 10:55:01,779 - INFO - Mod: DeadlockStackingForVanilla v2.0.2 (Deadlock Stacking for Vanilla) by billbo99
+2025-06-14 10:55:01,779 - INFO -   Dependencies: ['base', 'rusty-locale', 'deadlock-beltboxes-loaders >= 2.5.0']
+2025-06-14 10:55:01,779 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\DeadlockStackingForVanilla_2.0.2.zip
+2025-06-14 10:55:01,779 - INFO -   Zipped: True
+2025-06-14 10:55:01,779 - INFO - Mod: DiscoScience v2.0.1 (Disco Science) by Daniel Brauer
+2025-06-14 10:55:01,779 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,779 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\DiscoScience_2.0.1.zip
+2025-06-14 10:55:01,780 - INFO -   Zipped: True
+2025-06-14 10:55:01,780 - INFO - Mod: distant-misfires v0.14.3 (Distant Misfires) by DataCpt
+2025-06-14 10:55:01,780 - INFO -   Dependencies: ['base >= 2.0', 'data-utils>= 0.9.5', '?space-age', '(?)Krastorio2', '!IndustrialRevolution3']
+2025-06-14 10:55:01,780 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\distant-misfires_0.14.3.zip
+2025-06-14 10:55:01,780 - INFO -   Zipped: True
+2025-06-14 10:55:01,780 - INFO - Mod: Diversitree v1.0.12 (Diversitree) by S6X
+2025-06-14 10:55:01,780 - INFO -   Dependencies: ['base >= 2.0.43', 'space-age >= 2.0.43']
+2025-06-14 10:55:01,780 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Diversitree_1.0.12.zip
+2025-06-14 10:55:01,780 - INFO -   Zipped: True
+2025-06-14 10:55:01,780 - INFO - Mod: DoubleWagons v1.0.0 (Black Wagons) by DellAquila, kuxynator, Alkumist
+2025-06-14 10:55:01,780 - INFO -   Dependencies: ['base >= 2.0.14', '?elevated-rails >= 2.0.14']
+2025-06-14 10:55:01,780 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\DoubleWagons_1.0.0.zip
+2025-06-14 10:55:01,780 - INFO -   Zipped: True
+2025-06-14 10:55:01,780 - INFO - Mod: early-agriculture v1.0.3 (Early Agriculture) by SafTheLamb
+2025-06-14 10:55:01,781 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.1.4', 'space-age', '? Diversitree', '? wood-logistics', '(?) aai-industry']
+2025-06-14 10:55:01,781 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\early-agriculture_1.0.3.zip
+2025-06-14 10:55:01,781 - INFO -   Zipped: True
+2025-06-14 10:55:01,781 - INFO - Mod: EarlyvatedRails v1.0.5 (Earlyvated Rails) by S6X
+2025-06-14 10:55:01,781 - INFO -   Dependencies: ['base >= 2.0.20', 'elevated-rails >= 2.0.0']
+2025-06-14 10:55:01,781 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\EarlyvatedRails_1.0.5.zip
+2025-06-14 10:55:01,781 - INFO -   Zipped: True
+2025-06-14 10:55:01,781 - INFO - Mod: EditorExtensions v2.5.0 (Editor Extensions) by raiguard
+2025-06-14 10:55:01,781 - INFO -   Dependencies: ['base >= 2.0.42', 'flib >= 0.16.2', '? space-age', '? CursorEnhancements', '(?) RecipeBook', '(?) aai-industry', '(?) Krastorio2', '(?) omnimatter_compression', '(?) space-exploration', '(?) Transport_Drones', '(?) PickerDollies', '(?) DeadlockStackingForAngels']
+2025-06-14 10:55:01,781 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\EditorExtensions_2.5.0.zip
+2025-06-14 10:55:01,781 - INFO -   Zipped: True
+2025-06-14 10:55:01,781 - INFO - Mod: Electric Furnaces v2.5.2 (Electric Furnaces) by GotLag
+2025-06-14 10:55:01,781 - INFO -   Dependencies: []
+2025-06-14 10:55:01,782 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Electric Furnaces_2.5.2.zip
+2025-06-14 10:55:01,782 - INFO -   Zipped: True
+2025-06-14 10:55:01,782 - INFO - Mod: Electric_flying_enemies v0.1.5 (Electric flying enemies) by MFerrari
+2025-06-14 10:55:01,782 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age']
+2025-06-14 10:55:01,782 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Electric_flying_enemies_0.1.5.zip
+2025-06-14 10:55:01,782 - INFO -   Zipped: True
+2025-06-14 10:55:01,782 - INFO - Mod: elevated-pipes v1.3.1 (Elevated pipes) by Quezler & Redotix99
+2025-06-14 10:55:01,782 - INFO -   Dependencies: ['base', '? space-age', '(?) Bottleneck', '(?) BottleneckLite', '(?) factorissimo-2-notnotmelon >= 3.8.25']
+2025-06-14 10:55:01,782 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\elevated-pipes_1.3.1.zip
+2025-06-14 10:55:01,782 - INFO -   Zipped: True
+2025-06-14 10:55:01,782 - INFO - Mod: enable-all-feature-flags v1.0.2 (Enable all Feature Flags) by notnotmelon
+2025-06-14 10:55:01,783 - INFO -   Dependencies: ['(?) space-age']
+2025-06-14 10:55:01,783 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\enable-all-feature-flags_1.0.2.zip
+2025-06-14 10:55:01,783 - INFO -   Zipped: True
+2025-06-14 10:55:01,783 - INFO - Mod: enemyracemanager v2.0.36 (Enemy Race Manager) by heyqule
+2025-06-14 10:55:01,783 - INFO -   Dependencies: ['base >= 2.0.43', '?space-age >= 2.0.0', '?quality >= 2.0.0', 'enemyracemanager_assets >= 2.0.0', 'erm_libs >= 2.0.5', '~zerm_postprocess >= 2.0.0', 'advanced_target_priorities >= 1.0.0', '?advanced_spaceship_repair >= 1.0.0', '?ArmouredBiters >= 1.2.1', '?Explosive_biters >= 2.3.1', '?Cold_biters >= 2.0.9', '?Toxic_biters >= 2.0.4', '?Kux-OrbitalIonCannon >= 3.8.0', '(?)maraxsis >= 1.23.36', '(?)distant-misfires >= 0.12.5', '(?)bobenemies >= 2.0.0', '(?)rso-mod >= 7.0.15', '(?)combat-mechanics-overhaul >= 0.7.2', '!intelligent-enemy']
+2025-06-14 10:55:01,783 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\enemyracemanager_2.0.36.zip
+2025-06-14 10:55:01,783 - INFO -   Zipped: True
+2025-06-14 10:55:01,783 - INFO - Mod: enemyracemanager_assets v2.0.0 (Enemy Race Manager Asset Pack) by heyqule
+2025-06-14 10:55:01,783 - INFO -   Dependencies: ['base >= 2.0.0', '~ enemyracemanager >= 2.0.0']
+2025-06-14 10:55:01,783 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\enemyracemanager_assets_2.0.0.zip
+2025-06-14 10:55:01,783 - INFO -   Zipped: True
+2025-06-14 10:55:01,784 - INFO - Mod: enhanced-shadows v1.0.2 (Enhanced Shadows) by MeteorSwarm
+2025-06-14 10:55:01,784 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,784 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\enhanced-shadows_1.0.2.zip
+2025-06-14 10:55:01,784 - INFO -   Zipped: True
+2025-06-14 10:55:01,784 - INFO - Mod: equipment-gantry v0.2.3 (Equipment Gantry) by Earendel
+2025-06-14 10:55:01,784 - INFO -   Dependencies: ['base >= 2.0.0', '? informatron >= 0.4.0']
+2025-06-14 10:55:01,784 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\equipment-gantry_0.2.3.zip
+2025-06-14 10:55:01,784 - INFO -   Zipped: True
+2025-06-14 10:55:01,784 - INFO - Mod: erm_libs v2.0.5 (Enemy Race Manager Libraries) by heyqule
+2025-06-14 10:55:01,784 - INFO -   Dependencies: ['base >= 2.0.0', '?space-age >= 2.0.0']
+2025-06-14 10:55:01,784 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_libs_2.0.5.zip
+2025-06-14 10:55:01,784 - INFO -   Zipped: True
+2025-06-14 10:55:01,784 - INFO - Mod: erm_shared_economy v1.0.3 (ERM - Shared Economy) by heyqule
+2025-06-14 10:55:01,784 - INFO -   Dependencies: ['base >= 2.0.43', '?space-age >= 2.0.0', 'enemyracemanager >= 2.0.28', '(?) erm_terran_hd_assets >= 2.0.1', '(?) erm_zerg_hd_assets >= 2.0.3', '(?) erm_toss_hd_assets >= 2.0.1']
+2025-06-14 10:55:01,785 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_shared_economy_1.0.3.zip
+2025-06-14 10:55:01,785 - INFO -   Zipped: True
+2025-06-14 10:55:01,785 - INFO - Mod: erm_toss v2.0.11 (ERM - Protoss / Akilea Tribe) by heyqule
+2025-06-14 10:55:01,785 - INFO -   Dependencies: ['base >= 2.0.43', 'enemyracemanager >= 2.0.29', 'erm_toss_hd_assets >= 2.0.1', 'erm_shared_economy >= 1.0.0', 'erm_toss_economy >= 1.0.0', '? starcraft-music >= 1.0.1', '(?) alien-biomes >= 0.7.2']
+2025-06-14 10:55:01,785 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_toss_2.0.11.zip
+2025-06-14 10:55:01,785 - INFO -   Zipped: True
+2025-06-14 10:55:01,785 - INFO - Mod: erm_toss_economy v1.0.3 (ERM - Protoss Economy) by heyqule
+2025-06-14 10:55:01,785 - INFO -   Dependencies: ['base >= 2.0.43', '?space-age >= 2.0.0', 'enemyracemanager >= 2.0.28', 'erm_toss_hd_assets >= 2.0.1', 'erm_unit_control >= 1.0.0']
+2025-06-14 10:55:01,785 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_toss_economy_1.0.3.zip
+2025-06-14 10:55:01,785 - INFO -   Zipped: True
+2025-06-14 10:55:01,785 - INFO - Mod: erm_toss_hd_assets v2.0.1 (ERM - Protoss HD Graphic Assets) by SHlNZ0U, heyqule
+2025-06-14 10:55:01,785 - INFO -   Dependencies: ['erm_libs >= 2.0.0']
+2025-06-14 10:55:01,786 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_toss_hd_assets_2.0.1.zip
+2025-06-14 10:55:01,786 - INFO -   Zipped: True
+2025-06-14 10:55:01,786 - INFO - Mod: erm_unit_control v1.0.1 (ERM Unit Control) by heyqule
+2025-06-14 10:55:01,786 - INFO -   Dependencies: ['base >= 2.0.34', '(?) ColonyBuilder >= 0.2.0']
+2025-06-14 10:55:01,786 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_unit_control_1.0.1.zip
+2025-06-14 10:55:01,786 - INFO -   Zipped: True
+2025-06-14 10:55:01,786 - INFO - Mod: erm_zerg v2.0.10 (ERM - Zerg / Garm Brood) by heyqule
+2025-06-14 10:55:01,786 - INFO -   Dependencies: ['base >= 2.0.43', 'enemyracemanager >= 2.0.29', 'erm_zerg_hd_assets >= 2.0.3', 'erm_shared_economy >= 1.0.0', 'erm_zerg_economy >= 1.0.0', '? starcraft-music >= 1.0.1', '(?) alien-biomes >= 0.7.2']
+2025-06-14 10:55:01,786 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_zerg_2.0.10.zip
+2025-06-14 10:55:01,786 - INFO -   Zipped: True
+2025-06-14 10:55:01,786 - INFO - Mod: erm_zerg_economy v1.0.1 (ERM - Zerg Economy) by heyqule
+2025-06-14 10:55:01,787 - INFO -   Dependencies: ['base >= 2.0.34', '?space-age >= 2.0.0', 'enemyracemanager >= 2.0.26', 'erm_zerg_hd_assets >= 2.0.3', 'erm_unit_control >= 1.0.0']
+2025-06-14 10:55:01,787 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_zerg_economy_1.0.1.zip
+2025-06-14 10:55:01,787 - INFO -   Zipped: True
+2025-06-14 10:55:01,787 - INFO - Mod: erm_zerg_hd_assets v2.0.3 (ERM - Zerg HD Graphic Assets) by SHlNZ0U, heyqule
+2025-06-14 10:55:01,787 - INFO -   Dependencies: ['erm_libs >= 2.0']
+2025-06-14 10:55:01,787 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\erm_zerg_hd_assets_2.0.3.zip
+2025-06-14 10:55:01,787 - INFO -   Zipped: True
+2025-06-14 10:55:01,787 - INFO - Mod: est-tiny-storage-tank v1.4.0 (Extra Storage Tanks: Tiny Storage Tanks) by ZarSasha, Aurora & Moonlight
+2025-06-14 10:55:01,787 - INFO -   Dependencies: ['base >= 2.0.7', '? space-age', '(?) space-exploration']
+2025-06-14 10:55:01,787 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\est-tiny-storage-tank_1.4.0.zip
+2025-06-14 10:55:01,787 - INFO -   Zipped: True
+2025-06-14 10:55:01,787 - INFO - Mod: even-distribution v2.0.2 (Even Distribution) by 321freddy
+2025-06-14 10:55:01,787 - INFO -   Dependencies: ['base >= 2.0.7']
+2025-06-14 10:55:01,788 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\even-distribution_2.0.2.zip
+2025-06-14 10:55:01,788 - INFO -   Zipped: True
+2025-06-14 10:55:01,788 - INFO - Mod: even-pickier-dollies v2.6.1 (Even Pickier Dollies) by hgschmie
+2025-06-14 10:55:01,788 - INFO -   Dependencies: ['base >= 2.0.24', '! PickerDollies']
+2025-06-14 10:55:01,788 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\even-pickier-dollies_2.6.1.zip
+2025-06-14 10:55:01,788 - INFO -   Zipped: True
+2025-06-14 10:55:01,788 - INFO - Mod: EverythingOnNauvis v0.1.8 (Everything on Nauvis) by Spaghetti
+2025-06-14 10:55:01,788 - INFO -   Dependencies: ['base >= 2.0.47', 'space-age >= 2.0.47', '! naufulglebunusilo', '! rso-mod']
+2025-06-14 10:55:01,788 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\EverythingOnNauvis_0.1.8.zip
+2025-06-14 10:55:01,788 - INFO -   Zipped: True
+2025-06-14 10:55:01,788 - INFO - Mod: Explosive_biters v2.3.1 (Explosive Biters) by MFerrari
+2025-06-14 10:55:01,788 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age', '? alien-biomes', '? Cold_biters']
+2025-06-14 10:55:01,789 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Explosive_biters_2.3.1.zip
+2025-06-14 10:55:01,789 - INFO -   Zipped: True
+2025-06-14 10:55:01,789 - INFO - Mod: Factorio-Tiberium v2.0.12 (Factorio and Conquer: Tiberian Dawn) by JamesFire
+2025-06-14 10:55:01,789 - INFO -   Dependencies: ['base', 'flib >= 0.15.0', '? space-age', '? informatron', '? 5dim_battlefield >= 1.0.4', '? alien-biomes', '? angelsindustries', '? angelsrefining', '? angelspetrochem', '? bobmining >= 1.0.0', '? bobores >= 1.0.0', '? bobrevamp >= 1.0.0', '? bobplates >= 1.0.0', '? DiscoScience >= 1.0.0', '? finely-crafted-graphics', '? Krastorio2', '? Kux-OrbitalIonCannon', '? Mining-Drones-Tiberium', '? Obelisks-of-light >= 1.1.2', '? Orbital Ion Cannon', '? omnimatter >= 4.1.9', '? Prospector >= 1.0.26', '? pump', '? RampantResources >= 1.2.0', '? space-exploration', '? space-exploration-postprocess >= 0.6.18']
+2025-06-14 10:55:01,789 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Factorio-Tiberium_2.0.12.zip
+2025-06-14 10:55:01,789 - INFO -   Zipped: True
+2025-06-14 10:55:01,789 - INFO - Mod: factorio_hd_age_elevated_rails v1.0.10 (Factorio HD Age: Elevated-Rails) by Ingo_Igel
+2025-06-14 10:55:01,789 - INFO -   Dependencies: ['base >= 2.0', 'elevated-rails >=2.0']
+2025-06-14 10:55:01,789 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\factorio_hd_age_elevated_rails_1.0.10.zip
+2025-06-14 10:55:01,789 - INFO -   Zipped: True
+2025-06-14 10:55:01,789 - INFO - Mod: factorio_hd_age_quality v1.0.8 (Factorio HD Age: Quality) by Ingo_Igel
+2025-06-14 10:55:01,790 - INFO -   Dependencies: ['base >= 2.0.29', 'quality >=2.0.29']
+2025-06-14 10:55:01,790 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\factorio_hd_age_quality_1.0.8.zip
+2025-06-14 10:55:01,790 - INFO -   Zipped: True
+2025-06-14 10:55:01,790 - INFO - Mod: factorissimo-2-notnotmelon v3.8.26 (Factorissimo 3) by MagmaMcFry, notnotmelon
+2025-06-14 10:55:01,790 - INFO -   Dependencies: ['base >= 2.0.12', '? space-age', '! Factorissimo2', '! Factorissimo2-Space-Age-Port', '(?) Bio_Industries', '(?) power-grid-comb', '(?) EfficientSmelting', '(?) Krastorio2', '(?) PickerDollies', '(?) advanced_fluid_handling_for_py', '(?) SchallBeltConfiguration', '(?) any-planet-start']
+2025-06-14 10:55:01,790 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\factorissimo-2-notnotmelon_3.8.26.zip
+2025-06-14 10:55:01,790 - INFO -   Zipped: True
+2025-06-14 10:55:01,790 - INFO - Mod: factoryplanner v2.0.20 (Factory Planner) by Therenas
+2025-06-14 10:55:01,790 - INFO -   Dependencies: ['base >= 2.0.44', 'flib >= 0.15.0']
+2025-06-14 10:55:01,790 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\factoryplanner_2.0.20.zip
+2025-06-14 10:55:01,790 - INFO -   Zipped: True
+2025-06-14 10:55:01,790 - INFO - Mod: FactorySearch v1.13.3 (Factory Search) by Xorimuth
+2025-06-14 10:55:01,790 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,791 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FactorySearch_1.13.3.zip
+2025-06-14 10:55:01,791 - INFO -   Zipped: True
+2025-06-14 10:55:01,791 - INFO - Mod: far-reach v2.0.0 (Far Reach) by Fexx
+2025-06-14 10:55:01,791 - INFO -   Dependencies: ['base >= 0.15.0']
+2025-06-14 10:55:01,791 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\far-reach_2.0.0.zip
+2025-06-14 10:55:01,791 - INFO -   Zipped: True
+2025-06-14 10:55:01,791 - INFO - Mod: FasterPavements v0.4.0 (Faster Pavements) by Felix Bade
+2025-06-14 10:55:01,791 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,791 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FasterPavements_0.4.0.zip
+2025-06-14 10:55:01,791 - INFO -   Zipped: True
+2025-06-14 10:55:01,791 - INFO - Mod: fdsl v0.2.1 (Factorio Data Standards Library) by SafTheLamb
+2025-06-14 10:55:01,791 - INFO -   Dependencies: []
+2025-06-14 10:55:01,791 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\fdsl_0.2.1.zip
+2025-06-14 10:55:01,791 - INFO -   Zipped: True
+2025-06-14 10:55:01,792 - INFO - Mod: FilterChests v1.2.0 (Filter Chests) by Xorimuth
+2025-06-14 10:55:01,792 - INFO -   Dependencies: ['base', '(?) WideChests']
+2025-06-14 10:55:01,792 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FilterChests_1.2.0.zip
+2025-06-14 10:55:01,792 - INFO -   Zipped: True
+2025-06-14 10:55:01,792 - INFO - Mod: finely-crafted-graphics v1.1.0 (Finely Crafted Graphics) by hurricane
+2025-06-14 10:55:01,792 - INFO -   Dependencies: []
+2025-06-14 10:55:01,792 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\finely-crafted-graphics_1.1.0.zip
+2025-06-14 10:55:01,792 - INFO -   Zipped: True
+2025-06-14 10:55:01,792 - INFO - Mod: fire-lights v0.13.1 (Fire Lights) by DataCpt
+2025-06-14 10:55:01,793 - INFO -   Dependencies: ['base >= 2.0', 'data-utils', '?space-age', '?diurnal-dynamics', '?distant-misfires', '?realistic-flashlight-fixed', '?Pro-Flashlight']
+2025-06-14 10:55:01,793 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\fire-lights_0.13.1.zip
+2025-06-14 10:55:01,793 - INFO -   Zipped: True
+2025-06-14 10:55:01,793 - INFO - Mod: Flare Stack v3.0.6 (Flare Stack) by GotLag
+2025-06-14 10:55:01,793 - INFO -   Dependencies: ['base>=2.0.0', '(?)deadlock_stacked_recipes', '(?)DeadlockStackingForAngels', '(?)DeadlockStackingForBobs', '(?)DeadlockStackingForVanilla']
+2025-06-14 10:55:01,793 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Flare Stack_3.0.6.zip
+2025-06-14 10:55:01,793 - INFO -   Zipped: True
+2025-06-14 10:55:01,793 - INFO - Mod: flib v0.16.3 (Factorio Library) by raiguard, Optera, justarandomgeek, Nexela
+2025-06-14 10:55:01,793 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,793 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\flib_0.16.3.zip
+2025-06-14 10:55:01,794 - INFO -   Zipped: True
+2025-06-14 10:55:01,794 - INFO - Mod: Flow Control v3.2.3 (Flow Control) by GotLag
+2025-06-14 10:55:01,794 - INFO -   Dependencies: ['base >= 2.0.8', '? valves >= 1.0.0']
+2025-06-14 10:55:01,794 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Flow Control_3.2.3.zip
+2025-06-14 10:55:01,794 - INFO -   Zipped: True
+2025-06-14 10:55:01,794 - INFO - Mod: Fluid-level-indicator v0.9.9 (Fluid Level Indicator) by kmecseki
+2025-06-14 10:55:01,794 - INFO -   Dependencies: []
+2025-06-14 10:55:01,794 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Fluid-level-indicator_0.9.9.zip
+2025-06-14 10:55:01,794 - INFO -   Zipped: True
+2025-06-14 10:55:01,794 - INFO - Mod: FluidMustFlow v1.4.3 (Fluid Must Flow) by Linver, Krastor, raiguard
+2025-06-14 10:55:01,794 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,794 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FluidMustFlow_1.4.3.zip
+2025-06-14 10:55:01,794 - INFO -   Zipped: True
+2025-06-14 10:55:01,794 - INFO - Mod: FluidWagonColorMask v2.0.0 (Fluid Wagon Color Mask) by yeahtoast
+2025-06-14 10:55:01,795 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,795 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FluidWagonColorMask_2.0.0.zip
+2025-06-14 10:55:01,795 - INFO -   Zipped: True
+2025-06-14 10:55:01,795 - INFO - Mod: FNEI v0.4.6 (FNEI) by npo6ka
+2025-06-14 10:55:01,795 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,795 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\FNEI_0.4.6.zip
+2025-06-14 10:55:01,795 - INFO -   Zipped: True
+2025-06-14 10:55:01,795 - INFO - Mod: foundry-restructuring v1.0.0 (Foundry Restructuring) by radicallarry
+2025-06-14 10:55:01,795 - INFO -   Dependencies: ['space-age']
+2025-06-14 10:55:01,795 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\foundry-restructuring_1.0.0.zip
+2025-06-14 10:55:01,795 - INFO -   Zipped: True
+2025-06-14 10:55:01,795 - INFO - Mod: Fridge v0.2.1 (Cold Chain Logistics (Fridge)) by LightningMaster
+2025-06-14 10:55:01,795 - INFO -   Dependencies: ['base >= 2.0.2', '?space-age']
+2025-06-14 10:55:01,795 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Fridge_0.2.1.zip
+2025-06-14 10:55:01,796 - INFO -   Zipped: True
+2025-06-14 10:55:01,796 - INFO - Mod: fulgora-coralmium-agriculture v1.2.3 (Wooden Fulgora: Coralmium Agriculture) by SafTheLamb
+2025-06-14 10:55:01,796 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.2.1', 'space-age', '? early-agriculture', '? wood-industry', '? wood-logistics', '(?) Voidcraft >= 1.4']
+2025-06-14 10:55:01,796 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\fulgora-coralmium-agriculture_1.2.3.zip
+2025-06-14 10:55:01,796 - INFO -   Zipped: True
+2025-06-14 10:55:01,796 - INFO - Mod: galore_lib v1.6.0 (GaloreLib) by JTnadrooi
+2025-06-14 10:55:01,796 - INFO -   Dependencies: ['base >= 2.0', '(?) space-age', '(?) wolfprod', '(?) reskins-angels']
+2025-06-14 10:55:01,796 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\galore_lib_1.6.0.zip
+2025-06-14 10:55:01,796 - INFO -   Zipped: True
+2025-06-14 10:55:01,796 - INFO - Mod: ghost-counter v2.0.1 (Ghost Counter) by Inappropriate Penguin
+2025-06-14 10:55:01,796 - INFO -   Dependencies: ['base >= 2.0.7']
+2025-06-14 10:55:01,796 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ghost-counter_2.0.1.zip
+2025-06-14 10:55:01,796 - INFO -   Zipped: True
+2025-06-14 10:55:01,796 - INFO - Mod: gleba-reborn v1.1.0 (Gleba Reborn) by Zirchona
+2025-06-14 10:55:01,797 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age']
+2025-06-14 10:55:01,797 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\gleba-reborn_1.1.0.zip
+2025-06-14 10:55:01,797 - INFO -   Zipped: True
+2025-06-14 10:55:01,797 - INFO - Mod: glutenfree-ltn-thought-bubble v2.0.1 (Logistic Train Network - thought bubble) by Quezler
+2025-06-14 10:55:01,797 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', '? base', '? space-age', 'LogisticTrainNetwork']
+2025-06-14 10:55:01,797 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\glutenfree-ltn-thought-bubble_2.0.1.zip
+2025-06-14 10:55:01,797 - INFO -   Zipped: True
+2025-06-14 10:55:01,797 - INFO - Mod: glutenfree-se-rocket-launch-pad-label v2.0.0 (Space Exploration - cargo rocket label) by Quezler
+2025-06-14 10:55:01,797 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', 'base', 'space-exploration', 'space-exploration-scripts']
+2025-06-14 10:55:01,797 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\glutenfree-se-rocket-launch-pad-label_2.0.0.zip
+2025-06-14 10:55:01,797 - INFO -   Zipped: True
+2025-06-14 10:55:01,798 - INFO - Mod: grappling-gun v0.4.1 (Grappling Gun) by Earendel
+2025-06-14 10:55:01,798 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,798 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\grappling-gun_0.4.1.zip
+2025-06-14 10:55:01,798 - INFO -   Zipped: True
+2025-06-14 10:55:01,798 - INFO - Mod: GUI_Unifyer v2.0.1 (GUI Unifier) by Snouz & Solus Caelum
+2025-06-14 10:55:01,798 - INFO -   Dependencies: ['base >= 2.0.0', '?Bluegistics', '?248k', '?actual-craft-times-remade', '?advanced-logistics-system-fork', '?AttilaZoomMod', '?automatic-belt-direction', '?AutoTrash', '?BeastFinder', '?BetterBotsFixed', '?billbo99_factorio_tweaks', '?BlackMarket2', '?blueprint-request', '?BlueprintAlignment', '?BlueprintLab_design', '?blueprint_flip_and_turn', '?bobclasses', '?bobinserters', '?boblogistics', '?CargoTrainManager', '?ChangeMapSettings', '?CitiesOfEarth', '?CleanMap', '?clock', '?clusterio', '?CommuGuideMod', '?creative-mod', '?CredoTimeLapseModByGalapagon', '?Cursed-Exp', '?Death_Counter', '?Decu', '?default-wait-conditions', '?DeleteAdjacentChunk', '?DeleteEmptyChunks', '?diplomacy', '?DoingThingsByHand', '?Electronic_Locomotives', '?enemyracemanager', '?FacAutoScreenshot', '?Factorissimo2', '?factoryplanner', '?FJEI', '?forces', '?helmod', '?Hive_Mind', '?Hive_Mind_Remastered', '?homeworld_redux', '?howfardiditgo', '?informatron', '?ingteb', '?inserter-throughput', '?KillLostBots', '?kraskaska-total-raw-resources-calc', '?Kux-BlueprintEditor', '?Kux-CraftingTools', '?Kux-HandcraftGhosts', '?Kux-OrbitalIonCannon', '?LandfillEverything', '?LandfillEverythingAndPumps', '?LandfillEverythingButTrains', '?LandfillEverythingU', '?Logistic-Machines', '?LogisticRequestManager', '?m-lawful-evil', '?markers', '?modmashsplinternewworlds', '?ModuleInserter', '?NewGamePlus', '?NonWaveDefense2', '?Not_Enough_Todo', '?Nullius', '?oarc-mod', '?osha_hot_swap', '?OutpostPlanner', '?PersonalTeleporter', '?PickerInventoryTools', '?PicksRocketStats', '?Placeables', '?Powered_Entities', '?production-monitor', '?pycoalprocessing', '?qiMenu', '?quickbarimportexport', '?rd-se-multiplayer-compat', '?RecExplo', '?region-cloner', '?remote-switch', '?research-counter', '?Rich_Text_Helper', '?RitnTeleportation', '?rocket-silo-stats', '?RPG', '?SchallEndgameEvolution', '?SchallOreConversion', '?SchallRailwayController', '?SchallSatelliteController', '?Shuttle_Train_Continued', '?Simple_Circuit_Trains', '?SkyWaveDefense', '?smartchest', '?solar-calc', '?SolarRatio', '?some-zoom', '?space-exploration', '?space-factorissimo-updated', '?SpaceMod', '?SpawnControl', '?Spiderissmo', '?spidersentinel', '?TeamCoop', '?Teleportation_Redux', '?TheFatController', '?TimedSpawnControl', '?Todo-List', '?TogglePeacefulMode', '?ToggleSpeedBoost', '?train-log', '?train-pubsub', '?Trashcan', '?TSM-outpost-builder', '?upgrade-planner-next', '?usage-detector', '?what-is-it-really-used-for', '?what-is-missing', '?whats-missing', '?YARM']
+2025-06-14 10:55:01,798 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\GUI_Unifyer_2.0.1.zip
+2025-06-14 10:55:01,798 - INFO -   Zipped: True
+2025-06-14 10:55:01,798 - INFO - Mod: HelicopterRevival v0.3.0 (HelicopterRevival) by twilightthepony
+2025-06-14 10:55:01,799 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,799 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\HelicopterRevival_0.3.0.zip
+2025-06-14 10:55:01,799 - INFO -   Zipped: True
+2025-06-14 10:55:01,799 - INFO - Mod: helmod v2.1.7 (Helmod: Assistant for planning your factory) by Helfima
+2025-06-14 10:55:01,799 - INFO -   Dependencies: ['base >= 2.0.42']
+2025-06-14 10:55:01,799 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\helmod_2.1.7.zip
+2025-06-14 10:55:01,799 - INFO -   Zipped: True
+2025-06-14 10:55:01,799 - INFO - Mod: Honk v5.1.1 (Honk) by GotLag
+2025-06-14 10:55:01,799 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,799 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Honk_5.1.1.zip
+2025-06-14 10:55:01,800 - INFO -   Zipped: True
+2025-06-14 10:55:01,800 - INFO - Mod: hot-metals v1.2.6 (Hot metals) by cackling fiend
+2025-06-14 10:55:01,800 - INFO -   Dependencies: ['base', 'cf-lib >= 0.0.2']
+2025-06-14 10:55:01,800 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\hot-metals_1.2.6.zip
+2025-06-14 10:55:01,800 - INFO -   Zipped: True
+2025-06-14 10:55:01,800 - INFO - Mod: Hovercrafts v2.0.4 (Hovercrafts) by Arcani_Victus
+2025-06-14 10:55:01,800 - INFO -   Dependencies: ['base', '? laser_tanks', '(?) laser_tanks_updated', '(?) space-exploration']
+2025-06-14 10:55:01,800 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Hovercrafts_2.0.4.zip
+2025-06-14 10:55:01,800 - INFO -   Zipped: True
+2025-06-14 10:55:01,800 - INFO - Mod: id-like-cliff-explosives-on-nauvis-please v1.0.2 (I'd like cliff explosives on nauvis please) by Quezler
+2025-06-14 10:55:01,800 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', 'base', '~ space-age']
+2025-06-14 10:55:01,800 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\id-like-cliff-explosives-on-nauvis-please_1.0.2.zip
+2025-06-14 10:55:01,801 - INFO -   Zipped: True
+2025-06-14 10:55:01,801 - INFO - Mod: Igrys v1.5.0 (Igrys) by EgorexW
+2025-06-14 10:55:01,801 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 1.0', 'PlanetsLib >= 1.2', 'new-diagonal-inserter >= 1.0.5']
+2025-06-14 10:55:01,801 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Igrys_1.5.0.zip
+2025-06-14 10:55:01,801 - INFO -   Zipped: True
+2025-06-14 10:55:01,801 - INFO - Mod: infinite-quality-tiers v1.0.5 (Infinite Quality Tiers) by notnotmelon
+2025-06-14 10:55:01,801 - INFO -   Dependencies: ['base', 'quality']
+2025-06-14 10:55:01,801 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\infinite-quality-tiers_1.0.5.zip
+2025-06-14 10:55:01,801 - INFO -   Zipped: True
+2025-06-14 10:55:01,801 - INFO - Mod: informatron v0.4.0 (InformaTron) by Earendel
+2025-06-14 10:55:01,801 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,801 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\informatron_0.4.0.zip
+2025-06-14 10:55:01,801 - INFO -   Zipped: True
+2025-06-14 10:55:01,801 - INFO - Mod: inserter-throughput v0.1.6 (Inserter Throughput) by curiosity-a
+2025-06-14 10:55:01,802 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,802 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\inserter-throughput_0.1.6.zip
+2025-06-14 10:55:01,802 - INFO -   Zipped: True
+2025-06-14 10:55:01,802 - INFO - Mod: InserterFuelLeech v1.0.0 (Inserter Fuel Leech) by Klonan (BurnerLeech), Allan Wegan alias Oktokolo
+2025-06-14 10:55:01,802 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,802 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\InserterFuelLeech_1.0.0.zip
+2025-06-14 10:55:01,802 - INFO -   Zipped: True
+2025-06-14 10:55:01,802 - INFO - Mod: InserterVisualizerLite v1.0.4 (Inserter Visualizer Lite) by r3nt5ch3r
+2025-06-14 10:55:01,802 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,802 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\InserterVisualizerLite_1.0.4.zip
+2025-06-14 10:55:01,802 - INFO -   Zipped: True
+2025-06-14 10:55:01,802 - INFO - Mod: interstellar-travel v1.0.8 (Interstellar Travel) by angellusmortis
+2025-06-14 10:55:01,802 - INFO -   Dependencies: ['base >= 2.0.20', 'PlanetsLib >= 1.1.20', 'space-age', '? any-planet-start', '? Redrawn-Space-Connections', '? castra', '? corrundum', '? cubium', '? dea-dia-system', '? erm_toss', '? erm_zerg', '? Factorio-Tiberium', '? Igrys', '? janus', '? maraxsis', '? metal-and-stars', '? naufulglebunusilo', '? Paracelsin', '? planet-akularis', '? planet-arrakis', '? planet-froodara', '? planet-gerkizia', '? planet-hexalith', '? planet-ithurice', '? planet-mickora', '? planet-nekohaven', '? planet-quadromire', '? planet-tapatrion', '? planet-tchekor', '? planet-vicrox', '? planet-zzhora', '? rubia', '? secretas', '? slp-dyson-sphere-reworked', '? tenebris-prime', '? terrapalus', '? VoidProcessing', '! Tiered-Solar-System', '! SolarSystems', '! SolarSystems-Fork', '! Nexus']
+2025-06-14 10:55:01,803 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\interstellar-travel_1.0.8.zip
+2025-06-14 10:55:01,803 - INFO -   Zipped: True
+2025-06-14 10:55:01,803 - INFO - Mod: inventory-mover v0.1.6 (Inventory Mover) by BinarySpike
+2025-06-14 10:55:01,803 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,803 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\inventory-mover_0.1.6.zip
+2025-06-14 10:55:01,803 - INFO -   Zipped: True
+2025-06-14 10:55:01,803 - INFO - Mod: inventory-repair v20.0.3 (Inventory Repair) by calcwizard
+2025-06-14 10:55:01,803 - INFO -   Dependencies: ['base >= 2.0.7']
+2025-06-14 10:55:01,803 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\inventory-repair_20.0.3.zip
+2025-06-14 10:55:01,803 - INFO -   Zipped: True
+2025-06-14 10:55:01,804 - INFO - Mod: janus v1.2.0 (Janus) by RochX
+2025-06-14 10:55:01,804 - INFO -   Dependencies: ['space-age >= 2.0.28', 'PlanetsLib >= 1.1.21']
+2025-06-14 10:55:01,804 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\janus_1.2.0.zip
+2025-06-14 10:55:01,804 - INFO -   Zipped: True
+2025-06-14 10:55:01,804 - INFO - Mod: jetpack v0.4.10 (Jetpack) by Earendel
+2025-06-14 10:55:01,804 - INFO -   Dependencies: ['base >= 2.0.22', '(?) PickerTweaks']
+2025-06-14 10:55:01,804 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\jetpack_0.4.10.zip
+2025-06-14 10:55:01,804 - INFO -   Zipped: True
+2025-06-14 10:55:01,804 - INFO - Mod: Krastorio2-spaced-out v1.3.4 (Krastorio 2 Spaced Out) by Polka_37
+2025-06-14 10:55:01,804 - INFO -   Dependencies: ['base >= 2.0.47', 'space-age >= 2.0.47', 'quality >= 2.0.47', 'Krastorio2Assets >= 2.0.2', 'ChangeInserterDropLane >= 1.1.0', 'PlanetsLib >= 1.3.7', 'flib >= 0.16.2', '! Krastorio2']
+2025-06-14 10:55:01,804 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Krastorio2-spaced-out_1.3.4.zip
+2025-06-14 10:55:01,804 - INFO -   Zipped: True
+2025-06-14 10:55:01,804 - INFO - Mod: Krastorio2Assets v2.0.2 (Krastorio 2 Assets) by Linver, Krastor, raiguard
+2025-06-14 10:55:01,805 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,805 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Krastorio2Assets_2.0.2.zip
+2025-06-14 10:55:01,805 - INFO -   Zipped: True
+2025-06-14 10:55:01,805 - INFO - Mod: Krastorio2 v2.0.5 (Krastorio 2) by Linver, Krastor, raiguard
+2025-06-14 10:55:01,805 - INFO -   Dependencies: ['base >= 2.0.42', 'Krastorio2Assets >= 2.0.2', 'ChangeInserterDropLane >= 1.1.0', 'flib >= 0.16.2', '(?) aai-industry >= 0.3.17', '(?) aai-vehicles-chaingunner >= 0.5.2', '(?) Aircraft >= 1.6.6', '(?) angelsindustries >= 0.4.3', '(?) angelspetrochem >= 0.9.11', '(?) bobenemies >= 0.17.6', '(?) bullet-trails >= 0.4.1', '(?) ElectricTrain', '(?) deadlock-beltboxes-loaders >= 2.1.13', '(?) DeadlockLargerLamp >= 1.3.1', '(?) Dectorio >= 0.10.5', '(?) DiscoScience >= 1.0.0', '(?) Flow Control >= 3.0.5', '(?) rso-mod >= 6.0.6', '(?) Tral_robot_tree_farm >= 1.2.5', '(?) vtk-armor-plating >= 0.8.0', '(?) WaterAsAResource >= 0.7.8', '(?) better-victory-screen >= 0.2.10', '! quality', '! space-age', '! Annotorio', '! brave-new-world', '! Clowns-Nuclear', '! HdProcessedMetal', '! KS_Power', '! Krastorio', '! Krastorio-graphics', '! KS_Combat', '! ModularLife', '! Power Armor MK3', '! PowerAndArmor', '! SimpleSilicon', '! bobequipment', '! bobvehicleequipment', '! custom_power_armor_fix', '! laborat']
+2025-06-14 10:55:01,805 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Krastorio2_2.0.5.zip
+2025-06-14 10:55:01,805 - INFO -   Zipped: True
+2025-06-14 10:55:01,805 - INFO - Mod: kry-all-planet-mods v1.0.17 (Enable All Planet Mods) by Kryzeth
+2025-06-14 10:55:01,805 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age', 'kry_stdlib > 2.0.0', 'terrapalus', 'maraxsis', 'tenebris-prime', 'Factorio-Tiberium', 'Cerys-Moon-of-Fulgora', 'planet-muluna', 'naufulglebunusilo', 'janus', 'lignumis', 'corrundum', 'castra', 'secretas', 'Moshine', 'cubium', 'rubia', 'Igrys', 'Paracelsin', 'slp-dyson-sphere-reworked', 'metal-and-stars', 'dea-dia-system', '? planet-arrakis', '? erm_toss', '? erm_zerg', '? the-eclipse-rift-system', '? planet-woodoria']
+2025-06-14 10:55:01,805 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\kry-all-planet-mods_1.0.17.zip
+2025-06-14 10:55:01,805 - INFO -   Zipped: True
+2025-06-14 10:55:01,805 - INFO - Mod: kry_stdlib v2.0.6 (Kryzeth Standard Library) by Afforess, Kryzeth
+2025-06-14 10:55:01,806 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,806 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\kry_stdlib_2.0.6.zip
+2025-06-14 10:55:01,806 - INFO -   Zipped: True
+2025-06-14 10:55:01,806 - INFO - Mod: Kux-CoreLib v3.17.7 (Kuxynator's Core Library) by Kuxynator
+2025-06-14 10:55:01,806 - INFO -   Dependencies: ['base >= 2.0.55', '(?) factorissimo-2-notnotmelon', '(?) even-pickier-dollies', '(?) PickerDollies']
+2025-06-14 10:55:01,806 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Kux-CoreLib_3.17.7.zip
+2025-06-14 10:55:01,806 - INFO -   Zipped: True
+2025-06-14 10:55:01,806 - INFO - Mod: Kux-GuiLib v3.0.9 (Kuxynator's GUI Library) by Kuxynator
+2025-06-14 10:55:01,806 - INFO -   Dependencies: ['base >= 2.0', 'Kux-CoreLib >= 3.17.7']
+2025-06-14 10:55:01,806 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Kux-GuiLib_3.0.9.zip
+2025-06-14 10:55:01,806 - INFO -   Zipped: True
+2025-06-14 10:55:01,806 - INFO - Mod: Kux-OrbitalIonCannon v3.8.12 (Orbital Ion Cannon (Space Edition)) by kuxynator
+2025-06-14 10:55:01,807 - INFO -   Dependencies: ['base >= 2.0', 'Kux-CoreLib >= 3.17.2', 'Kux-GuiLib >= 3.0.4', '(?) bobwarfare', '(?) bobpower', '(?) bobtech', '(?) bobelectronics', '(?) RampantArsenal', '(?) space-exploration', '(?) Krastorio2', '! Orbital Ion Cannon']
+2025-06-14 10:55:01,807 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Kux-OrbitalIonCannon_3.8.12.zip
+2025-06-14 10:55:01,807 - INFO -   Zipped: True
+2025-06-14 10:55:01,807 - INFO - Mod: lane-splitters v0.1.2 (Lane Splitters) by Nimphious
+2025-06-14 10:55:01,807 - INFO -   Dependencies: ['base >= 2.0', '?space-age >= 2.0']
+2025-06-14 10:55:01,807 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lane-splitters_0.1.2.zip
+2025-06-14 10:55:01,807 - INFO -   Zipped: True
+2025-06-14 10:55:01,807 - INFO - Mod: lex-aircraft v1.2.2 (Lex's Aircraft) by Lexsus
+2025-06-14 10:55:01,807 - INFO -   Dependencies: ['base', '? space-age', '? SpidertronEnhancements', '? SpidertronPatrols', '? aai-programmable-structures', '? aai-programmable-vehicles', '? space-exploration', '? Krastorio2']
+2025-06-14 10:55:01,807 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lex-aircraft_1.2.2.zip
+2025-06-14 10:55:01,808 - INFO -   Zipped: True
+2025-06-14 10:55:01,808 - INFO - Mod: Lighted-Poles-Plus v2.0.4 (Lighted Electric Poles +) by Optera
+2025-06-14 10:55:01,808 - INFO -   Dependencies: ['base >= 2.0', 'flib >= 0.15.0', '(?)ShinyBobGFX', '(?)ShinyBob_Icons', '(?)reskins-bobs', '(?)aai-industry', '(?)nullius']
+2025-06-14 10:55:01,808 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Lighted-Poles-Plus_2.0.4.zip
+2025-06-14 10:55:01,808 - INFO -   Zipped: True
+2025-06-14 10:55:01,808 - INFO - Mod: lightorio v2.0.1 (Lightorio) by warped_jack
+2025-06-14 10:55:01,808 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,808 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lightorio_2.0.1.zip
+2025-06-14 10:55:01,808 - INFO -   Zipped: True
+2025-06-14 10:55:01,808 - INFO - Mod: lignumis-assets v1.0.3 (Lignumis assets) by cackling fiend
+2025-06-14 10:55:01,808 - INFO -   Dependencies: []
+2025-06-14 10:55:01,808 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lignumis-assets_1.0.3.zip
+2025-06-14 10:55:01,808 - INFO -   Zipped: True
+2025-06-14 10:55:01,809 - INFO - Mod: lignumis v1.0.53 (Lignumis) by cackling fiend
+2025-06-14 10:55:01,809 - INFO -   Dependencies: ['base', 'space-age >= 2.0.53', 'astroponics >= 1.2.0', 'bioprocessing-tab', 'cf-lib >= 0.0.13', 'flib', 'vanilla_galore_continued', 'Krastorio2-spaced-out', 'lignumis-assets >= 1.0.3', 'mf-buildings >= 1.0.7', 'mf-core >= 1.0.3', 'mf-logistics >= 1.0.1', 'PlanetsLib >= 1.1.26', 'pollution-as-surface-property', 'Wood-Walls >= 1.2.0', 'vulcanus-sulfuric-bacteria', '?aai-industry', '?aai-loaders', '?aai-loaders-sane', '?any-planet-start', '?atan-nuclear-science', '?crushing-industry', '?Diversitree', '?fulgora-coralmium-agriculture', '?gleba-reborn', '?hot-metals >= 1.1.0', '?lane-splitters', '?metal-and-stars', '(?)secretas', '(?)Wood_Gasification_updated', '?wood-industry', '?wood-military >= 2.3.3', '!apm_power_ldinc', '!early-agriculture', '!planet-picker', '!wood-logistics', '!wood-universe-modpack']
+2025-06-14 10:55:01,809 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lignumis_1.0.53.zip
+2025-06-14 10:55:01,809 - INFO -   Zipped: True
+2025-06-14 10:55:01,809 - INFO - Mod: lilys-cubeine-asset-pack-2 v1.0.0 (Lily's Cubeine Technologies - Asset pack) by MsBinaryLily
+2025-06-14 10:55:01,809 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,809 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lilys-cubeine-asset-pack-2_1.0.0.zip
+2025-06-14 10:55:01,809 - INFO -   Zipped: True
+2025-06-14 10:55:01,809 - INFO - Mod: lilys-cubeine-asset-pack v1.0.3 (Lily's Cubeine Technologies - Asset pack) by MsBinaryLily
+2025-06-14 10:55:01,809 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,809 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lilys-cubeine-asset-pack_1.0.3.zip
+2025-06-14 10:55:01,809 - INFO -   Zipped: True
+2025-06-14 10:55:01,810 - INFO - Mod: lilys-cubeine v2.2.1 (Lily's Cubeine Technologies) by MsBinaryLily
+2025-06-14 10:55:01,810 - INFO -   Dependencies: ['base >= 2.0.55', 'space-age >= 2.0.55', 'lilys-cubeine-asset-pack >= 1.0.3', 'lilys-cubeine-asset-pack-2 >= 1.0.0', 'lilys-injector', 'bioprocessing-tab', 'runtime-spoilage-library >= 1.0.0', '? maraxsis', '? astroponics', '? cubium', '? se-space-trains', '? Age-of-Production', '(?) Cerys-Moon-of-Fulgora', '(?) terrapalus', '(?) modules-t4', '(?) secretas', '(?) Moshine', '(?) alien-biomes', '(?) Flow Control', '(?) zithorian-extra-storage-tanks-port']
+2025-06-14 10:55:01,810 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lilys-cubeine_2.2.1.zip
+2025-06-14 10:55:01,810 - INFO -   Zipped: True
+2025-06-14 10:55:01,810 - INFO - Mod: lilys-injector v1.1.0 (Lily's Injector) by MsBinaryLily
+2025-06-14 10:55:01,810 - INFO -   Dependencies: ['base >= 2.0.49', '(?) bobplates']
+2025-06-14 10:55:01,810 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\lilys-injector_1.1.0.zip
+2025-06-14 10:55:01,810 - INFO -   Zipped: True
+2025-06-14 10:55:01,810 - INFO - Mod: LogisticTrainNetwork v2.3.3 (LTN - Logistic Train Network) by Optera
+2025-06-14 10:55:01,810 - INFO -   Dependencies: ['base >= 2.0.39', '(?)cargo-ships']
+2025-06-14 10:55:01,810 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\LogisticTrainNetwork_2.3.3.zip
+2025-06-14 10:55:01,811 - INFO -   Zipped: True
+2025-06-14 10:55:01,811 - INFO - Mod: long_stack_inserter v1.0.1 (Long Stack Inserter) by snouz
+2025-06-14 10:55:01,811 - INFO -   Dependencies: ['space-age']
+2025-06-14 10:55:01,811 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\long_stack_inserter_1.0.1.zip
+2025-06-14 10:55:01,811 - INFO -   Zipped: True
+2025-06-14 10:55:01,811 - INFO - Mod: LouderCargoWagons v2.0.1 (Louder Wagons) by CatWEax
+2025-06-14 10:55:01,811 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,811 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\LouderCargoWagons_2.0.1.zip
+2025-06-14 10:55:01,811 - INFO -   Zipped: True
+2025-06-14 10:55:01,811 - INFO - Mod: LtnManager v0.5.0 (LTN Manager) by nihilistzsche
+2025-06-14 10:55:01,811 - INFO -   Dependencies: ['base >= 2.0.32', 'LogisticTrainNetwork >= 2.0.0', 'flib >= 0.15.0', '? LTN_Combinator_Modernized', '? space-exploration']
+2025-06-14 10:55:01,812 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\LtnManager_0.5.0.zip
+2025-06-14 10:55:01,812 - INFO -   Zipped: True
+2025-06-14 10:55:01,812 - INFO - Mod: LTN_Combinator_Modernized v2.2.5 (LTN Combinator Modernized) by kryojenik
+2025-06-14 10:55:01,812 - INFO -   Dependencies: ['base >= 2.0.32', 'flib >= 0.16.2', 'LogisticTrainNetwork >= 2.0.3']
+2025-06-14 10:55:01,812 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\LTN_Combinator_Modernized_2.2.5.zip
+2025-06-14 10:55:01,812 - INFO -   Zipped: True
+2025-06-14 10:55:01,812 - INFO - Mod: manual-inventory-sort v2.3.0 (Manual Inventory Sorting) by Rustie
+2025-06-14 10:55:01,812 - INFO -   Dependencies: []
+2025-06-14 10:55:01,812 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\manual-inventory-sort_2.3.0.zip
+2025-06-14 10:55:01,812 - INFO -   Zipped: True
+2025-06-14 10:55:01,812 - INFO - Mod: map-tag-generator v2.0.4 (Map Tag Generator) by Majoca
+2025-06-14 10:55:01,812 - INFO -   Dependencies: ['base >= 2.0.48', 'flib >= 0.15.0']
+2025-06-14 10:55:01,813 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\map-tag-generator_2.0.4.zip
+2025-06-14 10:55:01,813 - INFO -   Zipped: True
+2025-06-14 10:55:01,813 - INFO - Mod: maraxsis v1.30.19 (Maraxsis) by notnotmelon
+2025-06-14 10:55:01,813 - INFO -   Dependencies: ['base >= 2.0.26', 'space-age >= 2.0.26', 'SpidertronPatrols >= 2.5.5', 'FluidMustFlow >= 1.4.2', '(?) pyalternativeenergy', '(?) tenebris', '(?) tenebris-prime', '(?) SchallTransportGroup', '(?) modules-t4', '(?) call-plumber >= 1.0.0', '! Land-Pump', '! no-more-gambling', '! quality-better-roboports', '! edible-spoilage']
+2025-06-14 10:55:01,813 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\maraxsis_1.30.19.zip
+2025-06-14 10:55:01,813 - INFO -   Zipped: True
+2025-06-14 10:55:01,813 - INFO - Mod: MechanicusMiniMAX v0.1.8 (Mechanicus (Rebuild)) by markmen494/Hapless; DellAquila; Pi-C; Morton
+2025-06-14 10:55:01,813 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age', 'CharacterModHelper']
+2025-06-14 10:55:01,813 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\MechanicusMiniMAX_0.1.8.zip
+2025-06-14 10:55:01,813 - INFO -   Zipped: True
+2025-06-14 10:55:01,814 - INFO - Mod: metal-and-stars-graphics-2 v0.0.3 (Metal and Stars graphics 2) by 5forSilver
+2025-06-14 10:55:01,814 - INFO -   Dependencies: []
+2025-06-14 10:55:01,814 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\metal-and-stars-graphics-2_0.0.3.zip
+2025-06-14 10:55:01,814 - INFO -   Zipped: True
+2025-06-14 10:55:01,814 - INFO - Mod: metal-and-stars-graphics v0.0.4 (Metal and Stars graphics) by 5forSilver
+2025-06-14 10:55:01,814 - INFO -   Dependencies: []
+2025-06-14 10:55:01,814 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\metal-and-stars-graphics_0.0.4.zip
+2025-06-14 10:55:01,814 - INFO -   Zipped: True
+2025-06-14 10:55:01,814 - INFO - Mod: metal-and-stars v0.1.12 (Metal and Stars) by 5forSilver
+2025-06-14 10:55:01,814 - INFO -   Dependencies: ['space-age >= 2.0.28', 'base >= 2.0.28', '? quality', 'common-prototypes >= 0.0.3', 'metal-and-stars-graphics >= 0.0.4', 'metal-and-stars-graphics-2 >= 0.0.3', 'ArmouredBiters <= 1.2.1', 'PlanetsLib >= 1.2.8', '! Alchemistry', '? Starmap_Nexuz >= 1.0.0', '? Better_Starmap_Background >= 1.1.0', '? atan-nuclear-science', '? visible-planets', '(?) maraxsis', '(?) tenebris', '(?) planet-muluna', '(?) Cerys-Moon-of-Fulgora', '(?) enemyracemanager', '(?) Redrawn-Space-Connections']
+2025-06-14 10:55:01,814 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\metal-and-stars_0.1.12.zip
+2025-06-14 10:55:01,815 - INFO -   Zipped: True
+2025-06-14 10:55:01,815 - INFO - Mod: mf-buildings-graphics-1 v1.0.6 (Mod Framework - Buildings graphics 1) by cackling fiend
+2025-06-14 10:55:01,815 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,815 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mf-buildings-graphics-1_1.0.6.zip
+2025-06-14 10:55:01,815 - INFO -   Zipped: True
+2025-06-14 10:55:01,815 - INFO - Mod: mf-buildings v1.0.7 (Mod Framework - Buildings) by cackling fiend
+2025-06-14 10:55:01,815 - INFO -   Dependencies: ['base', 'mf-core', 'mf-buildings-graphics-1']
+2025-06-14 10:55:01,815 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mf-buildings_1.0.7.zip
+2025-06-14 10:55:01,815 - INFO -   Zipped: True
+2025-06-14 10:55:01,815 - INFO - Mod: mf-core v1.0.3 (Mod Framework - Core) by cackling fiend
+2025-06-14 10:55:01,815 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,815 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mf-core_1.0.3.zip
+2025-06-14 10:55:01,816 - INFO -   Zipped: True
+2025-06-14 10:55:01,816 - INFO - Mod: mf-logistics-graphics-1 v1.0.0 (Mod Framework - Logistics graphics 1) by cackling fiend
+2025-06-14 10:55:01,816 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,816 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mf-logistics-graphics-1_1.0.0.zip
+2025-06-14 10:55:01,816 - INFO -   Zipped: True
+2025-06-14 10:55:01,816 - INFO - Mod: mf-logistics v1.0.1 (Mod Framework - Logistics) by cackling fiend
+2025-06-14 10:55:01,816 - INFO -   Dependencies: ['base', 'mf-core', 'mf-logistics-graphics-1']
+2025-06-14 10:55:01,816 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mf-logistics_1.0.1.zip
+2025-06-14 10:55:01,816 - INFO -   Zipped: True
+2025-06-14 10:55:01,816 - INFO - Mod: Milestones v1.4.5 (Milestones) by Wiwiweb
+2025-06-14 10:55:01,816 - INFO -   Dependencies: ['base >= 2.0.0', 'flib >= 0.16.0']
+2025-06-14 10:55:01,816 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Milestones_1.4.5.zip
+2025-06-14 10:55:01,817 - INFO -   Zipped: True
+2025-06-14 10:55:01,817 - INFO - Mod: miniloader-redux v0.6.5 (Miniloader (Redux)) by hgschmie
+2025-06-14 10:55:01,817 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,817 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\miniloader-redux_0.6.5.zip
+2025-06-14 10:55:01,817 - INFO -   Zipped: True
+2025-06-14 10:55:01,817 - INFO - Mod: minimalist-rails v2.0.3 (Minimal Electric Rails) by snouz
+2025-06-14 10:55:01,817 - INFO -   Dependencies: ['base', '? elevated-rails']
+2025-06-14 10:55:01,817 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\minimalist-rails_2.0.3.zip
+2025-06-14 10:55:01,817 - INFO -   Zipped: True
+2025-06-14 10:55:01,817 - INFO - Mod: mining-patch-planner v1.6.35 (Mining Patch Planner) by Rimbas
+2025-06-14 10:55:01,817 - INFO -   Dependencies: ['base >= 2.0.21']
+2025-06-14 10:55:01,817 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\mining-patch-planner_1.6.35.zip
+2025-06-14 10:55:01,818 - INFO -   Zipped: True
+2025-06-14 10:55:01,818 - INFO - Mod: Mining_Drones v2.0.2 (Mining Drones) by Klonan
+2025-06-14 10:55:01,818 - INFO -   Dependencies: ['base >= 2.0.35', '(?)DirtyMining', '(?)omnimatter_compression', '(?)shrek']
+2025-06-14 10:55:01,818 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Mining_Drones_2.0.2.zip
+2025-06-14 10:55:01,818 - INFO -   Zipped: True
+2025-06-14 10:55:01,818 - INFO - Mod: Mini_Trains v2.0.0 (Mini Trains) by Klonan, Sacredanarchy
+2025-06-14 10:55:01,818 - INFO -   Dependencies: []
+2025-06-14 10:55:01,818 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Mini_Trains_2.0.0.zip
+2025-06-14 10:55:01,818 - INFO -   Zipped: True
+2025-06-14 10:55:01,818 - INFO - Mod: ModuleInserterEx v7.2.2 (Module Inserter Extended) by Gorfiend (Original author: Choumiko)
+2025-06-14 10:55:01,819 - INFO -   Dependencies: ['flib >= 0.15.0']
+2025-06-14 10:55:01,819 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ModuleInserterEx_7.2.2.zip
+2025-06-14 10:55:01,819 - INFO -   Zipped: True
+2025-06-14 10:55:01,819 - INFO - Mod: ModuleInserterSimplified v2.1.1 (Module Inserter Simplified) by Xorimuth
+2025-06-14 10:55:01,819 - INFO -   Dependencies: ['base', '? GhostWarnings', '(?) Shortcuts-ick']
+2025-06-14 10:55:01,819 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\ModuleInserterSimplified_2.1.1.zip
+2025-06-14 10:55:01,819 - INFO -   Zipped: True
+2025-06-14 10:55:01,819 - INFO - Mod: molten-tungsten v0.0.13 (Molten Tungsten) by LuziferSenpai
+2025-06-14 10:55:01,819 - INFO -   Dependencies: ['base', 'space-age', '? more-casting', '(?) aai-loaders-sane']
+2025-06-14 10:55:01,819 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\molten-tungsten_0.0.13.zip
+2025-06-14 10:55:01,819 - INFO -   Zipped: True
+2025-06-14 10:55:01,819 - INFO - Mod: more-casting v0.0.12 (More Casting) by LuziferSenpai
+2025-06-14 10:55:01,819 - INFO -   Dependencies: ['base', 'space-age', '(?) aai-loaders-sane']
+2025-06-14 10:55:01,820 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\more-casting_0.0.12.zip
+2025-06-14 10:55:01,820 - INFO -   Zipped: True
+2025-06-14 10:55:01,820 - INFO - Mod: More_Ammo v1.5.20 (More Ammo) by X_Man1109
+2025-06-14 10:55:01,820 - INFO -   Dependencies: ['base', '? bullet-trails', '? space-exploration', '(?) StarsWithSakura']
+2025-06-14 10:55:01,820 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\More_Ammo_1.5.20.zip
+2025-06-14 10:55:01,820 - INFO -   Zipped: True
+2025-06-14 10:55:01,820 - INFO - Mod: More_Repair_Packs v1.0.7 (More Repair Packs) by X_Man1109
+2025-06-14 10:55:01,820 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,820 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\More_Repair_Packs_1.0.7.zip
+2025-06-14 10:55:01,820 - INFO -   Zipped: True
+2025-06-14 10:55:01,820 - INFO - Mod: Moshine-assets v0.3.14 (Moshine Planet) by snouz
+2025-06-14 10:55:01,820 - INFO -   Dependencies: ['base', 'space-age', '(?) maraxsis']
+2025-06-14 10:55:01,821 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Moshine-assets_0.3.14.zip
+2025-06-14 10:55:01,821 - INFO -   Zipped: True
+2025-06-14 10:55:01,821 - INFO - Mod: Moshine v1.0.20 (Moshine) by snouz
+2025-06-14 10:55:01,821 - INFO -   Dependencies: ['base', 'space-age', 'Moshine-assets >= 0.3.14', 'snouz-big-accumulator >= 1.0.3', 'snouz-big-solar-panel >= 1.0.4', 'snouz_better_substation >= 1.1.0', 'se-space-trains >= 1.0.6', 'long_stack_inserter >= 1.0.1', 'minimalist-rails >= 2.0.2', '(?) bzsilicon', '(?) Glass', '(?) aai-industry', '(?) omnimatter_compression']
+2025-06-14 10:55:01,821 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Moshine_1.0.20.zip
+2025-06-14 10:55:01,821 - INFO -   Zipped: True
+2025-06-14 10:55:01,821 - INFO - Mod: MouseOverConstruction v1.3.2 (Mouse-over Construction) by raiguard
+2025-06-14 10:55:01,821 - INFO -   Dependencies: ['base >= 2.0.23', 'flib >= 0.16.0']
+2025-06-14 10:55:01,821 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\MouseOverConstruction_1.3.2.zip
+2025-06-14 10:55:01,821 - INFO -   Zipped: True
+2025-06-14 10:55:01,821 - INFO - Mod: muluna-graphics v1.0.14 ([MOD DISPLAY NAME]) by MeteorSwarm
+2025-06-14 10:55:01,822 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,822 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\muluna-graphics_1.0.14.zip
+2025-06-14 10:55:01,822 - INFO -   Zipped: True
+2025-06-14 10:55:01,822 - INFO - Mod: muluna-utility-constants v1.0.1 (Muluna Utility Constants) by MeteorSwarm
+2025-06-14 10:55:01,822 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,822 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\muluna-utility-constants_1.0.1.zip
+2025-06-14 10:55:01,822 - INFO -   Zipped: True
+2025-06-14 10:55:01,822 - INFO - Mod: Nanobots2 v3.3.2 (Nanobots: Early Bots 2.0) by Nexela
+2025-06-14 10:55:01,822 - INFO -   Dependencies: ['base >= 2.0.39', 'stdlib2 >= 2.0.0']
+2025-06-14 10:55:01,822 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Nanobots2_3.3.2.zip
+2025-06-14 10:55:01,822 - INFO -   Zipped: True
+2025-06-14 10:55:01,822 - INFO - Mod: naufulglebunusilo v2.0.0 (Naufulglebunusilo) by LambdaLemon
+2025-06-14 10:55:01,822 - INFO -   Dependencies: ['space-age']
+2025-06-14 10:55:01,823 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\naufulglebunusilo_2.0.0.zip
+2025-06-14 10:55:01,823 - INFO -   Zipped: True
+2025-06-14 10:55:01,823 - INFO - Mod: new-diagonal-inserter v1.0.5 (Diagonal Inserter) by Wolbobus
+2025-06-14 10:55:01,823 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,823 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\new-diagonal-inserter_1.0.5.zip
+2025-06-14 10:55:01,823 - INFO -   Zipped: True
+2025-06-14 10:55:01,823 - INFO - Mod: NightvisionToggles v1.0.9 (Nightvision Toggles) by GotLag
+2025-06-14 10:55:01,823 - INFO -   Dependencies: []
+2025-06-14 10:55:01,823 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\NightvisionToggles_1.0.9.zip
+2025-06-14 10:55:01,823 - INFO -   Zipped: True
+2025-06-14 10:55:01,823 - INFO - Mod: nixie-tubes v2.0.2 (Nixie Tubes) by GopherAtl, justarandomgeek
+2025-06-14 10:55:01,823 - INFO -   Dependencies: ['base >= 2.0.34']
+2025-06-14 10:55:01,823 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\nixie-tubes_2.0.2.zip
+2025-06-14 10:55:01,823 - INFO -   Zipped: True
+2025-06-14 10:55:01,824 - INFO - Mod: Noxys_Trees v0.5.2 (Noxys Trees) by Noxy
+2025-06-14 10:55:01,824 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,824 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Noxys_Trees_0.5.2.zip
+2025-06-14 10:55:01,824 - INFO -   Zipped: True
+2025-06-14 10:55:01,824 - INFO - Mod: Nuclear_Artillery_QF v0.0.7 (Nuclear Artillery QuickFix) by npc_strider(morley376), Fr_Dae
+2025-06-14 10:55:01,824 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,824 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Nuclear_Artillery_QF_0.0.7.zip
+2025-06-14 10:55:01,824 - INFO -   Zipped: True
+2025-06-14 10:55:01,824 - INFO - Mod: OilOutpostPlanner v1.6.7 (Oil Outpost Planner) by Coppermine
+2025-06-14 10:55:01,824 - INFO -   Dependencies: []
+2025-06-14 10:55:01,824 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\OilOutpostPlanner_1.6.7.zip
+2025-06-14 10:55:01,824 - INFO -   Zipped: True
+2025-06-14 10:55:01,824 - INFO - Mod: OmegaDrill v0.3.6 (Omega Drill) by toddnollan
+2025-06-14 10:55:01,824 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age >= 2.0.0']
+2025-06-14 10:55:01,825 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\OmegaDrill_0.3.6.zip
+2025-06-14 10:55:01,825 - INFO -   Zipped: True
+2025-06-14 10:55:01,825 - INFO - Mod: orbital-transfer v0.2.3 (Orbital Transfer) by Urthen
+2025-06-14 10:55:01,825 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 2.0.0']
+2025-06-14 10:55:01,825 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\orbital-transfer_0.2.3.zip
+2025-06-14 10:55:01,825 - INFO -   Zipped: True
+2025-06-14 10:55:01,825 - INFO - Mod: Paracelsin-Graphics v1.1.4 (Paracelsin Graphics) by AndreusAxolotl
+2025-06-14 10:55:01,825 - INFO -   Dependencies: ['base', 'space-age', '~Paracelsin >= 1.1.4']
+2025-06-14 10:55:01,825 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Paracelsin-Graphics_1.1.4.zip
+2025-06-14 10:55:01,825 - INFO -   Zipped: True
+2025-06-14 10:55:01,825 - INFO - Mod: Paracelsin v1.1.4 (Paracelsin) by AndreusAxolotl
+2025-06-14 10:55:01,825 - INFO -   Dependencies: ['base >= 2.0.50', 'space-age >= 2.0.50', 'Paracelsin-Graphics = 1.1.4', 'PlanetsLib', 'elevated-pipes', '? Age-of-Production']
+2025-06-14 10:55:01,825 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Paracelsin_1.1.4.zip
+2025-06-14 10:55:01,826 - INFO -   Zipped: True
+2025-06-14 10:55:01,826 - INFO - Mod: PavementDriveAssistContinued v5.0.0 (Pavement Drive Assist Continued) by azaghal
+2025-06-14 10:55:01,826 - INFO -   Dependencies: ['? base >= 2.0', '? AsphaltPaving', '? AsphaltRoads', '! PavementDriveAssist']
+2025-06-14 10:55:01,826 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\PavementDriveAssistContinued_5.0.0.zip
+2025-06-14 10:55:01,826 - INFO -   Zipped: True
+2025-06-14 10:55:01,826 - INFO - Mod: Personal_Development v1.0.7 (Personal Development) by Shingen
+2025-06-14 10:55:01,826 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,826 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Personal_Development_1.0.7.zip
+2025-06-14 10:55:01,826 - INFO -   Zipped: True
+2025-06-14 10:55:01,826 - INFO - Mod: Pi-C_lib v2.0.1 (Library for mods by Pi-C) by Pi-C
+2025-06-14 10:55:01,826 - INFO -   Dependencies: []
+2025-06-14 10:55:01,826 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Pi-C_lib_2.0.1.zip
+2025-06-14 10:55:01,826 - INFO -   Zipped: True
+2025-06-14 10:55:01,826 - INFO - Mod: Placeables v1.5.4 (Placeables: Show items in your inventory that you can build with!) by OmaiGrundles
+2025-06-14 10:55:01,826 - INFO -   Dependencies: []
+2025-06-14 10:55:01,827 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Placeables_1.5.4.zip
+2025-06-14 10:55:01,827 - INFO -   Zipped: True
+2025-06-14 10:55:01,827 - INFO - Mod: planet-arrakis v0.4.1 (Planet Arrakis) by Gladon
+2025-06-14 10:55:01,827 - INFO -   Dependencies: ['base', 'space-age', '! IntermodalContainers']
+2025-06-14 10:55:01,827 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\planet-arrakis_0.4.1.zip
+2025-06-14 10:55:01,827 - INFO -   Zipped: True
+2025-06-14 10:55:01,827 - INFO - Mod: Planet-Hopper v3.1.0 (Planet Hopper) by thesixthroc
+2025-06-14 10:55:01,827 - INFO -   Dependencies: ['base >= 2.0.52', 'space-age >= 2.0.52']
+2025-06-14 10:55:01,827 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Planet-Hopper_3.1.0.zip
+2025-06-14 10:55:01,827 - INFO -   Zipped: True
+2025-06-14 10:55:01,827 - INFO - Mod: planet-muluna v1.44.3 (Muluna, Moon of Nauvis) by MeteorSwarm
+2025-06-14 10:55:01,828 - INFO -   Dependencies: ['base >= 2.0.28', 'space-age', 'PlanetsLib >= 1.2.18', 'muluna-graphics >= 1.0.13', 'muluna-utility-constants', 'tile-upgrade-planner-muluna >= 1.0.1', '! tile-upgrade-planner', 'alien-biomes-graphics >= 0.7.0', 'flib', 'enhanced-shadows', '(?) aai-signal-transmission', '(?) orbital-transfer >= 0.2.3', '(?) alien-biomes', '(?) maraxsis >= 1.29.25', '(?) Tiered-Solar-System >= 1.1.3', '! MT-lib', '(?) modules-t4', '(?) any-planet-start', '(?) tenebris', '(?) aai-industry', '(?) fluid-nutrients', '! external-rocket-parts', '(?) bztitanium', '(?) bzcarbon', '(?) bztin', '(?) bzlead', '(?) bzzirconium', '(?) bzsilicon', '(?) infinite-quality-tiers', '(?) se-space-trains', '(?) crushing-industry', '(?) maraxsis-start', '(?) bobpower >= 2.0.0', '(?) bioprocessing-tab', '! Wood_Gasification_updated', '(?) modular-trains', '(?) solar-productivity', '(?) Krastorio2-Spaced-Out', '(?) cupric-asteroids']
+2025-06-14 10:55:01,828 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\planet-muluna_1.44.3.zip
+2025-06-14 10:55:01,828 - INFO -   Zipped: True
+2025-06-14 10:55:01,828 - INFO - Mod: PlanetsLib v1.6.0 (PlanetsLib) by thesixthroc
+2025-06-14 10:55:01,828 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age >= 2.0.0', '(?) Cosmic-Social-Distancing >= 1.0.2', '! MT-lib']
+2025-06-14 10:55:01,828 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\PlanetsLib_1.6.0.zip
+2025-06-14 10:55:01,828 - INFO -   Zipped: True
+2025-06-14 10:55:01,828 - INFO - Mod: PlutoniumEnergy v1.7.13 (Plutonium Energy) by JohnTheCoolingFan
+2025-06-14 10:55:01,828 - INFO -   Dependencies: ['base >= 2.0.0', '? SchallUraniumProcessing', '? SchallRadioactiveWaste', '? IndustrialRevolution3 >= 3.1.5', '? space-exploration']
+2025-06-14 10:55:01,828 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\PlutoniumEnergy_1.7.13.zip
+2025-06-14 10:55:01,828 - INFO -   Zipped: True
+2025-06-14 10:55:01,829 - INFO - Mod: pollution-as-surface-property v1.0.1 (Pollution as surface property) by cackling fiend
+2025-06-14 10:55:01,829 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,829 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pollution-as-surface-property_1.0.1.zip
+2025-06-14 10:55:01,829 - INFO -   Zipped: True
+2025-06-14 10:55:01,829 - INFO - Mod: power-grid-comb v2.0.0 (Power Grid Comb) by Shane Madden
+2025-06-14 10:55:01,829 - INFO -   Dependencies: ['base >= 2.0', 'flib']
+2025-06-14 10:55:01,829 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\power-grid-comb_2.0.0.zip
+2025-06-14 10:55:01,829 - INFO -   Zipped: True
+2025-06-14 10:55:01,829 - INFO - Mod: Productivity v2.0.5 (Total Productivity) by AivanF
+2025-06-14 10:55:01,829 - INFO -   Dependencies: ['? space-age', '? space-exploration', '(?) aai-industry', '? Krastorio2', '? boblogistics', '(?) Dectorio']
+2025-06-14 10:55:01,829 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Productivity_2.0.5.zip
+2025-06-14 10:55:01,829 - INFO -   Zipped: True
+2025-06-14 10:55:01,829 - INFO - Mod: promethium-quality v0.9.1 (Promethium is Quality) by HermanyAI
+2025-06-14 10:55:01,829 - INFO -   Dependencies: ['base >= 2.0.35', 'space-age >= 2.0.35', 'quality >= 2.0.35', '(?) maraxsis >= 1.28.13']
+2025-06-14 10:55:01,830 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\promethium-quality_0.9.1.zip
+2025-06-14 10:55:01,830 - INFO -   Zipped: True
+2025-06-14 10:55:01,830 - INFO - Mod: pump v2.1.10 (P.U.M.P.) by Xcone
+2025-06-14 10:55:01,830 - INFO -   Dependencies: ['base >= 2.0', '? ModuleInserterEx >= 7.0.2']
+2025-06-14 10:55:01,830 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pump_2.1.10.zip
+2025-06-14 10:55:01,830 - INFO -   Zipped: True
+2025-06-14 10:55:01,830 - INFO - Mod: pyalienlifegraphics2 v3.0.1 (Pyanodons AlienLife Graphics 2) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,830 - INFO -   Dependencies: []
+2025-06-14 10:55:01,830 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalienlifegraphics2_3.0.1.zip
+2025-06-14 10:55:01,830 - INFO -   Zipped: True
+2025-06-14 10:55:01,830 - INFO - Mod: pyalienlifegraphics3 v3.0.3 (Pyanodons AlienLife Graphics 3) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,830 - INFO -   Dependencies: []
+2025-06-14 10:55:01,830 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalienlifegraphics3_3.0.3.zip
+2025-06-14 10:55:01,831 - INFO -   Zipped: True
+2025-06-14 10:55:01,831 - INFO - Mod: pyalienlifegraphics v3.0.9 (Pyanodons AlienLife Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,831 - INFO -   Dependencies: ['base >= 2.0.33']
+2025-06-14 10:55:01,831 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalienlifegraphics_3.0.9.zip
+2025-06-14 10:55:01,831 - INFO -   Zipped: True
+2025-06-14 10:55:01,831 - INFO - Mod: pyalienlife v3.0.45 (Pyanodons AlienLife) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,831 - INFO -   Dependencies: ['base >= 2.0.48', '~ pyalienlifegraphics >= 3.0.9', '~ pyalienlifegraphics2 >= 3.0.0', '~ pyalienlifegraphics3 >= 3.0.0', 'pyrawores >= 3.0.0', 'pypetroleumhandling >= 3.0.0', '? pyhightech >= 3.0.0', '~ pypostprocessing >= 3.0.28', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,831 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalienlife_3.0.45.zip
+2025-06-14 10:55:01,831 - INFO -   Zipped: True
+2025-06-14 10:55:01,831 - INFO - Mod: pyalternativeenergygraphics v3.0.5 (Pyanodons Alternative Energy Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,832 - INFO -   Dependencies: []
+2025-06-14 10:55:01,832 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalternativeenergygraphics_3.0.5.zip
+2025-06-14 10:55:01,832 - INFO -   Zipped: True
+2025-06-14 10:55:01,832 - INFO - Mod: pyalternativeenergy v3.1.24 (Pyanodons Alternative Energy) by Pyanodon, Nexela, Kingarthur, Notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, Przemo
+2025-06-14 10:55:01,832 - INFO -   Dependencies: ['base >= 2.0.48', 'pyalienlife >= 3.0.33', 'pyhightech >= 3.0.0', '~ pyalternativeenergygraphics >= 3.0.4', '? enable-all-feature-flags', '(?) pyindustry', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,832 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyalternativeenergy_3.1.24.zip
+2025-06-14 10:55:01,832 - INFO -   Zipped: True
+2025-06-14 10:55:01,832 - INFO - Mod: pycoalprocessinggraphics v3.0.7 (Pyanodons Coal Processing Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,832 - INFO -   Dependencies: ['base >= 2.0.33']
+2025-06-14 10:55:01,832 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pycoalprocessinggraphics_3.0.7.zip
+2025-06-14 10:55:01,833 - INFO -   Zipped: True
+2025-06-14 10:55:01,833 - INFO - Mod: pycoalprocessing v3.0.36 (Pyanodons Coal Processing) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,833 - INFO -   Dependencies: ['base >= 2.0.48', '~ pycoalprocessinggraphics >= 3.0.6', '~ pypostprocessing >= 3.0.28', '(?) DiscoScience', '(?) better-victory-screen', '(?) elevated-rails', '! wret-beacon-rebalance-mod', '! beacon-overhaul', '! BigBags']
+2025-06-14 10:55:01,833 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pycoalprocessing_3.0.36.zip
+2025-06-14 10:55:01,833 - INFO -   Zipped: True
+2025-06-14 10:55:01,833 - INFO - Mod: pyfusionenergygraphics v3.0.3 (Pyanodons Fusion Energy Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,833 - INFO -   Dependencies: []
+2025-06-14 10:55:01,833 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyfusionenergygraphics_3.0.3.zip
+2025-06-14 10:55:01,833 - INFO -   Zipped: True
+2025-06-14 10:55:01,833 - INFO - Mod: pyfusionenergy v3.0.14 (Pyanodons Fusion Energy) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,833 - INFO -   Dependencies: ['pycoalprocessing >= 2.0.8', '~ pyfusionenergygraphics >= 3.0.3', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,834 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyfusionenergy_3.0.14.zip
+2025-06-14 10:55:01,834 - INFO -   Zipped: True
+2025-06-14 10:55:01,834 - INFO - Mod: pyhightechgraphics v3.0.2 (Pyanodons HighTech Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,834 - INFO -   Dependencies: []
+2025-06-14 10:55:01,834 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyhightechgraphics_3.0.2.zip
+2025-06-14 10:55:01,834 - INFO -   Zipped: True
+2025-06-14 10:55:01,834 - INFO - Mod: pyhightech v3.0.14 (Pyanodons HighTech) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,834 - INFO -   Dependencies: ['base >= 2.0.48', 'pyfusionenergy >= 2.0.5', '~ pyhightechgraphics >= 3.0.2', 'pyindustry >= 1.5.3', '? pyrawores']
+2025-06-14 10:55:01,834 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyhightech_3.0.14.zip
+2025-06-14 10:55:01,834 - INFO -   Zipped: True
+2025-06-14 10:55:01,834 - INFO - Mod: pyindustrygraphics v3.0.2 (Pyanodons Industry Graphics) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,835 - INFO -   Dependencies: ['~ pyindustry >= 3.0.11']
+2025-06-14 10:55:01,835 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyindustrygraphics_3.0.2.zip
+2025-06-14 10:55:01,835 - INFO -   Zipped: True
+2025-06-14 10:55:01,835 - INFO - Mod: pyindustry v3.0.15 (Pyanodons Industry) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,835 - INFO -   Dependencies: ['base >= 2.0.48', '~ pypostprocessing', '~ pyindustrygraphics >= 3.0.0', '? pycoalprocessing >= 1.0.6', '? pyfusionenergy >= 1.0.3', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,835 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyindustry_3.0.15.zip
+2025-06-14 10:55:01,835 - INFO -   Zipped: True
+2025-06-14 10:55:01,835 - INFO - Mod: pypetroleumhandlinggraphics v3.0.5 (Pyanodons Petroleum Handling Graphics) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,835 - INFO -   Dependencies: []
+2025-06-14 10:55:01,835 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pypetroleumhandlinggraphics_3.0.5.zip
+2025-06-14 10:55:01,836 - INFO -   Zipped: True
+2025-06-14 10:55:01,836 - INFO - Mod: pypetroleumhandling v3.0.17 (Pyanodons Petroleum Handling) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,836 - INFO -   Dependencies: ['base >= 2.0.48', 'pyfusionenergy >= 3.0.0', 'pyindustry >= 3.0.0', '? pyrawores >= 3.0.0', '? pyhightech >= 3.0.0', '(?) rso-mod', '~ pypetroleumhandlinggraphics >= 3.0.4', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,836 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pypetroleumhandling_3.0.17.zip
+2025-06-14 10:55:01,836 - INFO -   Zipped: True
+2025-06-14 10:55:01,836 - INFO - Mod: pypostprocessing v3.0.32 (Pyanodons Post-processing) by Pyanodon, Shadowglass
+2025-06-14 10:55:01,836 - INFO -   Dependencies: ['base >= 2.0.48', '? quality', '? elevated-rails', '? space-age', '? pycoalprocessing', '? pyindustry', '? pyfusionenergy', '? pyhightech', '? pyrawores', '? pypetroleumhandling', '? pyalienlife', '? pyalternativeenergy', '? PyBlock', '? pyhardmode', '? pystellarexpedition', '? pyaliens', '(?) omnimatter', '(?) omnimatter_water', '(?) omnimatter_wood', '(?) deadlock-beltboxes-loaders', '(?) DeadlockCrating', '(?) deadlock_stacked_recipes', '(?) DeadlocksStackingForPyanadon', '(?) LightedPolesPlus', '(?) jetpack', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,836 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pypostprocessing_3.0.32.zip
+2025-06-14 10:55:01,836 - INFO -   Zipped: True
+2025-06-14 10:55:01,836 - INFO - Mod: pyraworesgraphics v3.0.4 (Pyanodons Raw Ores Graphics) by Pyanodon, Nexela, Kingarthur
+2025-06-14 10:55:01,836 - INFO -   Dependencies: []
+2025-06-14 10:55:01,836 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyraworesgraphics_3.0.4.zip
+2025-06-14 10:55:01,836 - INFO -   Zipped: True
+2025-06-14 10:55:01,837 - INFO - Mod: pyrawores v3.0.18 (Pyanodons Raw Ores) by Pyanodon, Nexela, Kingarthur, notnotmelon, Mootykins, ShadowGlass, Archezekiel, Quintuple, przemo1232
+2025-06-14 10:55:01,837 - INFO -   Dependencies: ['base >= 2.0.48', 'pycoalprocessing >= 3.0.26', 'pyindustry >= 3.0.15', '(?) pyfusionenergy', '(?) rso-mod', '~ pyraworesgraphics >= 3.0.4', '! wret-beacon-rebalance-mod', '! BigBags', '! ResearchFog', '! omnimatter_energy']
+2025-06-14 10:55:01,837 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\pyrawores_3.0.18.zip
+2025-06-14 10:55:01,837 - INFO -   Zipped: True
+2025-06-14 10:55:01,837 - INFO - Mod: qol_research v3.4.2 (Quality of Life research) by Aidiakapi
+2025-06-14 10:55:01,837 - INFO -   Dependencies: ['base >= 2.0.0', '?space-exploration >= 0.2.0', '?nullius >= 1.5.0', '?Krastorio2 >= 1.3.0']
+2025-06-14 10:55:01,837 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\qol_research_3.4.2.zip
+2025-06-14 10:55:01,837 - INFO -   Zipped: True
+2025-06-14 10:55:01,837 - INFO - Mod: quality-asteroids v1.0.1 (Quality Asteroids) by PickledCow
+2025-06-14 10:55:01,837 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 1.0.0']
+2025-06-14 10:55:01,837 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quality-asteroids_1.0.1.zip
+2025-06-14 10:55:01,837 - INFO -   Zipped: True
+2025-06-14 10:55:01,838 - INFO - Mod: quality-condenser v1.3.1 (Quality condenser) by Quezler
+2025-06-14 10:55:01,838 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', 'base >= 2.0.48', '? quality', '? space-age', 'beacon-interface >= 1.0.3', '(?) QualityPlus']
+2025-06-14 10:55:01,838 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quality-condenser_1.3.1.zip
+2025-06-14 10:55:01,838 - INFO -   Zipped: True
+2025-06-14 10:55:01,838 - INFO - Mod: QualityBioLab v2.0.1 (QualityBioLab) by Theis
+2025-06-14 10:55:01,838 - INFO -   Dependencies: ['base >= 2.0.23', 'space-age >= 2.0.23']
+2025-06-14 10:55:01,838 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\QualityBioLab_2.0.1.zip
+2025-06-14 10:55:01,838 - INFO -   Zipped: True
+2025-06-14 10:55:01,838 - INFO - Mod: quality_glassware v0.1.0 (Quality Glassware) by Hornwitser
+2025-06-14 10:55:01,839 - INFO -   Dependencies: []
+2025-06-14 10:55:01,839 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quality_glassware_0.1.0.zip
+2025-06-14 10:55:01,839 - INFO -   Zipped: True
+2025-06-14 10:55:01,839 - INFO - Mod: quirkycat_base v1.0.9 (QuirkyCat Base) by QuirkyCat
+2025-06-14 10:55:01,839 - INFO -   Dependencies: ['base >= 2.0', '? space-age', '? bztin', '? bzlead', '? bzcarbon', '? bzsilicon', '? bztitanium', '? bzzirconium']
+2025-06-14 10:55:01,839 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quirkycat_base_1.0.9.zip
+2025-06-14 10:55:01,839 - INFO -   Zipped: True
+2025-06-14 10:55:01,839 - INFO - Mod: quirkycat_boron v1.0.6 (QuirkyCat Boron) by QuirkyCat
+2025-06-14 10:55:01,839 - INFO -   Dependencies: ['base >= 2.0', 'quirkycat_base']
+2025-06-14 10:55:01,839 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quirkycat_boron_1.0.6.zip
+2025-06-14 10:55:01,839 - INFO -   Zipped: True
+2025-06-14 10:55:01,840 - INFO - Mod: quirkycat_glass v1.0.8 (QuirkyCat Glass) by QuirkyCat
+2025-06-14 10:55:01,840 - INFO -   Dependencies: ['base >= 2.0', 'quirkycat_base', 'quirkycat_machines', '? quirkycat_boron', '? aai_industry']
+2025-06-14 10:55:01,840 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quirkycat_glass_1.0.8.zip
+2025-06-14 10:55:01,840 - INFO -   Zipped: True
+2025-06-14 10:55:01,840 - INFO - Mod: quirkycat_machines v1.0.6 (QuirkyCat Machines) by QuirkyCat
+2025-06-14 10:55:01,840 - INFO -   Dependencies: ['base >= 2.0', 'space-age', 'quirkycat_base', '(?) bzsilicon', '(?) bzzirconium', '(?) bztin', '(?) bzlead']
+2025-06-14 10:55:01,840 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quirkycat_machines_1.0.6.zip
+2025-06-14 10:55:01,840 - INFO -   Zipped: True
+2025-06-14 10:55:01,840 - INFO - Mod: quirkycat_recycle v1.3.30 (QuirkyCat Recycle) by QuirkyCat
+2025-06-14 10:55:01,840 - INFO -   Dependencies: ['base >= 2.0', 'quirkycat_base', '? quirkycat_glass', '? crushing-industry', '? bztin', '? bzlead', '? bzcarbon', '? bzsilicon', '? bztitanium', '? bzzirconium']
+2025-06-14 10:55:01,840 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\quirkycat_recycle_1.3.30.zip
+2025-06-14 10:55:01,840 - INFO -   Zipped: True
+2025-06-14 10:55:01,840 - INFO - Mod: RailSignalPlanner v2.0.3 (Rail Signal Planner) by LeonSkills
+2025-06-14 10:55:01,840 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,841 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RailSignalPlanner_2.0.3.zip
+2025-06-14 10:55:01,841 - INFO -   Zipped: True
+2025-06-14 10:55:01,841 - INFO - Mod: RampantArsenalFork v1.0.2 (Rampant Arsenal (Fork)) by Dimm2101
+2025-06-14 10:55:01,841 - INFO -   Dependencies: ['base >= 2.0.0', '?space-age']
+2025-06-14 10:55:01,841 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RampantArsenalFork_1.0.2.zip
+2025-06-14 10:55:01,841 - INFO -   Zipped: True
+2025-06-14 10:55:01,841 - INFO - Mod: RampantFixed v2.00.12 (Rampant, fixed) by Dimm2101 (RampantFixed), Veden (Rampant)
+2025-06-14 10:55:01,841 - INFO -   Dependencies: ['base >= 2.0.0', '!Rampant', '!combat-mechanics-overhaul', '!intelligent-enemy', '?alien-module', '?Arachnids', '?ArmouredBiters', '?Explosive_biters', '?Krastorio2', '?RampantArsenalFork', '?SchallAlienLoot', '?space-age']
+2025-06-14 10:55:01,841 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RampantFixed_2.00.12.zip
+2025-06-14 10:55:01,841 - INFO -   Zipped: True
+2025-06-14 10:55:01,842 - INFO - Mod: RateCalculator v3.3.7 (Rate Calculator) by raiguard
+2025-06-14 10:55:01,842 - INFO -   Dependencies: ['base >= 2.0.32', 'flib >= 0.15.0']
+2025-06-14 10:55:01,842 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RateCalculator_3.3.7.zip
+2025-06-14 10:55:01,842 - INFO -   Zipped: True
+2025-06-14 10:55:01,842 - INFO - Mod: Redrawn-Space-Connections v2.1.1 (Redrawn Space Connections) by thesixthroc
+2025-06-14 10:55:01,842 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 2.0.0', 'PlanetsLib >= 1.6.0']
+2025-06-14 10:55:01,842 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Redrawn-Space-Connections_2.1.1.zip
+2025-06-14 10:55:01,842 - INFO -   Zipped: True
+2025-06-14 10:55:01,842 - INFO - Mod: RenaiTransportation v2.1.11 (Renai Transportation) by Kiplacon
+2025-06-14 10:55:01,842 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age >= 1.0.0', '(?) aai-vehicles-ironclad >= 0.7.1', '(?) aai-programmable-vehicles']
+2025-06-14 10:55:01,842 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RenaiTransportation_2.1.11.zip
+2025-06-14 10:55:01,843 - INFO -   Zipped: True
+2025-06-14 10:55:01,843 - INFO - Mod: Repair_Turret v2.0.4 (Repair Turret) by Klonan
+2025-06-14 10:55:01,843 - INFO -   Dependencies: []
+2025-06-14 10:55:01,843 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Repair_Turret_2.0.4.zip
+2025-06-14 10:55:01,843 - INFO -   Zipped: True
+2025-06-14 10:55:01,843 - INFO - Mod: resourcehighlighter-dark v3.0.0 (Resource Highlighter (Dark's Version)) by Darkshadow44, Vamalo (Original mod)
+2025-06-14 10:55:01,843 - INFO -   Dependencies: ['base >= 2.0', 'flib', '? space-exploration']
+2025-06-14 10:55:01,843 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\resourcehighlighter-dark_3.0.0.zip
+2025-06-14 10:55:01,843 - INFO -   Zipped: True
+2025-06-14 10:55:01,843 - INFO - Mod: resourceMarker v0.8.33 (Resource Map Label Marker) by Kizrak
+2025-06-14 10:55:01,843 - INFO -   Dependencies: ['base >= 2.0.23', '? rso-mod']
+2025-06-14 10:55:01,843 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\resourceMarker_0.8.33.zip
+2025-06-14 10:55:01,844 - INFO -   Zipped: True
+2025-06-14 10:55:01,844 - INFO - Mod: Reverse-Engineering v2.0.1 (Reverse Engineering Lab) by AivanF
+2025-06-14 10:55:01,844 - INFO -   Dependencies: ['? informatron']
+2025-06-14 10:55:01,844 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Reverse-Engineering_2.0.1.zip
+2025-06-14 10:55:01,844 - INFO -   Zipped: True
+2025-06-14 10:55:01,844 - INFO - Mod: reverse-factory v9.0.26 (Reverse Factory) by Victor Ros, Kryzeth
+2025-06-14 10:55:01,844 - INFO -   Dependencies: ['base', 'kry_stdlib >= 2.0.5', '? space-age', '? BobExtended', '? angelspetrochem', '? aai-industry', '? mini-machines >= 9.2.3', '? micro-machines >= 3.2.2', '? omnimatter_wood', '? Bio_Industries', '? kry-inserters', '? GDIW', '? bobassembly', '? bobelectronics', '? Fantario', '? pycoalprocessing', '? pyfusionenergy', '? pyhightech', '? pyindustry', '? pypetroleumhandling', '? IndustrialRevolution >= 2.0.2', '(?) anarchy', '(?) randotorio', '(?) ZRecipeRandomizer', '(?) starry-sakura', '(?) one-more-tier', '(?) 248k', '(?) IndustrialRevolution3', '(?) SeaBlock', '! pypostprocessing']
+2025-06-14 10:55:01,844 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\reverse-factory_9.0.26.zip
+2025-06-14 10:55:01,844 - INFO -   Zipped: True
+2025-06-14 10:55:01,844 - INFO - Mod: Robocharger-Updated v0.0.1 (Robocharger Factorio 2.0) by Smurph, briel1235
+2025-06-14 10:55:01,844 - INFO -   Dependencies: []
+2025-06-14 10:55:01,844 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Robocharger-Updated_0.0.1.zip
+2025-06-14 10:55:01,844 - INFO -   Zipped: True
+2025-06-14 10:55:01,845 - INFO - Mod: Robot256Lib v2.0.11 (Robot256's Library) by robot256
+2025-06-14 10:55:01,845 - INFO -   Dependencies: ['base >= 2.0.38']
+2025-06-14 10:55:01,845 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Robot256Lib_2.0.11.zip
+2025-06-14 10:55:01,845 - INFO -   Zipped: True
+2025-06-14 10:55:01,845 - INFO - Mod: robot_attrition v0.6.3 (Robot Attrition) by Earendel
+2025-06-14 10:55:01,845 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,845 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\robot_attrition_0.6.3.zip
+2025-06-14 10:55:01,845 - INFO -   Zipped: True
+2025-06-14 10:55:01,845 - INFO - Mod: RocketCargoInsertion v1.1.0 (Rocket Cargo Insertion) by S6X
+2025-06-14 10:55:01,845 - INFO -   Dependencies: ['base >= 2.0.43', 'space-age >= 2.0.43']
+2025-06-14 10:55:01,846 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RocketCargoInsertion_1.1.0.zip
+2025-06-14 10:55:01,846 - INFO -   Zipped: True
+2025-06-14 10:55:01,846 - INFO - Mod: RPGsystem v2.0.4 (RPG System) by MFerrari
+2025-06-14 10:55:01,846 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,846 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\RPGsystem_2.0.4.zip
+2025-06-14 10:55:01,846 - INFO -   Zipped: True
+2025-06-14 10:55:01,846 - INFO - Mod: rso-mod v7.0.17 (Resource Spawner Overhaul) by Dark, orzelek
+2025-06-14 10:55:01,846 - INFO -   Dependencies: ['base >= 2.0.0', '? bobenemies', '? bobores', '? 5dim_ores', '! bitumen']
+2025-06-14 10:55:01,846 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\rso-mod_7.0.17.zip
+2025-06-14 10:55:01,846 - INFO -   Zipped: True
+2025-06-14 10:55:01,846 - INFO - Mod: rubia-assets v0.69.9 (🌐Planet Rubia Assets) by Loup&Snoop, 2025
+2025-06-14 10:55:01,846 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 2.0.47']
+2025-06-14 10:55:01,846 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\rubia-assets_0.69.9.zip
+2025-06-14 10:55:01,846 - INFO -   Zipped: True
+2025-06-14 10:55:01,847 - INFO - Mod: rubia v0.69.60 (Planet Rubia) by Loup&Snoop, 2025
+2025-06-14 10:55:01,847 - INFO -   Dependencies: ['base >= 2.0.55', 'space-age >= 2.0.55', 'PlanetsLib >= 1.4.1', 'rubia-assets >= 0.69.8', 'RocketCargoInsertion >= 1.1.0']
+2025-06-14 10:55:01,847 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\rubia_0.69.60.zip
+2025-06-14 10:55:01,847 - INFO -   Zipped: True
+2025-06-14 10:55:01,847 - INFO - Mod: runtime-spoilage-library v1.0.2 (Runtime spoilage library) by SirPuck
+2025-06-14 10:55:01,847 - INFO -   Dependencies: []
+2025-06-14 10:55:01,847 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\runtime-spoilage-library_1.0.2.zip
+2025-06-14 10:55:01,847 - INFO -   Zipped: True
+2025-06-14 10:55:01,847 - INFO - Mod: rusty-locale v1.0.17 (Rusty's Locale Utilities) by TheRustyKnife
+2025-06-14 10:55:01,847 - INFO -   Dependencies: []
+2025-06-14 10:55:01,847 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\rusty-locale_1.0.17.zip
+2025-06-14 10:55:01,847 - INFO -   Zipped: True
+2025-06-14 10:55:01,848 - INFO - Mod: SchallAlienLoot v2.0.4 (Schall Alien Loot) by Schallfalke
+2025-06-14 10:55:01,848 - INFO -   Dependencies: ['base >= 2.0.0', '? space-age']
+2025-06-14 10:55:01,848 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\SchallAlienLoot_2.0.4.zip
+2025-06-14 10:55:01,848 - INFO -   Zipped: True
+2025-06-14 10:55:01,848 - INFO - Mod: science-tab v1.2.0 (Science group) by frontrider
+2025-06-14 10:55:01,848 - INFO -   Dependencies: ['base >= 2.0.28', 'space-age']
+2025-06-14 10:55:01,848 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\science-tab_1.2.0.zip
+2025-06-14 10:55:01,848 - INFO -   Zipped: True
+2025-06-14 10:55:01,849 - INFO - Mod: se-space-trains v1.0.9 (SE Space Trains) by FragJacker
+2025-06-14 10:55:01,849 - INFO -   Dependencies: ['base', '? space-age', '? quality', '? elevated-rails', '? space-exploration', '? Krastorio2 >= 2.0.0']
+2025-06-14 10:55:01,849 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\se-space-trains_1.0.9.zip
+2025-06-14 10:55:01,849 - INFO -   Zipped: True
+2025-06-14 10:55:01,849 - INFO - Mod: secretas v1.0.28 (Secretas&Frozeta) by ZDK, 2025
+2025-06-14 10:55:01,849 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 2.0', 'quality >= 2.0', '? any-planet-start >= 1.1.13']
+2025-06-14 10:55:01,849 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\secretas_1.0.28.zip
+2025-06-14 10:55:01,849 - INFO -   Zipped: True
+2025-06-14 10:55:01,849 - INFO - Mod: shield-projector v0.2.2 (Shield Projector) by Earendel
+2025-06-14 10:55:01,849 - INFO -   Dependencies: ['base >= 2.0.0', '(?) combat-mechanics-overhaul']
+2025-06-14 10:55:01,849 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\shield-projector_0.2.2.zip
+2025-06-14 10:55:01,849 - INFO -   Zipped: True
+2025-06-14 10:55:01,849 - INFO - Mod: Shortcuts-ick v2.0.7 (Shortcuts for 2.0) by npc_strider(morley376), modified by ickputzdirwech
+2025-06-14 10:55:01,850 - INFO -   Dependencies: ['base >= 2.0.18']
+2025-06-14 10:55:01,850 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Shortcuts-ick_2.0.7.zip
+2025-06-14 10:55:01,850 - INFO -   Zipped: True
+2025-06-14 10:55:01,850 - INFO - Mod: show-max-underground-distance v0.1.0 (Show Max Underground Distance) by ltab
+2025-06-14 10:55:01,850 - INFO -   Dependencies: ['base', '(?) longer-belts-redux', '(?) propertyrandomizer']
+2025-06-14 10:55:01,850 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\show-max-underground-distance_0.1.0.zip
+2025-06-14 10:55:01,850 - INFO -   Zipped: True
+2025-06-14 10:55:01,850 - INFO - Mod: slp-dyson-sphere-reworked v1.0.2 (SLP - Dyson Sphere Reworked) by SLywnow
+2025-06-14 10:55:01,850 - INFO -   Dependencies: ['base >= 0.2.0', 'space-age']
+2025-06-14 10:55:01,850 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\slp-dyson-sphere-reworked_1.0.2.zip
+2025-06-14 10:55:01,850 - INFO -   Zipped: True
+2025-06-14 10:55:01,850 - INFO - Mod: snouz-big-accumulator v1.0.4 (Big accumulator) by snouz
+2025-06-14 10:55:01,850 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,851 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\snouz-big-accumulator_1.0.4.zip
+2025-06-14 10:55:01,851 - INFO -   Zipped: True
+2025-06-14 10:55:01,851 - INFO - Mod: snouz-big-solar-panel v1.0.5 (Big solar panel) by snouz
+2025-06-14 10:55:01,851 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,851 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\snouz-big-solar-panel_1.0.5.zip
+2025-06-14 10:55:01,851 - INFO -   Zipped: True
+2025-06-14 10:55:01,851 - INFO - Mod: snouz_better_substation v1.2.0 (Hypercell substation) by snouz
+2025-06-14 10:55:01,851 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,851 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\snouz_better_substation_1.2.0.zip
+2025-06-14 10:55:01,851 - INFO -   Zipped: True
+2025-06-14 10:55:01,851 - INFO - Mod: solar-calc v0.5.52 (Solar Calculator) by Kaktusbot
+2025-06-14 10:55:01,851 - INFO -   Dependencies: ['base >= 2.0', 'flib >= 0.15.0']
+2025-06-14 10:55:01,851 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\solar-calc_0.5.52.zip
+2025-06-14 10:55:01,851 - INFO -   Zipped: True
+2025-06-14 10:55:01,851 - INFO - Mod: solar-productivity v2.1.6 (Solar Productivity) by RedRafe
+2025-06-14 10:55:01,852 - INFO -   Dependencies: ['base >= 2.0', '(?) 248k', '(?) Advanced-Electric-Revamped-v16', '(?) advanced-green-power', '(?) Advanced-Solar-and-Accumulator', '(?) Advanced-Solar', '(?) AdvancedSolarPanels', '(?) compact-solar', '(?) exotic-industries', '(?) Factorio_Power_RE', '(?) FactorioExtended-Energy', '(?) FactorioExtended-Plus-CompoundSolars', '(?) FactorioExtended-Plus-Power', '(?) Krastorio2', '(?) Lindors-Advanced-Solar', '(?) skan-advanced-solar', '(?) space-exploration', '(?) Speckled-advanced-solar', '(?) zombiesextended-power', '(?) Advanced-Electric-Revamped-GOR-v16', '(?) Lindors-GOR-Advanced-Solar', '(?) IndustrialRevolution3', '(?) Cerys >= 0.9.5']
+2025-06-14 10:55:01,852 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\solar-productivity_2.1.6.zip
+2025-06-14 10:55:01,852 - INFO -   Zipped: True
+2025-06-14 10:55:01,852 - INFO - Mod: space-exploration-graphics-2 v0.7.1 (Space Exploration Graphics Part 2) by Earendel
+2025-06-14 10:55:01,852 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,852 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-graphics-2_0.7.1.zip
+2025-06-14 10:55:01,852 - INFO -   Zipped: True
+2025-06-14 10:55:01,852 - INFO - Mod: space-exploration-graphics-3 v0.7.1 (Space Exploration Graphics Part 3) by Earendel
+2025-06-14 10:55:01,852 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,852 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-graphics-3_0.7.1.zip
+2025-06-14 10:55:01,852 - INFO -   Zipped: True
+2025-06-14 10:55:01,853 - INFO - Mod: space-exploration-graphics-4 v0.7.1 (Space Exploration Graphics Part 4) by Earendel
+2025-06-14 10:55:01,853 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,853 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-graphics-4_0.7.1.zip
+2025-06-14 10:55:01,853 - INFO -   Zipped: True
+2025-06-14 10:55:01,853 - INFO - Mod: space-exploration-graphics-5 v0.7.1 (Space Exploration Graphics Part 5) by Earendel
+2025-06-14 10:55:01,853 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,853 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-graphics-5_0.7.1.zip
+2025-06-14 10:55:01,853 - INFO -   Zipped: True
+2025-06-14 10:55:01,853 - INFO - Mod: space-exploration-graphics v0.7.1 (Space Exploration Graphics Part 1) by Earendel
+2025-06-14 10:55:01,853 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,853 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-graphics_0.7.1.zip
+2025-06-14 10:55:01,853 - INFO -   Zipped: True
+2025-06-14 10:55:01,854 - INFO - Mod: space-exploration-scripts v2.2.0 (Space Exploration - scripts) by Quezler
+2025-06-14 10:55:01,854 - INFO -   Dependencies: ['? newsletter-for-mods-made-by-quezler', 'base', 'space-exploration', 'jetpack']
+2025-06-14 10:55:01,854 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-exploration-scripts_2.2.0.zip
+2025-06-14 10:55:01,854 - INFO -   Zipped: True
+2025-06-14 10:55:01,854 - INFO - Mod: space-spidertron v2.0.1 (Space Spidertron) by stringweasel
+2025-06-14 10:55:01,854 - INFO -   Dependencies: ['base >= 2.0.0', '? spidertron-dock', '? space-exploration > 0.7.0', '(?) aai-programmable-vehicles', '(?) Krastorio2']
+2025-06-14 10:55:01,854 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space-spidertron_2.0.1.zip
+2025-06-14 10:55:01,854 - INFO -   Zipped: True
+2025-06-14 10:55:01,854 - INFO - Mod: space_age_galore v1.5.2 (Space Age Galore) by JTnadrooi
+2025-06-14 10:55:01,854 - INFO -   Dependencies: ['base >= 2.0', 'space-age', 'vanilla_galore_continued', '? maraxsis', '? wolfprod', '(?) bzlead', '(?) bzcarbon', '(?) bzsilicon', '(?) bztin', '(?) bztitanium', '(?) bzzirconium', '(?) James-Oil-Processing', '(?) DemolisherScales']
+2025-06-14 10:55:01,854 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\space_age_galore_1.5.2.zip
+2025-06-14 10:55:01,855 - INFO -   Zipped: True
+2025-06-14 10:55:01,855 - INFO - Mod: SpaghetorioGraphics1 v0.0.5 (Spaghetorio graphics 1) by Spaghetti
+2025-06-14 10:55:01,855 - INFO -   Dependencies: ['base >= 2.0.28']
+2025-06-14 10:55:01,855 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\SpaghetorioGraphics1_0.0.5.zip
+2025-06-14 10:55:01,855 - INFO -   Zipped: True
+2025-06-14 10:55:01,855 - INFO - Mod: Spaghetorio v0.3.18 (Spaghetorio) by Spaghetti
+2025-06-14 10:55:01,855 - INFO -   Dependencies: ['base >= 2.0.47', 'space-age >= 2.0.47', 'SpaghetorioGraphics1 = 0.0.5', 'EverythingOnNauvis >= 0.1.8', '? aai-containers >= 0.3.1', '! Custom-Production-UI-Fixed >= 0.5.22']
+2025-06-14 10:55:01,855 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Spaghetorio_0.3.18.zip
+2025-06-14 10:55:01,855 - INFO -   Zipped: True
+2025-06-14 10:55:01,856 - INFO - Mod: SpidertronEnhancements v1.10.8 (Spidertron Enhancements) by Xorimuth
+2025-06-14 10:55:01,856 - INFO -   Dependencies: ['base >= 2.0.15', '(?) SpidertronWeaponSwitcher', '(?) spidertron-grid', '(?) aai-vehicles-ironclad', '(?) aai-programmable-vehicles']
+2025-06-14 10:55:01,856 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\SpidertronEnhancements_1.10.8.zip
+2025-06-14 10:55:01,856 - INFO -   Zipped: True
+2025-06-14 10:55:01,856 - INFO - Mod: SpidertronPatrols v2.6.3 (Spidertron Patrols) by Xorimuth
+2025-06-14 10:55:01,856 - INFO -   Dependencies: ['base >= 2.0.38', '? space-age', 'SpidertronEnhancements >= 1.10.8', '(?) SpidertronWeaponSwitcher', '(?) nullius']
+2025-06-14 10:55:01,856 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\SpidertronPatrols_2.6.3.zip
+2025-06-14 10:55:01,856 - INFO -   Zipped: True
+2025-06-14 10:55:01,856 - INFO - Mod: squeak-through-2 v0.1.2 (Squeak Through 2) by _CodeGreen
+2025-06-14 10:55:01,856 - INFO -   Dependencies: ['! Squeak Through', '(?) cargo-ships']
+2025-06-14 10:55:01,856 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\squeak-through-2_0.1.2.zip
+2025-06-14 10:55:01,857 - INFO -   Zipped: True
+2025-06-14 10:55:01,857 - INFO - Mod: starfarer-kitchensink v0.0.2 (The Starfarer’s Kitchen) by Dreski
+2025-06-14 10:55:01,857 - INFO -   Dependencies: ['base >= 2.0', 'elevated-rails', 'quality', 'space-age', 'aai-containers', 'aai-loaders', 'aai-loaders-sane', 'aai-programmable-vehicles', 'aai-signal-transmission', 'aai-signals', 'aai-zones', 'alien-biomes-graphics', 'ArmouredBiters', 'atan-nuclear-science', 'AutoDeconstruct', 'Better_Starmap_Background', 'bioprocessing-tab', 'bullet-trails', 'Burner-Leech-Fork', 'castra', 'Cerys-Moon-of-Fulgora', 'cf-lib', 'ChangeInserterDropLane', 'CleanFloor', 'Cold_biters', 'common-prototypes', 'common-prototypes-graphics', 'corrundum', 'crushing-industry', 'cubium', 'data-utils', 'dea-dia-system', 'DiscoScience', 'distant-misfires', 'Diversitree', 'elevated-pipes', 'enhanced-shadows', 'est-tiny-storage-tank', 'even-distribution', 'Factorio-Tiberium', 'fdsl', 'fire-lights', 'Flare Stack', 'flib', 'FluidMustFlow', 'gleba-reborn', 'Honk', 'Igrys', 'informatron', 'interstellar-travel', 'inventory-repair', 'janus', 'jetpack', 'lane-splitters', 'lex-aircraft', 'Lighted-Poles-Plus', 'lightorio', 'long_stack_inserter', 'LouderCargoWagons', 'maraxsis', 'metal-and-stars', 'metal-and-stars-graphics', 'metal-and-stars-graphics-2', 'mf-buildings', 'mf-buildings-graphics-1', 'mf-core', 'mf-logistics', 'mf-logistics-graphics-1', 'Milestones', 'minimalist-rails', 'Moshine', 'Moshine-assets', 'muluna-graphics', 'muluna-utility-constants', 'new-diagonal-inserter', 'Paracelsin', 'Paracelsin-Graphics', 'planet-muluna', 'PlanetsLib', 'quality_glassware', 'RateCalculator', 'Redrawn-Space-Connections', 'Robocharger-Updated', 'RocketCargoInsertion', 'rubia', 'rubia-assets', 'science-tab', 'se-space-trains', 'secretas', 'slp-dyson-sphere-reworked', 'snouz-big-accumulator', 'snouz-big-solar-panel', 'snouz_better_substation', 'SpidertronEnhancements', 'SpidertronPatrols', 'squeak-through-2', 'tenebris-prime', 'terrapalus', 'textplates', 'tile-upgrade-planner-muluna', 'Todo-List', 'VehicleSnap', 'visible-planets']
+2025-06-14 10:55:01,857 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\starfarer-kitchensink_0.0.2.zip
+2025-06-14 10:55:01,857 - INFO -   Zipped: True
+2025-06-14 10:55:01,857 - INFO - Mod: StatsGui v1.6.1 (Stats GUI) by raiguard
+2025-06-14 10:55:01,857 - INFO -   Dependencies: ['base >= 2.0.0', 'flib >= 0.15.0']
+2025-06-14 10:55:01,857 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\StatsGui_1.6.1.zip
+2025-06-14 10:55:01,857 - INFO -   Zipped: True
+2025-06-14 10:55:01,857 - INFO - Mod: stdlib2 v2.0.1 (Factorio Standard Library 2.0) by Afforess
+2025-06-14 10:55:01,857 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,857 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\stdlib2_2.0.1.zip
+2025-06-14 10:55:01,857 - INFO -   Zipped: True
+2025-06-14 10:55:01,858 - INFO - Mod: StopgapNukes v1.0.9 (Stopgap Nukes Expansion) by Just Some Guy
+2025-06-14 10:55:01,858 - INFO -   Dependencies: ['base', '? space-age']
+2025-06-14 10:55:01,858 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\StopgapNukes_1.0.9.zip
+2025-06-14 10:55:01,858 - INFO -   Zipped: True
+2025-06-14 10:55:01,858 - INFO - Mod: stuck-train-detector v1.2.0 (Stuck Train Detector) by gerpara
+2025-06-14 10:55:01,858 - INFO -   Dependencies: ['base >= 2.0.32']
+2025-06-14 10:55:01,858 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\stuck-train-detector_1.2.0.zip
+2025-06-14 10:55:01,858 - INFO -   Zipped: True
+2025-06-14 10:55:01,858 - INFO - Mod: supersonic_trains v1.0.6 (Supersonic Trains, REMADE for 2.0!) by Schjefph
+2025-06-14 10:55:01,858 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,858 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\supersonic_trains_1.0.6.zip
+2025-06-14 10:55:01,858 - INFO -   Zipped: True
+2025-06-14 10:55:01,859 - INFO - Mod: Tapeline v3.0.4 (Tapeline) by raiguard
+2025-06-14 10:55:01,859 - INFO -   Dependencies: ['base >= 2.0.8', 'flib >= 0.16.0']
+2025-06-14 10:55:01,859 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Tapeline_3.0.4.zip
+2025-06-14 10:55:01,859 - INFO -   Zipped: True
+2025-06-14 10:55:01,859 - INFO - Mod: Teleporters v2.0.0 (Teleporters) by Klonan
+2025-06-14 10:55:01,859 - INFO -   Dependencies: []
+2025-06-14 10:55:01,859 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Teleporters_2.0.0.zip
+2025-06-14 10:55:01,859 - INFO -   Zipped: True
+2025-06-14 10:55:01,859 - INFO - Mod: tenebris-prime v1.3.4 (Tenebris Prime) by Big_J, MeteorSwarm
+2025-06-14 10:55:01,859 - INFO -   Dependencies: ['base >= 2.0.28', 'space-age >= 2.0.28', 'PlanetsLib >= 1.2.6', '! ams-acid-landfill', '! beacon_maraxsis_tenebris', '! tenebris_sulfur', '! tenebris']
+2025-06-14 10:55:01,860 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\tenebris-prime_1.3.4.zip
+2025-06-14 10:55:01,860 - INFO -   Zipped: True
+2025-06-14 10:55:01,860 - INFO - Mod: tenebris v0.2.1 (Tenebris) by Big_J
+2025-06-14 10:55:01,860 - INFO -   Dependencies: ['space-age >= 2.0', 'base >= 2.0']
+2025-06-14 10:55:01,860 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\tenebris_0.2.1.zip
+2025-06-14 10:55:01,860 - INFO -   Zipped: True
+2025-06-14 10:55:01,860 - INFO - Mod: terrapalus v0.1.4 (Terra Palus) by Lukah
+2025-06-14 10:55:01,860 - INFO -   Dependencies: ['base >= 2.0.15', 'space-age']
+2025-06-14 10:55:01,860 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\terrapalus_0.1.4.zip
+2025-06-14 10:55:01,860 - INFO -   Zipped: True
+2025-06-14 10:55:01,860 - INFO - Mod: textplates v0.7.2 (Text Plates) by Earendel, gheift
+2025-06-14 10:55:01,860 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,860 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\textplates_0.7.2.zip
+2025-06-14 10:55:01,860 - INFO -   Zipped: True
+2025-06-14 10:55:01,861 - INFO - Mod: Tiered-Solar-System v3.0.1 (Organized Solar System) by thesixthroc
+2025-06-14 10:55:01,861 - INFO -   Dependencies: ['base >= 2.0.0', 'space-age >= 2.0.0', 'Redrawn-Space-Connections >= 1.3.6', 'Cosmic-Social-Distancing >= 1.2.0', 'PlanetsLib >= 1.6.0']
+2025-06-14 10:55:01,861 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Tiered-Solar-System_3.0.1.zip
+2025-06-14 10:55:01,861 - INFO -   Zipped: True
+2025-06-14 10:55:01,861 - INFO - Mod: tile-upgrade-planner-muluna v1.0.3 (Tile Upgrade Planner (Muluna Fork)) by calcwizard, MeteorSwarm
+2025-06-14 10:55:01,861 - INFO -   Dependencies: ['base', '! tile-upgrade-planner']
+2025-06-14 10:55:01,861 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\tile-upgrade-planner-muluna_1.0.3.zip
+2025-06-14 10:55:01,861 - INFO -   Zipped: True
+2025-06-14 10:55:01,861 - INFO - Mod: TimeTools v3.0.8 (Time Tools (+game speed +clock combinators)) by BinbinHfr, Savisitor15
+2025-06-14 10:55:01,861 - INFO -   Dependencies: []
+2025-06-14 10:55:01,861 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\TimeTools_3.0.8.zip
+2025-06-14 10:55:01,861 - INFO -   Zipped: True
+2025-06-14 10:55:01,862 - INFO - Mod: Todo-List v19.12.0 (✔ Todo List) by Jason Miles and many others from the community
+2025-06-14 10:55:01,862 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,862 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Todo-List_19.12.0.zip
+2025-06-14 10:55:01,862 - INFO -   Zipped: True
+2025-06-14 10:55:01,862 - INFO - Mod: Toxic_biters v2.0.4 (Toxic Biters) by MFerrari
+2025-06-14 10:55:01,862 - INFO -   Dependencies: ['base >= 2.0.0', '? alien-biomes']
+2025-06-14 10:55:01,862 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Toxic_biters_2.0.4.zip
+2025-06-14 10:55:01,862 - INFO -   Zipped: True
+2025-06-14 10:55:01,862 - INFO - Mod: trash-slot v1.2.1 (Trash Slot) by iRewiewer
+2025-06-14 10:55:01,863 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,863 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\trash-slot_1.2.1.zip
+2025-06-14 10:55:01,863 - INFO -   Zipped: True
+2025-06-14 10:55:01,863 - INFO - Mod: tree_collision v2.0.0 (Tree Collision) by skomick
+2025-06-14 10:55:01,863 - INFO -   Dependencies: []
+2025-06-14 10:55:01,863 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\tree_collision_2.0.0.zip
+2025-06-14 10:55:01,863 - INFO -   Zipped: True
+2025-06-14 10:55:01,863 - INFO - Mod: TurboBike v2.0.1 (Turbo bike) by Thorvin
+2025-06-14 10:55:01,863 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,863 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\TurboBike_2.0.1.zip
+2025-06-14 10:55:01,863 - INFO -   Zipped: True
+2025-06-14 10:55:01,863 - INFO - Mod: turret-library v0.1.6 (Turret library) by Pandamiami80s
+2025-06-14 10:55:01,864 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,864 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\turret-library_0.1.6.zip
+2025-06-14 10:55:01,864 - INFO -   Zipped: True
+2025-06-14 10:55:01,864 - INFO - Mod: UltimateResearchQueue2 v2.0.2 (Ultimate Research Queue for 2.x) by brendanmeyer
+2025-06-14 10:55:01,864 - INFO -   Dependencies: ['base >= 2.0.28', 'flib >= 0.16.1', '? RecipeBook', '! sonaxaton-research-queue', '! UltimateResearchQueue']
+2025-06-14 10:55:01,864 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\UltimateResearchQueue2_2.0.2.zip
+2025-06-14 10:55:01,864 - INFO -   Zipped: True
+2025-06-14 10:55:01,864 - INFO - Mod: UtilizationMonitorBlargh v0.9.4 (Utilization Monitor (Blargh)) by Blargh2015
+2025-06-14 10:55:01,864 - INFO -   Dependencies: ['flib', 'base >= 2.0.33']
+2025-06-14 10:55:01,864 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\UtilizationMonitorBlargh_0.9.4.zip
+2025-06-14 10:55:01,864 - INFO -   Zipped: True
+2025-06-14 10:55:01,864 - INFO - Mod: valves v2.0.2 (Valves) by stringweasel
+2025-06-14 10:55:01,864 - INFO -   Dependencies: ['base >= 2.0.48']
+2025-06-14 10:55:01,864 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\valves_2.0.2.zip
+2025-06-14 10:55:01,864 - INFO -   Zipped: True
+2025-06-14 10:55:01,864 - INFO - Mod: vanilla_galore_continued v1.2.4 (Vanilla Galore Continued) by JTnadrooi
+2025-06-14 10:55:01,865 - INFO -   Dependencies: ['base >= 2.0', 'galore_lib', '? space-age', '? quality', '? centrifuge-tint', '(?) bzcarbon', '(?) bzlead', '(?) bzsilicon', '(?) bztin', '(?) bztitanium', '(?) bzzirconium', '(?) James-Oil-Processing', '(?) reskins-angels']
+2025-06-14 10:55:01,865 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\vanilla_galore_continued_1.2.4.zip
+2025-06-14 10:55:01,865 - INFO -   Zipped: True
+2025-06-14 10:55:01,865 - INFO - Mod: vehicle-corpses v0.1.3 (Vehicle Corpses) by _CodeGreen
+2025-06-14 10:55:01,865 - INFO -   Dependencies: ['(?) aai-programmable-vehicles', '(?) AircraftRealism']
+2025-06-14 10:55:01,865 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\vehicle-corpses_0.1.3.zip
+2025-06-14 10:55:01,865 - INFO -   Zipped: True
+2025-06-14 10:55:01,865 - INFO - Mod: vehicle-wagon-graphics v1.0.0 (Vehicle Wagon Graphics) by robot256
+2025-06-14 10:55:01,865 - INFO -   Dependencies: ['base']
+2025-06-14 10:55:01,865 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\vehicle-wagon-graphics_1.0.0.zip
+2025-06-14 10:55:01,865 - INFO -   Zipped: True
+2025-06-14 10:55:01,865 - INFO - Mod: VehicleSnap v2.0.2 (VehicleSnap) by Zaflis
+2025-06-14 10:55:01,866 - INFO -   Dependencies: ['! cardinal']
+2025-06-14 10:55:01,866 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\VehicleSnap_2.0.2.zip
+2025-06-14 10:55:01,866 - INFO -   Zipped: True
+2025-06-14 10:55:01,866 - INFO - Mod: VehicleWagon2 v4.1.7 (Vehicle Wagon 2) by robot256
+2025-06-14 10:55:01,866 - INFO -   Dependencies: ['base >= 2.0.26', 'vehicle-wagon-graphics', 'Robot256Lib']
+2025-06-14 10:55:01,866 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\VehicleWagon2_4.1.7.zip
+2025-06-14 10:55:01,866 - INFO -   Zipped: True
+2025-06-14 10:55:01,866 - INFO - Mod: verysmallchests v2.0.2 (Very Small Chests) by _-_-_
+2025-06-14 10:55:01,866 - INFO -   Dependencies: ['base >= 2.0.0', '(?) pyindustry']
+2025-06-14 10:55:01,866 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\verysmallchests_2.0.2.zip
+2025-06-14 10:55:01,866 - INFO -   Zipped: True
+2025-06-14 10:55:01,867 - INFO - Mod: visible-planets v1.4.8 (Visible Planets in Space) by Nauviax
+2025-06-14 10:55:01,867 - INFO -   Dependencies: ['base >= 2.0', 'space-age >= 2.0', '?PlanetsLib >= 1.1.27']
+2025-06-14 10:55:01,867 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\visible-planets_1.4.8.zip
+2025-06-14 10:55:01,867 - INFO -   Zipped: True
+2025-06-14 10:55:01,867 - INFO - Mod: VoidProcessing v2.0.3 (Void Processing) by RustyNova
+2025-06-14 10:55:01,867 - INFO -   Dependencies: ['base >= 2.0.29', 'space-age >= 2.0.29', 'finely-crafted-graphics >= 1.1.0', '? visible-planets >= 1.2.11', 'PlanetsLib >= 1.4.1']
+2025-06-14 10:55:01,867 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\VoidProcessing_2.0.3.zip
+2025-06-14 10:55:01,867 - INFO -   Zipped: True
+2025-06-14 10:55:01,867 - INFO - Mod: vtk-cannon-turret v2.4.1 (VortiK's Cannon Turret) by VortiK
+2025-06-14 10:55:01,867 - INFO -   Dependencies: ['base >= 2.0', '? space-age >= 2.0', '? quality >= 2.0', '? Age-of-Production >= 1.5.16']
+2025-06-14 10:55:01,867 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\vtk-cannon-turret_2.4.1.zip
+2025-06-14 10:55:01,868 - INFO -   Zipped: True
+2025-06-14 10:55:01,868 - INFO - Mod: vulcanus-sulfuric-bacteria v1.1.2 (Wooden Vulcanus: Sulfuric Bacteria) by SafTheLamb
+2025-06-14 10:55:01,868 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.1.5', 'space-age', '? wood-industry >= 1.5.0', '(?) Voidcraft >= 1.4']
+2025-06-14 10:55:01,868 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\vulcanus-sulfuric-bacteria_1.1.2.zip
+2025-06-14 10:55:01,868 - INFO -   Zipped: True
+2025-06-14 10:55:01,868 - INFO - Mod: Warehousing v1.0.3 (Warehousing Mod) by Anoyomouse & dgw
+2025-06-14 10:55:01,868 - INFO -   Dependencies: ['base >= 2.0.0']
+2025-06-14 10:55:01,868 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Warehousing_1.0.3.zip
+2025-06-14 10:55:01,868 - INFO -   Zipped: True
+2025-06-14 10:55:01,869 - INFO - Mod: WaterExtractor v1.0.2 (WaterExtractor) by VanillaRainbow92
+2025-06-14 10:55:01,869 - INFO -   Dependencies: ['base >= 2.0']
+2025-06-14 10:55:01,869 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\WaterExtractor_1.0.2.zip
+2025-06-14 10:55:01,869 - INFO -   Zipped: True
+2025-06-14 10:55:01,869 - INFO - Mod: WideChests v6.2.4 (Merging Chests) by Atria
+2025-06-14 10:55:01,869 - INFO -   Dependencies: ['base >= 2.0.18', 'flib >= 0.15.0', '? WideChestsAllTypes', '? WideChestsUnlimited', '? WideChestsOverrideSizeSettings', '? WideChestsOverrideInventorySettings']
+2025-06-14 10:55:01,869 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\WideChests_6.2.4.zip
+2025-06-14 10:55:01,869 - INFO -   Zipped: True
+2025-06-14 10:55:01,869 - INFO - Mod: WipMod_TA-miners v2.0.5 (TA Miners) by WipMod
+2025-06-14 10:55:01,869 - INFO -   Dependencies: ['base >= 2.0', '? bobplates >= 0.18.0', '? boblogistics >= 0.18.0', '? bobmodules >= 0.18.0']
+2025-06-14 10:55:01,870 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\WipMod_TA-miners_2.0.5.zip
+2025-06-14 10:55:01,870 - INFO -   Zipped: True
+2025-06-14 10:55:01,870 - INFO - Mod: wolfprod v0.0.8 (Wolverine's Productivity Research) by Wolverineslayer8
+2025-06-14 10:55:01,870 - INFO -   Dependencies: ['base >= 2.0', 'space-age']
+2025-06-14 10:55:01,870 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\wolfprod_0.0.8.zip
+2025-06-14 10:55:01,870 - INFO -   Zipped: True
+2025-06-14 10:55:01,870 - INFO - Mod: wood-industry v2.1.2 (Wooden Industry) by SafTheLamb
+2025-06-14 10:55:01,870 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.1.8', 'alloy-smelting', '? crushing-industry >= 0.1.4', '? space-age', '? wood-logistics >= 2.2.0', '? scrap-industry >= 0.8.1', '? early-agriculture', '(?) Voidcraft >= 1.4', '(?) bztin', '(?) bzlead', '(?) bztitanium', '(?) simply-greenhouse', '(?) atan-air-scrubbing', '(?) quality', '(?) aai-industry', '(?) aai-loaders', '(?) deadlock-beltboxes-loaders']
+2025-06-14 10:55:01,870 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\wood-industry_2.1.2.zip
+2025-06-14 10:55:01,870 - INFO -   Zipped: True
+2025-06-14 10:55:01,870 - INFO - Mod: wood-military v2.5.0 (Wooden Military) by SafTheLamb
+2025-06-14 10:55:01,870 - INFO -   Dependencies: ['base >= 2.0.7', 'fdsl >= 0.1.3', '? early-agriculture', '? cupric-asteroids >= 1.3.0', '? wood-industry >= 0.9.5', '? wood-logistics >= 2.2.0', '? distant-misfires', '? sniper-rifle-improved', '(?) Voidcraft >= 1.4', '(?) basic-artillery', '(?) aai-industry']
+2025-06-14 10:55:01,870 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\wood-military_2.5.0.zip
+2025-06-14 10:55:01,870 - INFO -   Zipped: True
+2025-06-14 10:55:01,871 - INFO - Mod: Wood-Walls v1.3.1 (Wood-Walls) by zanven
+2025-06-14 10:55:01,871 - INFO -   Dependencies: ['base >= 2.0.33']
+2025-06-14 10:55:01,871 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\Wood-Walls_1.3.1.zip
+2025-06-14 10:55:01,871 - INFO -   Zipped: True
+2025-06-14 10:55:01,871 - INFO - Mod: YARM v1.0.5 (YARM - Resource Monitor) by Mithaldu (current maintainer) and Narc
+2025-06-14 10:55:01,871 - INFO -   Dependencies: ['? aai-programmable-vehicles', '? angelsrefining', '? omnimatter', '? dqol-resource-monitor']
+2025-06-14 10:55:01,871 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\YARM_1.0.5.zip
+2025-06-14 10:55:01,871 - INFO -   Zipped: True
+2025-06-14 10:55:01,871 - INFO - Mod: zerm_postprocess v2.0.1 (Enemy Race Manager - Post Process) by heyqule
+2025-06-14 10:55:01,871 - INFO -   Dependencies: ['base >= 2.0.0', 'enemyracemanager >= 2.0.0', '(?)space-age >= 2.0.0', '(?)quality >= 2.0.0', '(?)erm_zerg >= 2.0.0', '(?)erm_toss >= 2.0.0', '(?)erm_terran >= 2.0.0', '(?)erm_redarmy >= 2.0.0']
+2025-06-14 10:55:01,871 - INFO -   Path: C:\Users\eysen\AppData\Roaming\Factorio\mods\zerm_postprocess_2.0.1.zip
+2025-06-14 10:55:01,871 - INFO -   Zipped: True
+2025-06-14 10:55:01,872 - INFO - Also created local test mod for future testing

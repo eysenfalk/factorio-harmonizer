@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-06-14T11:14:17.287766",
+    "total_prototypes": 6
+  },
+  "prototypes": {
+    "item.wood": {
+      "prototype_type": "item",
+      "prototype_name": "wood",
+      "modifications": [
+        {
+          "mod_name": "base",
+          "file_path": "data/base/prototypes/item.lua",
+          "line_number": 100,
+          "timestamp": "2025-06-14T11:14:17.284889",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "fuel_category": "chemical",
+            "stack_size": 50,
+            "fuel_value": "2MJ",
+            "icon": "__base__/graphics/icons/wood.png",
+            "type": "item",
+            "name": "wood"
+          }
+        }
+      ]
+    },
+    "item.iron-plate": {
+      "prototype_type": "item",
+      "prototype_name": "iron-plate",
+      "modifications": [
+        {
+          "mod_name": "base",
+          "file_path": "data/base/prototypes/item.lua",
+          "line_number": 100,
+          "timestamp": "2025-06-14T11:14:17.284982",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "icon": "__base__/graphics/icons/iron-plate.png",
+            "name": "iron-plate",
+            "type": "item",
+            "stack_size": 100
+          }
+        }
+      ]
+    },
+    "recipe.burner-inserter": {
+      "prototype_type": "recipe",
+      "prototype_name": "burner-inserter",
+      "modifications": [
+        {
+          "mod_name": "base",
+          "file_path": "data/base/prototypes/item.lua",
+          "line_number": 100,
+          "timestamp": "2025-06-14T11:14:17.285046",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "results": [
+              {
+                "amount": 1,
+                "type": "item",
+                "name": "burner-inserter"
+              }
+            ],
+            "ingredients": [
+              {
+                "amount": 1,
+                "type": "item",
+                "name": "iron-plate"
+              }
+            ],
+            "type": "recipe",
+            "name": "burner-inserter"
+          }
+        },
+        {
+          "mod_name": "lignumis",
+          "file_path": "data.lua",
+          "line_number": 50,
+          "timestamp": "2025-06-14T11:14:17.285401",
+          "operation": "modify",
+          "field_path": "ingredients",
+          "old_value": [
+            {
+              "type": "item",
+              "name": "iron-plate",
+              "amount": 1
+            }
+          ],
+          "new_value": [
+            {
+              "type": "item",
+              "name": "iron-plate",
+              "amount": 1
+            },
+            {
+              "type": "item",
+              "name": "wood-gear-wheel",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "mod_name": "Krastorio2-spaced-out",
+          "file_path": "data-updates.lua",
+          "line_number": 200,
+          "timestamp": "2025-06-14T11:14:17.285778",
+          "operation": "modify",
+          "field_path": "ingredients",
+          "old_value": [
+            {
+              "type": "item",
+              "name": "iron-plate",
+              "amount": 1
+            },
+            {
+              "type": "item",
+              "name": "wood-gear-wheel",
+              "amount": 1
+            }
+          ],
+          "new_value": [
+            {
+              "type": "item",
+              "name": "iron-plate",
+              "amount": 1
+            },
+            {
+              "type": "item",
+              "name": "kr-steel-gear-wheel",
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    },
+    "item.lignumis-wood": {
+      "prototype_type": "item",
+      "prototype_name": "lignumis-wood",
+      "modifications": [
+        {
+          "mod_name": "lignumis",
+          "file_path": "data.lua",
+          "line_number": 50,
+          "timestamp": "2025-06-14T11:14:17.285258",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "fuel_category": "chemical",
+            "stack_size": 100,
+            "fuel_value": "3MJ",
+            "icon": "__lignumis__/graphics/icons/wood.png",
+            "type": "item",
+            "name": "lignumis-wood"
+          }
+        },
+        {
+          "mod_name": "Krastorio2-spaced-out",
+          "file_path": "data-updates.lua",
+          "line_number": 200,
+          "timestamp": "2025-06-14T11:14:17.285632",
+          "operation": "overwrite",
+          "field_path": "",
+          "old_value": {
+            "fuel_category": "chemical",
+            "stack_size": 100,
+            "fuel_value": "3MJ",
+            "icon": "__lignumis__/graphics/icons/wood.png",
+            "type": "item",
+            "name": "lignumis-wood"
+          },
+          "new_value": {
+            "fuel_category": "chemical",
+            "stack_size": 200,
+            "fuel_value": "4MJ",
+            "icon": "__krastorio2__/graphics/icons/wood.png",
+            "type": "item",
+            "name": "lignumis-wood"
+          }
+        }
+      ]
+    },
+    "item.wood-gear-wheel": {
+      "prototype_type": "item",
+      "prototype_name": "wood-gear-wheel",
+      "modifications": [
+        {
+          "mod_name": "lignumis",
+          "file_path": "data.lua",
+          "line_number": 50,
+          "timestamp": "2025-06-14T11:14:17.285343",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "icon": "__lignumis__/graphics/icons/wood-gear.png",
+            "name": "wood-gear-wheel",
+            "type": "item",
+            "stack_size": 100
+          }
+        }
+      ]
+    },
+    "item.kr-steel-gear-wheel": {
+      "prototype_type": "item",
+      "prototype_name": "kr-steel-gear-wheel",
+      "modifications": [
+        {
+          "mod_name": "Krastorio2-spaced-out",
+          "file_path": "data-updates.lua",
+          "line_number": 200,
+          "timestamp": "2025-06-14T11:14:17.285712",
+          "operation": "create",
+          "field_path": "",
+          "old_value": null,
+          "new_value": {
+            "icon": "__krastorio2__/graphics/icons/steel-gear.png",
+            "name": "kr-steel-gear-wheel",
+            "type": "item",
+            "stack_size": 100
+          }
+        }
+      ]
+    }
+  }
+}
