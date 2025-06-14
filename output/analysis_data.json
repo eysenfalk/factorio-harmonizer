@@ -1,0 +1,283 @@
+{
+  "analyzed_mods": [
+    "bobassembly",
+    "base",
+    "bobelectronics"
+  ],
+  "analysis_timestamp": "2025-06-14T12:16:44.080247",
+  "summary": {
+    "total_prototypes": 28,
+    "conflicted_prototypes": 2,
+    "critical_issues": 0,
+    "high_issues": 14,
+    "medium_issues": 2,
+    "low_issues": 0
+  },
+  "issues": [
+    {
+      "issue_id": "CONFLICT_TECHNOLOGY_FAST-INSERTER",
+      "severity": "medium",
+      "title": "Technology Conflict: fast-inserter",
+      "description": "Technology 'fast-inserter' modified by multiple mods",
+      "affected_prototypes": [
+        "technology.fast-inserter"
+      ],
+      "conflicting_mods": [
+        "bobassembly",
+        "base"
+      ],
+      "root_cause": "Multiple mods modify the same technology",
+      "suggested_fixes": [
+        "Review modification order",
+        "Create compatibility patch",
+        "Use conditional modifications"
+      ]
+    },
+    {
+      "issue_id": "CONFLICT_TECHNOLOGY_ROCKET-SILO",
+      "severity": "medium",
+      "title": "Technology Conflict: rocket-silo",
+      "description": "Technology 'rocket-silo' modified by multiple mods",
+      "affected_prototypes": [
+        "technology.rocket-silo"
+      ],
+      "conflicting_mods": [
+        "base",
+        "bobelectronics"
+      ],
+      "root_cause": "Multiple mods modify the same technology",
+      "suggested_fixes": [
+        "Review modification order",
+        "Create compatibility patch",
+        "Use conditional modifications"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_FAST-INSERTER",
+      "severity": "high",
+      "title": "Missing Dependencies: fast-inserter",
+      "description": "Recipe fast-inserter has missing dependencies: inserter",
+      "affected_prototypes": [
+        "recipe.fast-inserter"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: inserter",
+      "suggested_fixes": [
+        "Add missing dependencies: inserter"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_FAST-TRANSPORT-BELT",
+      "severity": "high",
+      "title": "Missing Dependencies: fast-transport-belt",
+      "description": "Recipe fast-transport-belt has missing dependencies: transport-belt",
+      "affected_prototypes": [
+        "recipe.fast-transport-belt"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: transport-belt",
+      "suggested_fixes": [
+        "Add missing dependencies: transport-belt"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_EXPRESS-TRANSPORT-BELT",
+      "severity": "high",
+      "title": "Missing Dependencies: express-transport-belt",
+      "description": "Recipe express-transport-belt has missing dependencies: fast-transport-belt, lubricant",
+      "affected_prototypes": [
+        "recipe.express-transport-belt"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: fast-transport-belt, lubricant",
+      "suggested_fixes": [
+        "Add missing dependencies: fast-transport-belt, lubricant"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_UNDERGROUND-BELT",
+      "severity": "high",
+      "title": "Missing Dependencies: underground-belt",
+      "description": "Recipe underground-belt has missing dependencies: transport-belt",
+      "affected_prototypes": [
+        "recipe.underground-belt"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: transport-belt",
+      "suggested_fixes": [
+        "Add missing dependencies: transport-belt"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_SPLITTER",
+      "severity": "high",
+      "title": "Missing Dependencies: splitter",
+      "description": "Recipe splitter has missing dependencies: transport-belt",
+      "affected_prototypes": [
+        "recipe.splitter"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: transport-belt",
+      "suggested_fixes": [
+        "Add missing dependencies: transport-belt"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_ELECTRONIC-CIRCUIT",
+      "severity": "high",
+      "title": "Missing Dependencies: electronic-circuit",
+      "description": "Recipe electronic-circuit has missing dependencies: copper-cable",
+      "affected_prototypes": [
+        "recipe.electronic-circuit"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: copper-cable",
+      "suggested_fixes": [
+        "Add missing dependencies: copper-cable"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_ADVANCED-CIRCUIT",
+      "severity": "high",
+      "title": "Missing Dependencies: advanced-circuit",
+      "description": "Recipe advanced-circuit has missing dependencies: plastic-bar, copper-cable",
+      "affected_prototypes": [
+        "recipe.advanced-circuit"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: plastic-bar, copper-cable",
+      "suggested_fixes": [
+        "Add missing dependencies: plastic-bar, copper-cable"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_PROCESSING-UNIT",
+      "severity": "high",
+      "title": "Missing Dependencies: processing-unit",
+      "description": "Recipe processing-unit has missing dependencies: sulfuric-acid",
+      "affected_prototypes": [
+        "recipe.processing-unit"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: sulfuric-acid",
+      "suggested_fixes": [
+        "Add missing dependencies: sulfuric-acid"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_ADVANCED-ELECTRONICS",
+      "severity": "high",
+      "title": "Missing Dependencies: advanced-electronics",
+      "description": "Technology advanced-electronics has missing dependencies: plastics",
+      "affected_prototypes": [
+        "technology.advanced-electronics"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: plastics",
+      "suggested_fixes": [
+        "Add missing dependencies: plastics"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_ADVANCED-ELECTRONICS-2",
+      "severity": "high",
+      "title": "Missing Dependencies: advanced-electronics-2",
+      "description": "Technology advanced-electronics-2 has missing dependencies: sulfur-processing",
+      "affected_prototypes": [
+        "technology.advanced-electronics-2"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Required dependencies not found: sulfur-processing",
+      "suggested_fixes": [
+        "Add missing dependencies: sulfur-processing"
+      ]
+    },
+    {
+      "issue_id": "MISSING_DEPS_ROCKET-SILO",
+      "severity": "high",
+      "title": "Missing Dependencies: rocket-silo",
+      "description": "Technology rocket-silo has missing dependencies: concrete, rocket-fuel",
+      "affected_prototypes": [
+        "technology.rocket-silo"
+      ],
+      "conflicting_mods": [
+        "base",
+        "bobelectronics"
+      ],
+      "root_cause": "Required dependencies not found: concrete, rocket-fuel",
+      "suggested_fixes": [
+        "Add missing dependencies: concrete, rocket-fuel"
+      ]
+    },
+    {
+      "issue_id": "BROKEN_CHAIN_advanced-electronics",
+      "severity": "high",
+      "title": "Broken Research Chain: advanced-electronics",
+      "description": "Technology advanced-electronics is unreachable due to missing prerequisites: plastics",
+      "affected_prototypes": [
+        "technology.advanced-electronics"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Missing prerequisite technologies: plastics",
+      "suggested_fixes": [
+        "Add missing prerequisite technologies: plastics"
+      ]
+    },
+    {
+      "issue_id": "BROKEN_CHAIN_advanced-electronics-2",
+      "severity": "high",
+      "title": "Broken Research Chain: advanced-electronics-2",
+      "description": "Technology advanced-electronics-2 is unreachable due to missing prerequisites: sulfur-processing",
+      "affected_prototypes": [
+        "technology.advanced-electronics-2"
+      ],
+      "conflicting_mods": [
+        "base"
+      ],
+      "root_cause": "Missing prerequisite technologies: sulfur-processing",
+      "suggested_fixes": [
+        "Add missing prerequisite technologies: sulfur-processing"
+      ]
+    },
+    {
+      "issue_id": "BROKEN_CHAIN_rocket-silo",
+      "severity": "high",
+      "title": "Broken Research Chain: rocket-silo",
+      "description": "Technology rocket-silo is unreachable due to missing prerequisites: concrete, rocket-fuel",
+      "affected_prototypes": [
+        "technology.rocket-silo"
+      ],
+      "conflicting_mods": [
+        "base",
+        "bobelectronics"
+      ],
+      "root_cause": "Missing prerequisite technologies: concrete, rocket-fuel",
+      "suggested_fixes": [
+        "Add missing prerequisite technologies: concrete, rocket-fuel"
+      ]
+    }
+  ],
+  "patches": []
+}

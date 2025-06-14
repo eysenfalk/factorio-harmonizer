@@ -310,6 +310,12 @@ class DependencyAnalyzer:
                 self.prototype_analyses[prototype_key].issues.extend(issues)
             
             self.all_issues.extend(issues)
+        
+        # Detect missing dependency conflicts
+        self._detect_missing_dependency_conflicts()
+        
+        # Detect broken research chains
+        self._detect_broken_research_chains()
     
     def _analyze_prototype_conflict(self, prototype_key: str, conflicting_mods: List[str]) -> List[ConflictIssue]:
         """Analyze a specific prototype conflict"""
@@ -571,6 +577,101 @@ end
         # This would create alternative recipes or resource processing chains
         # Implementation depends on specific conflict details
         return None
+    
+    def _detect_missing_dependency_conflicts(self) -> None:
+        """Detect conflicts caused by missing dependencies."""
+        self.logger.info("Detecting missing dependency conflicts...")
+        
+        for key, analysis in self.prototype_analyses.items():
+            if analysis.missing_dependencies:
+                prototype_type, prototype_name = parse_prototype_key(key)
+                
+                # Create conflict for missing dependencies
+                missing_deps = [dep.target_name for dep in analysis.missing_dependencies]
+                
+                conflict = ConflictIssue(
+                    issue_id=f"MISSING_DEPS_{prototype_name.upper()}",
+                    severity=ConflictSeverity.HIGH,
+                    title=f"Missing Dependencies: {prototype_name}",
+                    description=f"{prototype_type.title()} {prototype_name} has missing dependencies: {', '.join(missing_deps)}",
+                    affected_prototypes=[key],
+                    conflicting_mods=analysis.modifying_mods,
+                    root_cause=f"Required dependencies not found: {', '.join(missing_deps)}",
+                    suggested_fixes=[f"Add missing dependencies: {', '.join(missing_deps)}"]
+                )
+                self.all_issues.append(conflict)
+                self.logger.info(f"Created missing dependency conflict for {key}")
+
+    def _detect_broken_research_chains(self) -> None:
+        """Detect research chains that have been broken by mod modifications."""
+        self.logger.info("Detecting broken research chains...")
+        
+        # Build a map of what technologies are reachable from the base game
+        reachable_techs = set()
+        
+        # Get all technology prototypes and their dependencies
+        tech_dependencies = {}
+        for key, history in self.tracker.prototype_histories.items():
+            prototype_type, prototype_name = parse_prototype_key(key)
+            if prototype_type == "technology":
+                # Get dependencies from our dependency graph
+                deps = self.dependency_graph.get(key, [])
+                prereqs = [dep.target_name for dep in deps 
+                          if dep.dependency_type == DependencyType.TECHNOLOGY_PREREQUISITE]
+                tech_dependencies[prototype_name] = prereqs
+        
+        # Start with technologies that have no prerequisites (base techs)
+        tech_queue = []
+        for tech_name, prereqs in tech_dependencies.items():
+            if not prereqs:
+                tech_queue.append(tech_name)
+                reachable_techs.add(tech_name)
+        
+        # BFS to find all reachable technologies
+        while tech_queue:
+            current_tech = tech_queue.pop(0)
+            
+            # Find technologies that depend on this one
+            for tech_name, prereqs in tech_dependencies.items():
+                if tech_name not in reachable_techs:
+                    # Check if all prerequisites are reachable
+                    all_prereqs_reachable = True
+                    for prereq in prereqs:
+                        if prereq not in reachable_techs:
+                            all_prereqs_reachable = False
+                            break
+                    
+                    if all_prereqs_reachable:
+                        tech_queue.append(tech_name)
+                        reachable_techs.add(tech_name)
+        
+        # Find technologies that should be reachable but aren't
+        for tech_name, prereqs in tech_dependencies.items():
+            if tech_name not in reachable_techs:
+                # This technology is unreachable - create a conflict
+                missing_prereqs = []
+                for prereq in prereqs:
+                    if prereq not in tech_dependencies:
+                        missing_prereqs.append(prereq)
+                
+                if missing_prereqs:
+                    # Get the prototype history to find which mods modified it
+                    tech_key = create_prototype_key("technology", tech_name)
+                    history = self.tracker.prototype_histories.get(tech_key)
+                    affected_mods = [record.mod_name for record in history.modifications] if history else []
+                    
+                    conflict = ConflictIssue(
+                        issue_id=f"BROKEN_CHAIN_{tech_name}",
+                        severity=ConflictSeverity.HIGH,
+                        title=f"Broken Research Chain: {tech_name}",
+                        description=f"Technology {tech_name} is unreachable due to missing prerequisites: {', '.join(missing_prereqs)}",
+                        affected_prototypes=[f"technology.{tech_name}"],
+                        conflicting_mods=affected_mods,
+                        root_cause=f"Missing prerequisite technologies: {', '.join(missing_prereqs)}",
+                        suggested_fixes=[f"Add missing prerequisite technologies: {', '.join(missing_prereqs)}"]
+                    )
+                    self.all_issues.append(conflict)
+                    self.logger.info(f"Created broken research chain conflict for technology.{tech_name}")
 
 # Test functions
 def test_dependency_analyzer():

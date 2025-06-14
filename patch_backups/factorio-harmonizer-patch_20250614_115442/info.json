@@ -1,0 +1,10 @@
+{
+  "name": "factorio-harmonizer-patch",
+  "version": "1.0.0",
+  "title": "Factorio Harmonizer Compatibility Patch",
+  "author": "Factorio Harmonizer",
+  "description": "Auto-generated compatibility patch resolving 3 conflicts",
+  "dependencies": [
+    "base"
+  ]
+}

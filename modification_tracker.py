@@ -317,7 +317,7 @@ def test_modification_tracker():
     print("\n✅ ModificationTracker tests complete!")
     return tracker
 
-def test_with_real_mods():
+def test_with_real_mods(target_mods: List[str] = None):
     """Test with real Factorio mods"""
     print("\n🎮 Testing with real Factorio mods...")
     
@@ -332,9 +332,15 @@ def test_with_real_mods():
     discovery = ModDiscovery(factorio_mods_path)
     mods = discovery.discover_mods()
     
-    # Filter to just the mods we're interested in
-    target_mods = ["lignumis", "Krastorio2-spaced-out"]
-    filtered_mods = [mod for mod in mods if any(target in mod.name for target in target_mods)]
+    # Filter to just the mods we're interested in (default to lignumis and Krastorio2 for backward compatibility)
+    if target_mods is None:
+        target_mods = ["lignumis", "Krastorio2-spaced-out"]
+    
+    if target_mods:
+        filtered_mods = [mod for mod in mods if any(target in mod.name for target in target_mods)]
+    else:
+        # If no target mods specified, use all mods (but limit for performance)
+        filtered_mods = mods[:10]  # Limit to first 10 mods for testing
     
     print(f"Found {len(filtered_mods)} target mods:")
     for mod in filtered_mods:
@@ -461,5 +467,13 @@ if __name__ == "__main__":
     # Run basic tests first
     tracker = test_modification_tracker()
     
-    # Then test with real mods
-    test_with_real_mods()
+    # Then test with real mods (can now specify custom target mods)
+    import sys
+    if len(sys.argv) > 1:
+        # Allow specifying target mods from command line
+        target_mods = sys.argv[1:]
+        print(f"Using command line target mods: {target_mods}")
+        test_with_real_mods(target_mods)
+    else:
+        # Default behavior
+        test_with_real_mods()

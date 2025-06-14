@@ -1,0 +1,98 @@
+{
+  "nodes": [
+    {
+      "id": "item.iron-plate",
+      "label": "iron-plate",
+      "type": "item",
+      "color": "#4CAF50",
+      "size": 22,
+      "conflicted": false,
+      "mods": [
+        "base"
+      ],
+      "issues": 0
+    },
+    {
+      "id": "item.wood",
+      "label": "wood",
+      "type": "item",
+      "color": "#4CAF50",
+      "size": 22,
+      "conflicted": false,
+      "mods": [
+        "base"
+      ],
+      "issues": 0
+    },
+    {
+      "id": "recipe.burner-inserter",
+      "label": "burner-inserter",
+      "type": "recipe",
+      "color": "#FF0000",
+      "size": 51,
+      "conflicted": true,
+      "mods": [
+        "base",
+        "lignumis-assets",
+        "lignumis"
+      ],
+      "issues": 1
+    },
+    {
+      "id": "technology.automation",
+      "label": "automation",
+      "type": "technology",
+      "color": "#4CAF50",
+      "size": 22,
+      "conflicted": false,
+      "mods": [
+        "base"
+      ],
+      "issues": 0
+    },
+    {
+      "id": "item.wood-gear-wheel",
+      "label": "wood-gear-wheel",
+      "type": "item",
+      "color": "#FFCC00",
+      "size": 34,
+      "conflicted": true,
+      "mods": [
+        "lignumis-assets",
+        "lignumis"
+      ],
+      "issues": 1
+    },
+    {
+      "id": "technology.wood-processing",
+      "label": "wood-processing",
+      "type": "technology",
+      "color": "#FF6600",
+      "size": 34,
+      "conflicted": true,
+      "mods": [
+        "lignumis-assets",
+        "lignumis"
+      ],
+      "issues": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "technology.automation",
+      "target": "recipe.burner-inserter",
+      "type": "tech_unlock",
+      "required": true,
+      "color": "#808080",
+      "width": 2
+    },
+    {
+      "source": "technology.wood-processing",
+      "target": "technology.automation",
+      "type": "tech_prereq",
+      "required": true,
+      "color": "#808080",
+      "width": 2
+    }
+  ]
+}
